@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://m-hirokawa.github.com/sitemap.xml 
