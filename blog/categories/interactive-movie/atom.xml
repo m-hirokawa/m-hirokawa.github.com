@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interactive movie | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/interactive-movie/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-16T23:30:09+09:00</updated>
+  <updated>2013-03-16T23:30:35+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -22,8 +22,8 @@
 
 <p>2008年に制作したスクリーンセーバーです。</p>
 
-<p>-<a href="http://dolice.net/php/dlc/dlcount.php?fname=apobiosisInstaller.exe&amp;dir=/mathobj/apobiosis/">Windows版</a>
--<a href="http://dolice.net/php/dlc/dlcount.php?fname=apobiosis.zip&amp;dir=/mathobj/apobiosis/">Mac版</a></p>
+<p><em><a href="http://dolice.net/php/dlc/dlcount.php?fname=apobiosisInstaller.exe&amp;dir=/mathobj/apobiosis/">Windows版</a>
+</em><a href="http://dolice.net/php/dlc/dlcount.php?fname=apobiosis.zip&amp;dir=/mathobj/apobiosis/">Mac版</a></p>
 
 <p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
