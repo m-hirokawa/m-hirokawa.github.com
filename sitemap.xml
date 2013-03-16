@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://m-hirokawa.github.com/blog/2013/03/16/ich-bedanke-mich-recht-herzlich-jill-aus-japan/
+        </loc>
+        <lastmod>2013-03-16T23:14:55+09:00</lastmod>
+    </url>
+    <url>
         <loc>http://m-hirokawa.github.com/blog/archives/</loc>
-        <lastmod>2013-03-16T23:03:33+09:00</lastmod>
+        <lastmod>2013-03-16T23:14:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://m-hirokawa.github.com/</loc>
-        <lastmod>2013-03-16T23:03:33+09:00</lastmod>
+        <lastmod>2013-03-16T23:14:55+09:00</lastmod>
     </url>
 </urlset>
