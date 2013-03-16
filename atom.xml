@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-16T23:19:30+09:00</updated>
+  <updated>2013-03-16T23:26:10+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Screensaver: Assiah]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/16/screensaver-assiah/"/>
+    <updated>2013-03-16T23:20:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/16/screensaver-assiah</id>
+    <content type="html"><![CDATA[<p><a href="http://dolice.net/images/thumb/assiah.jpg" title="Assiah">Assiah</a></p>
+
+<p>2008年に制作したスクリーンセーバーです。</p>
+
+<h2>Mac版</h2>
+
+<p>http://dolice.net/php/dlc/dlcount.php?fname=apobiosis.zip&amp;dir=/mathobj/apobiosis/</p>
+
+<h2>Windows版</h2>
+
+<p>http://dolice.net/php/dlc/dlcount.php?fname=apobiosisInstaller.exe&amp;dir=/mathobj/apobiosis/</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+</pre></td><td class='code'><pre><code class='actionscript'><span class='line'><span class="kd">function</span> <span class="nx">duplicateObj</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>  <span class="nx">max</span> <span class="o">=</span> <span class="mi">200</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">limit</span> <span class="o">=</span> <span class="mi">4</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">a</span><span class="o">++;</span>
+</span><span class='line'>  <span class="nx">i</span><span class="o">++;</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">.</span><span class="nx">attachMovie</span><span class="p">(</span><span class="s2">&quot;unit&quot;</span><span class="o">,</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="o">,</span><span class="nx">i</span><span class="p">);</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="nx">_y</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">cos</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mi">200</span><span class="o">-</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sqrt</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">*</span><span class="mi">30</span><span class="p">)</span><span class="o">+</span><span class="nb">Math</span><span class="p">.</span><span class="nx">cos</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">+</span><span class="nb">Stage</span><span class="p">.</span><span class="nx">height</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="nx">_x</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">sin</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mi">200</span><span class="o">-</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sqrt</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">*</span><span class="mi">30</span><span class="p">)</span><span class="o">+</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sin</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">+</span><span class="nb">Stage</span><span class="p">.</span><span class="nx">width</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="nx">_rotation</span> <span class="o">=</span> <span class="nx">i</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="nx">_yscale</span> <span class="o">=</span> <span class="nx">i</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="nx">_xscale</span> <span class="o">=</span> <span class="nx">i</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+</span><span class='line'>  <span class="nx">_root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="p">(</span><span class="nx">a</span><span class="o">-</span><span class="nx">max</span><span class="p">)].</span><span class="nx">removeMovieClip</span><span class="p">();</span>
+</span><span class='line'>  <span class="k">if</span> <span class="p">(</span><span class="nx">a</span><span class="o">&gt;</span><span class="nx">max</span><span class="o">*</span><span class="nx">times</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>    <span class="nx">a</span> <span class="o">=</span> <span class="nx">i</span><span class="o">=</span><span class="mi">0</span><span class="o">;</span>
+</span><span class='line'>    <span class="nx">times</span><span class="o">&lt;</span><span class="nx">limit</span> <span class="o">?</span> <span class="nx">times</span><span class="o">++</span> <span class="o">:</span> <span class="nx">times</span><span class="o">=</span><span class="mi">0</span><span class="o">;</span>
+</span><span class='line'>    <span class="nx">duplicateObj</span><span class="p">();</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ich bedanke mich recht herzlich. Jill aus Japan]]></title>
