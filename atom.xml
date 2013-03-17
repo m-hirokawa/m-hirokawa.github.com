@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T17:31:49+09:00</updated>
+  <updated>2013-03-17T17:32:49+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -16,21 +16,15 @@
   <entry>
     <title type="html"><![CDATA[GitHub]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-studio-cimmaron/"/>
-    <updated>2013-03-17T17:26:00+09:00</updated>
+    <updated>2013-03-17T17:32:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-studio-cimmaron</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/happy_ticket.jpg" alt="" /></p>
 
-<p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
+<p><a href="http://cimarroncreative.info/?p=1121#more-1121">Studio Cimarron</a>という海外サイトに CG紹介いただきました。</p>
 
-<p><strong><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a></strong></p>
+<p>deviantARTというポータルサイト経由で知っていただいたようなのですが、更新が停止している現在でも毎日200人近くの方が国内外から見に来てくださるので、有り難く思っています。何か思いついたらもっと良いものを作ります。</p>
 
-<ul>
-<li><a href="https://github.com/masakihirokawa/screensavers/">Screensavers</a></li>
-<li><a href="https://github.com/masakihirokawa/wallpapers/">Wallpapers</a></li>
-<li><a href="https://github.com/masakihirokawa/js/">JavaScript Library</a></li>
-<li><a href="https://github.com/masakihirokawa/as3/">ActionScript 3.0 Library</a></li>
-</ul>
-
+<p><a href="http://cimarroncreative.info/?p=1121#more-1121">Studio Cimarron / Masaki Hirokawa</a></p>
 ]]></content>
   </entry>
   
