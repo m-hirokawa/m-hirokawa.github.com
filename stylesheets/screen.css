@@ -12,12 +12,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 */
 
-/*
 @font-face {
   font-family: 'Futura Md';
   src: url('http://dolice.net/common/fonts/FtraMd.ttf');
 }
-*/
 
 ul li {
   padding: 0 0 6px 0;
@@ -33,8 +31,8 @@ ul li {
   }
   
   #hero-inner h2 {
-    margin: -12px 0 0 0;
-    font-size: 20px;
+    margin: -15px 0 0 0;
+    font-size: 19px;
     letter-spacing: 1px !important;
   }
   
@@ -46,7 +44,7 @@ h2 {
   /*
   font-family: 'Adobe Garamond Pro';
   */
-  font-family: 'Perpetua Titling';
+  font-family: 'Futura Md';
 }
 
 p {
