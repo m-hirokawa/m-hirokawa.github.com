@@ -13,11 +13,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 ul li {
-  padding: 0 0 4px 0;
+  padding: 0 0 6px 0;
 }
 
 #hero-inner {
-  margin: 128px 0 0 25%;
+  margin: 128px 0 0 48px;
 }
 
   #hero-inner h1 {
