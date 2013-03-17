@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:23:49+09:00</updated>
+  <updated>2013-03-17T16:25:29+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,13 +14,31 @@
 
   
   <entry>
+    <title type="html"><![CDATA[El]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-el/"/>
+    <updated>2013-03-17T16:24:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-el</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/el/el_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/el/">英題:“El” / 邦題:「折り鶴と白い猫」 / Jun 2009 / 630×420</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=el">http://dolice.net/wallpaper/?id=el</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Maldoror]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror/"/>
     <updated>2013-03-17T16:23:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/maldoror/maldoror_72dpi.jpg" alt="" /></p>
 
-<p><a href="http://dolice.net/graphic/maldoror/">英題:“Nyx” / 邦題:「夜目」 / May 2009 / 420×297</a></p>
+<p><a href="http://dolice.net/graphic/maldoror/">英題:“Maldoror” / 邦題:「140年後のマルドロール」 / May 2009 / 594×488</a></p>
 
 <h3>壁紙ダウンロード</h3>
 
@@ -68,17 +86,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hirume/hirume_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/hirume/">英題:“Hirume” / 邦題:「日女」 / May 2009 / 420×594</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ajita]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-ajita/"/>
-    <updated>2013-03-17T16:15:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-ajita</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/ajita/ajita_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/ajita/">英題:“Ajita” / 邦題:「幽体の論理」 / May 2009 / 297×420</a></p>
 ]]></content>
   </entry>
   

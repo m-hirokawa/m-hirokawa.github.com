@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:23:49+09:00</updated>
+  <updated>2013-03-17T16:25:29+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,13 +14,31 @@
 
   
   <entry>
+    <title type="html"><![CDATA[El]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-el/"/>
+    <updated>2013-03-17T16:24:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-el</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/el/el_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/el/">英題:“El” / 邦題:「折り鶴と白い猫」 / Jun 2009 / 630×420</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=el">http://dolice.net/wallpaper/?id=el</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Maldoror]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror/"/>
     <updated>2013-03-17T16:23:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/maldoror/maldoror_72dpi.jpg" alt="" /></p>
 
-<p><a href="http://dolice.net/graphic/maldoror/">英題:“Nyx” / 邦題:「夜目」 / May 2009 / 420×297</a></p>
+<p><a href="http://dolice.net/graphic/maldoror/">英題:“Maldoror” / 邦題:「140年後のマルドロール」 / May 2009 / 594×488</a></p>
 
 <h3>壁紙ダウンロード</h3>
 
@@ -471,19 +489,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/icon.jpg" alt="" /></p>
 
 <p>天より給わり記憶に愛でられ赤子より以前から腹の底に永住してきたもの。呪詛ではなくささやかな祈りとして心の奥深くたしかに息づいているもの。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Claustro]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-claustro/"/>
-    <updated>2013-03-17T14:48:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-claustro</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/claustro.jpg" alt="" /></p>
-
-<p>久しぶりにグラフィックを作ってみました。最近は空を眺めながら歩いて近所のSEIYUまで買い物に行くのが楽しみなのですが、閉じた世界から想像する夢とか希望とか幻想とか、強いて言えば冬の寝室の窓の外に遊園地の幻を見る子供の感覚みたいなものを表現したかったんだと思います。</p>
-
-<p>今年はなんだか仕事ばかりしていて、時間を有効に使えていないのもあり、このまま器用貧乏で終わってしまってよいのだろうかと悩むこともあります。でも、そんな折にたまたま読んだ『NHK 知るを楽しむ 私のこだわり人物伝』で四谷シモン氏が文章を書いており、その中に &#8220;芸術なら一発屋でもいいだろう。だけど、自分は職人だ。毎日コツコツやるんだ&#8221; との一文があって、胸を打たれたと同時に、なぜか励まされた気持ちになりました。</p>
 ]]></content>
   </entry>
   
