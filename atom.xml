@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T14:21:30+09:00</updated>
+  <updated>2013-03-17T14:24:19+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -25,6 +25,25 @@
 <p>富山県の朝日町にある常光寺というお寺の公式サイトを制作しました。</p>
 
 <p>とてもよい経験をさせていただきました。ありがとうございます。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Digitalthreadにサイトを掲載いただきました]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/website-digitalthread/"/>
+    <updated>2013-03-17T14:19:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/website-digitalthread</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/upload/digitalthread_scr.jpg" title="Digitalthread" alt="Digitalthread" /></p>
+
+<p>海外のデザインサイトを網羅したリンクポータル、<a href="http://www.digitalthread.com/">Digitalthread</a>にサイトが紹介されています。国外ユーザーの視点にも興味がありましたので、こういった機会はとても有難いです。日本のサイトも他にいくつかエントリーされています。</p>
+
+<p>Digitalthreadは90年代から世界中のウェブデザインを紹介し続けており、当時デザインポータルにしてはユニークなロゴと配色が印象的でしたが、現在はブログに見られるCMS機能を取り入れ、ユニバーサルなデザインに変化を遂げているようです。</p>
+
+<p>ウェブデザインの理想の形を模索する黎明期を過ぎてからは、リッチコンテンツによる視覚や聴覚に直接訴える表現のサイトと、構造や細部に手間を費やす巧みさを特徴としたサイトの二手に分かれました。自分は最近もっと好きに作りたいと思っています。</p>
+
+<p><a href="http://digitalthread.com/designcompanies/international_portfolios/obelisk_masak.php">design companies : international portfolios</a></p>
+
+<p><a href="http://digitalthread.com/">Digitalthread</a></p>
 ]]></content>
   </entry>
   
