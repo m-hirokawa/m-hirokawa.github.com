@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T17:02:06+09:00</updated>
+  <updated>2013-03-17T17:02:39+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -24,11 +24,12 @@
 
 <h3>壁紙ダウンロード</h3>
 
-<p><a href="http://dolice.net/v7/images/wallpaper/iPhone5/heimatlos_640_1136.jpg">iPhone5壁紙</a></p>
+<ul>
+<li><a href="http://dolice.net/v7/images/wallpaper/iPhone5/heimatlos_640_1136.jpg">iPhone5壁紙</a></li>
+<li><a href="http://dolice.net/v7/images/wallpaper/iPhone/heimatlos_640_960.jpg">iPhone壁紙</a></li>
+<li><a href="http://dolice.net/v7/images/wallpaper/iPad/heimatlos_1024_1024.jpg">iPad壁紙</a></li>
+</ul>
 
-<p><a href="http://dolice.net/v7/images/wallpaper/iPhone/heimatlos_640_960.jpg">iPhone壁紙</a></p>
-
-<p><a href="http://dolice.net/v7/images/wallpaper/iPad/heimatlos_1024_1024.jpg">iPad壁紙</a></p>
 ]]></content>
   </entry>
   
@@ -43,11 +44,12 @@
 
 <h3>壁紙ダウンロード</h3>
 
-<p><a href="http://dolice.net/v7/images/wallpaper/iPhone5/hesychasm_640_1136.jpg">iPhone5壁紙</a></p>
+<ul>
+<li><a href="http://dolice.net/v7/images/wallpaper/iPhone5/hesychasm_640_1136.jpg">iPhone5壁紙</a></li>
+<li><a href="http://dolice.net/v7/images/wallpaper/iPhone/hesychasm_640_960.jpg">iPhone壁紙</a></li>
+<li><a href="http://dolice.net/v7/images/wallpaper/iPad/hesychasm_1024_1024.jpg">iPad壁紙</a></li>
+</ul>
 
-<p><a href="http://dolice.net/v7/images/wallpaper/iPhone/hesychasm_640_960.jpg">iPhone壁紙</a></p>
-
-<p><a href="http://dolice.net/v7/images/wallpaper/iPad/hesychasm_1024_1024.jpg">iPad壁紙</a></p>
 ]]></content>
   </entry>
   
