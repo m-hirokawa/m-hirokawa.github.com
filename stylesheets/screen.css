@@ -12,6 +12,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   src: url('http://dolice.net/common/fonts/PERTILI.TTF');
 }
 
+ul li {
+  padding: 0 0 6px 0;
+}
+
 #hero-inner {
   margin: 128px 0 0 48px;
 }
