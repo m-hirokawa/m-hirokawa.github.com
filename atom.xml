@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T14:27:50+09:00</updated>
+  <updated>2013-03-17T14:29:53+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[「真宗大谷派 富山教区・富山別院」公式サイト制作]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/website-thb/"/>
+    <updated>2013-03-17T14:28:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/website-thb</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/thb.jpg" title="真宗大谷派 富山教区・富山別院" alt="真宗大谷派 富山教区・富山別院" /></p>
+
+<p><a href="http://toyama.higashibetsuin.com/">真宗大谷派 富山教区・富山別院</a></p>
+
+<p><a href="http://toyama.higashibetsuin.com/home.php">ホーム | 真宗大谷派 富山教区・富山別院</a></p>
+
+<p><a href="http://toyama.higashibetsuin.com/mb/">携帯版 | 真宗大谷派 富山教区・富山別院</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iPad/iPhone/iPod touch用の壁紙配布を始めました]]></title>
