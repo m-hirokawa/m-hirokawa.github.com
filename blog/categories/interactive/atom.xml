@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interactive | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/interactive/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:40:05+09:00</updated>
+  <updated>2013-03-17T13:42:06+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -53,7 +53,7 @@
 <p><strong>JAGDAインタラクティブムービー: WEB最適化用</strong></p>
 
 <ul>
-<li>http://dolice.net/mathobj/jagda/</li>
+<li>(http://dolice.net/mathobj/jagda/)</li>
 </ul>
 
 
@@ -63,31 +63,31 @@
 
 <p><strong>【ムービー操作方法】 by 廣川</strong></p>
 
-<blockquote><p>数字キー[1]:  青色のラインを生成
-数字キー[2]:  黄色のラインを生成
-数字キー[3]:  赤色のラインを生成
-Space:        古いラインを削除
-Shift:        背景ムービーの切り替え
-Control:  一時停止
-↑カーソル:  生成されるラインを増やす
+<blockquote><p>数字キー[1]:  青色のラインを生成<br />
+数字キー[2]:  黄色のラインを生成<br />
+数字キー[3]:  赤色のラインを生成<br />
+Space:        古いラインを削除<br />
+Shift:        背景ムービーの切り替え<br />
+Control:  一時停止<br />
+↑カーソル:  生成されるラインを増やす<br />
 ↓カーソル:  生成されるラインを減らす</p></blockquote>
 
 <p><strong>【タイポグラフィ操作方法】 by 樫本</strong></p>
 
-<blockquote><p>key A:大阪
-key S:関西
-key D:おもしろい
-key F:日本一
-key G:Another Japan
-key H:グラフィックデザイナー
-key J:JAGDA
-key K:大阪、おもしろい、日本一
-key C:クリエイティブ
+<blockquote><p>key A:大阪<br />
+key S:関西<br />
+key D:おもしろい<br />
+key F:日本一<br />
+key G:Another Japan<br />
+key H:グラフィックデザイナー<br />
+key J:JAGDA<br />
+key K:大阪、おもしろい、日本一<br />
+key C:クリエイティブ<br />
 Enter: 上記キーワードに関係した文字の表示</p>
 
-<p>→カーソルキー:
-1回目：文字表示
-2回目：ホワイトアウト
+<p>→カーソルキー:<br />
+1回目：文字表示<br />
+2回目：ホワイトアウト<br />
 3回目：エンディングを表示</p></blockquote>
 ]]></content>
   </entry>
