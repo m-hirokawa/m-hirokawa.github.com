@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:42:06+09:00</updated>
+  <updated>2013-03-17T13:43:27+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -37,15 +37,15 @@
 
 <p>日時: 2008.06.14 sat　14:20～　開会宣言時<br />　 会場: サントリーミュージアム　天保山 IMAXシアター<br />　 詳細: <a href="http://www.jagda.org/osaka/schedule/">http://www.jagda.org/osaka/schedule/</a></p>
 
-<p>【制作スタッフ】</p>
+<p>【制作スタッフ】<br /></p>
 
 <p>Creative Director<br />
-小西貴之</p>
+小西貴之<br /></p>
 
-<p>Interactive Designer
-樫本祐輝</p>
+<p>Interactive Designer<br />
+樫本祐輝<br /></p>
 
-<p>Design Engineer
+<p>Design Engineer<br />
 廣川政樹</p></blockquote>
 
 <p><img src="http://dolice.net/upload/jagda_scr2.jpg" title="JAGDA in OSAKA 2008 : Another Japan" alt="JAGDA in OSAKA 2008 : Another Japan" /></p>
@@ -53,7 +53,7 @@
 <p><strong>JAGDAインタラクティブムービー: WEB最適化用</strong></p>
 
 <ul>
-<li>(http://dolice.net/mathobj/jagda/)</li>
+<li><a href="http://dolice.net/mathobj/jagda/">http://dolice.net/mathobj/jagda/</a></li>
 </ul>
 
 
@@ -83,7 +83,7 @@ key H:グラフィックデザイナー<br />
 key J:JAGDA<br />
 key K:大阪、おもしろい、日本一<br />
 key C:クリエイティブ<br />
-Enter: 上記キーワードに関係した文字の表示</p>
+Enter: 上記キーワードに関係した文字の表示<br /></p>
 
 <p>→カーソルキー:<br />
 1回目：文字表示<br />
