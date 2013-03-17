@@ -2,12 +2,12 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 @font-face {
   font-family: 'Futura Md';
-  src: url('/font/FtraMd.ttf');
+  src: url('http://dolice.net/common/fonts/FtraMd.ttf');
 }
 
 @font-face {
   font-family: 'Perpetua Titling';
-  src: url('/font/PERTILI.TTF');
+  src: url('http://dolice.net/common/fonts/PERTILI.TTF');
 }
 
 #hero-inner h1 {
@@ -19,5 +19,5 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 #hero-inner h1, #hero-inner h2 {
-  font-family: 'Futura Md';
+  font-family: 'Futura Md' !important;
 }
