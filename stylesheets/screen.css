@@ -5,17 +5,17 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   src: url('http://dolice.net/common/fonts/PERTILI.TTF');
 }
 
-/*
 @font-face {
   font-family: 'Adobe Garamond Pro';
   src: url('http://dolice.net/common/fonts/AGaramondPro-Regular_0.otf');
 }
-*/
 
+/*
 @font-face {
   font-family: 'Futura Md';
   src: url('http://dolice.net/common/fonts/FtraMd.ttf');
 }
+*/
 
 ul li {
   padding: 0 0 6px 0;
@@ -44,7 +44,6 @@ h2 {
   /*
   font-family: 'Adobe Garamond Pro';
   */
-  font-family: 'Futura Md';
 }
 
 p {
