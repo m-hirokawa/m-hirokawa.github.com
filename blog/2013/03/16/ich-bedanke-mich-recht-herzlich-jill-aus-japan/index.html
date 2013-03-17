@@ -202,6 +202,45 @@ posted in
   <div id="footer-widgets">
   <div class="container">
     <div class="row">
+  <div class="span2">
+    
+  <h2>GitHub Repos</h2>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/masakihirokawa">@masakihirokawa</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'masakihirokawa',
+            count: 10,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+
+
+  </div>
+  <div class="span2">
+    
+<h2>instagram</h2>
+<div class="instagram" data-instagram-user="dolice" data-instagram-client="0eb0853f47224affab9d29ef5a2b6f5c" data-instagram-access-token="17483028.0eb0853.462c8f380f4243efadadaf5c62d471e2"></div>
+<button id="instabutton" class="btn">more</button>
+
+
+  </div>
   <div class="span4">
     
 <h2>twitter</h2>
@@ -213,29 +252,7 @@ posted in
 
   </div>
   <div class="span4">
-    <h2>Found on</h2>
-
-<a href="https://github.com/masakihirokawa/" rel="tooltip" title="Github"><img class="social_icon" title="Github" alt="github icon" src="/images/glyphicons_381_github.png"></a>
-
-
-
-
-
-
-
-<a href="http://twitter.com/dolice" rel="tooltip" title="Twitter"><img class="social_icon" title="Twitter" alt="Twitter icon" src="/images/glyphicons_391_twitter_t.png"></a>
-
-
-
-
-
-
-
-<h2>Contact at</h2>
-<a href="mailto:masakihirokawa@gmail.com">masakihirokawa@gmail.com</a>
-
-
-<h2>Social Media</h2>
+    <h2>Social Media</h2>
 <div id="social-media-list">
   <a href="http://twitter.com/dolice" title="Twitter" class="TopUpIFrame"><img src="http://dolice.net/common/images/icons/twitter_32.png" alt="Twitter" /></a>
   <a href="http://www.facebook.com/masakihirokawa" title="Facebook" class="TopUpIFrame"><img src="http://dolice.net/common/images/icons/facebook_32.png" alt="Facebook" /></a>
