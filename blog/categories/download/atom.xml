@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:21:41+09:00</updated>
+  <updated>2013-03-17T13:27:47+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Screensaver: Longinus in Golgotha]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-longinus/"/>
+    <updated>2013-03-17T13:27:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-longinus</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/longinus.jpg" title="Longinus in Golgotha" alt="Longinus in Golgotha" /></p>
+
+<p>スクリーンセーバーを新しく作成しました。気に入られた方は下記ページのリンク先よりダウンロードしてお使いください。(<a href="http://dolice.net/mathobj/longinus/" title="ムービープレビュー">Preview</a>)
+ロンギヌスという単語がなんとなく最初に浮かんだのがきっかけで、制作の過程で花や植物が生い茂るイメージに変わっていきました。</p>
+
+<h3>ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_longinus_installer.exe&amp;dir=/mathobj/longinus/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_longinus.zip&amp;dir=/mathobj/longinus/">Mac版</a></li>
+</ul>
+
+
+<h3>ソースファイル</h3>
+
+<ul>
+<li><a href="http://dolice.net/mathobj/longinus/lig_source.zip">ダウンロード</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Screensaver: Rose in April]]></title>
@@ -174,76 +201,6 @@
 
 <ul>
 <li><a href="http://dolice.net/mathobj/yetzirah/source.zip">ダウンロード</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Screensaver: Assiah]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/16/screensaver-assiah/"/>
-    <updated>2013-03-16T23:20:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/16/screensaver-assiah</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/assiah.jpg" title="Assiah" alt="Assiah" /></p>
-
-<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/assiah/" title="ムービープレビュー">Preview</a>)</p>
-
-<h3>ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=apobiosisInstaller.exe&amp;dir=/mathobj/apobiosis/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=apobiosis.zip&amp;dir=/mathobj/apobiosis/">Mac版</a></li>
-</ul>
-
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-</pre></td><td class='code'><pre><code class='actionscript'><span class='line'><span class="kd">function</span> <span class="nx">duplicateObj</span><span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="nx">max</span> <span class="o">=</span> <span class="mi">200</span><span class="o">;</span>
-</span><span class='line'>  <span class="nx">limit</span> <span class="o">=</span> <span class="mi">4</span><span class="o">;</span>
-</span><span class='line'>  <span class="nx">a</span><span class="o">++;</span>
-</span><span class='line'>  <span class="nx">i</span><span class="o">++;</span>
-</span><span class='line'>  <span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">.</span><span class="nx">attachMovie</span><span class="p">(</span><span class="s2">&quot;unit&quot;</span><span class="o">,</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="o">,</span><span class="nx">i</span><span class="p">);</span>
-</span><span class='line'>  <span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">y</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">cos</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="p">(</span><span class="mi">200</span><span class="o">-</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sqrt</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="mi">30</span><span class="p">)</span><span class="o">+</span><span class="nb">Math</span><span class="p">.</span><span class="nx">cos</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">+</span><span class="nb">Stage</span><span class="p">.</span><span class="nx">height</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
-</span><span class='line'>  <span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">x</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">sin</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="p">(</span><span class="mi">200</span><span class="o">-</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sqrt</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="mi">30</span><span class="p">)</span><span class="o">+</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sin</span><span class="p">(</span><span class="nx">a</span><span class="p">)</span><span class="o">+</span><span class="nb">Stage</span><span class="p">.</span><span class="nx">width</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
-</span><span class='line'>  <span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">rotation</span> <span class="o">=</span> <span class="nx">i</span><span class="o">;</span>
-</span><span class='line'>  <span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">yscale</span> <span class="o">=</span> <span class="nx">i</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
-</span><span class='line'>  <span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="nx">a</span><span class="p">].</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">xscale</span> <span class="o">=</span> <span class="nx">i</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
-</span><span class='line'>  <span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">root</span><span class="p">[</span><span class="s2">&quot;unit&quot;</span><span class="o">+</span><span class="p">(</span><span class="nx">a</span><span class="o">-</span><span class="nx">max</span><span class="p">)].</span><span class="nx">removeMovieClip</span><span class="p">();</span>
-</span><span class='line'>  <span class="k">if</span> <span class="p">(</span><span class="nx">a</span><span class="o">&gt;</span><span class="nx">max</span><span class="o">*</span><span class="nx">times</span><span class="p">)</span> <span class="p">{</span><span class="o">&lt;/</span><span class="nx">p</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">pre</span><span class="o">&gt;&lt;</span><span class="nx">code</span><span class="o">&gt;</span><span class="nx">a</span> <span class="o">=</span> <span class="nx">i</span><span class="o">=</span><span class="mi">0</span><span class="o">;</span>
-</span><span class='line'><span class="nx">times</span><span class="o">&amp;</span><span class="nx">lt</span><span class="o">;</span><span class="nx">limit</span> <span class="o">?</span> <span class="nx">times</span><span class="o">++</span> <span class="o">:</span> <span class="nx">times</span><span class="o">=</span><span class="mi">0</span><span class="o">;</span>
-</span><span class='line'><span class="nx">duplicateObj</span><span class="p">();</span>
-</span><span class='line'><span class="o">&lt;/</span><span class="nx">code</span><span class="o">&gt;&lt;/</span><span class="nx">pre</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>  <span class="p">}</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<h3>ソースファイル</h3>
-
-<ul>
-<li><a href="http://dolice.net/mathobj/apobiosis/source.zip">ダウンロード</a></li>
 </ul>
 
 ]]></content>
