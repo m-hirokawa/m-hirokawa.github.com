@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:00:03+09:00</updated>
+  <updated>2013-03-17T16:03:18+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hideyo Blackmoon『blackmoon』CD Jacket]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-blackmoon/"/>
+    <updated>2013-03-17T16:01:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-blackmoon</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hideyoblackmoon/hideyoblackmoon_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/hideyoblackmoon/">Hideyo Blackmoon &#8220;blackmoon&#8221; CD Jacket</a></p>
+
+<p>DJ／ミュージシャン、Hideyo Blackmoon氏のCDアルバムジャケットです。昨年、2008年の10月に制作しました。</p>
+
+<p><a href="http://hideyo.jp/">Hideyo Blackmoon</a></p>
+
+<p><a herf="http://ibizarre.com/">Ibizarre Records</a></p>
+
+<p><a herf="http://dolice.net/magazine/">Obelisk | Magazine/Products</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.4.5 『万華鏡の覗き目』]]></title>
@@ -433,21 +452,6 @@ schedule: 2006.7/27～8/5</p></blockquote>
 <p>iPad/iPhone5/4S/4/iPod touch用の壁紙配布を始めました。お好みに合うものがあれば是非ご使用ください。</p>
 
 <p><a href="http://dolice.net/mb/">Obelisk Alternative Design</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[鹿熊山 常光寺 公式サイト制作]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/website-jyoukouji/"/>
-    <updated>2013-03-17T14:19:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/website-jyoukouji</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/jyoukouji.jpg" title="鹿熊山 常光寺 公式サイト制作" alt="鹿熊山 常光寺 公式サイト制作" /></p>
-
-<p><a href="http://www.jyoukouji.com/">鹿熊山 常光寺</a></p>
-
-<p>富山県の朝日町にある常光寺というお寺の公式サイトを制作しました。</p>
-
-<p>とてもよい経験をさせていただきました。ありがとうございます。</p>
 ]]></content>
   </entry>
   
