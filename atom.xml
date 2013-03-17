@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:26:19+09:00</updated>
+  <updated>2013-03-17T16:27:01+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Echidna]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-echidna/"/>
+    <updated>2013-03-17T16:26:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-echidna</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/echidna/echidna_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/echidna/">英題:“Echidna” / 邦題:「陰翳」 / Jun 2009 / 420×594</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hera]]></title>
@@ -479,23 +490,6 @@
 <p>このような機会を与えてくださった MdN編集部の方に、心より感謝御礼申し上げます。</p>
 
 <p><a herf="http://www.mdn.co.jp/di/articles/61/?page=17">月刊MdN 7月号(vol.171)目次</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lilit]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-lilit/"/>
-    <updated>2013-03-17T14:48:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-lilit</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/lilit.jpg" alt="" /></p>
-
-<p>色々と思うことがあり前回の反省点を踏まえて作りました。感覚を裏付けする理屈も必要ですが、言語化するしないの違いだけで、その時その時の心のありようは勝手に滲み出るものなので、単純に鋭さや力や精度だけを追求していきたいです。</p>
-
-<blockquote><p>惑わされない蛇は木の根元に巣をつくり、
-アンズー鳥はその若鳥を木の枝で育て、
-闇の娘リリスは住処を幹に作っていた</p></blockquote>
-
-<p><a href="http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AA%E3%82%B9">リリス - Wikipedia</a> より引用</p>
 ]]></content>
   </entry>
   

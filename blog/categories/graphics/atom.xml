@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:26:19+09:00</updated>
+  <updated>2013-03-17T16:27:01+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Echidna]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-echidna/"/>
+    <updated>2013-03-17T16:26:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-echidna</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/echidna/echidna_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/echidna/">英題:“Echidna” / 邦題:「陰翳」 / Jun 2009 / 420×594</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hera]]></title>
@@ -75,24 +86,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/asymmetry/asymmetry_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/asymmetry/">英題:“Asymmetry” / 邦題:「照心鏡」 / May 2009 / 594×841</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nyx]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx/"/>
-    <updated>2013-03-17T16:17:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/nyx/nyx_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/nyx/">英題:“Nyx” / 邦題:「夜目」 / May 2009 / 420×297</a></p>
-
-<h3>壁紙ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=nyx">http://dolice.net/wallpaper/?id=nyx</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
