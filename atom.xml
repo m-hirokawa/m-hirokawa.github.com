@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T17:32:49+09:00</updated>
+  <updated>2013-03-17T17:37:51+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,21 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[GitHub]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-studio-cimmaron/"/>
-    <updated>2013-03-17T17:32:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-studio-cimmaron</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/happy_ticket.jpg" alt="" /></p>
-
-<p><a href="http://cimarroncreative.info/?p=1121#more-1121">Studio Cimarron</a>という海外サイトに CG紹介いただきました。</p>
-
-<p>deviantARTというポータルサイト経由で知っていただいたようなのですが、更新が停止している現在でも毎日200人近くの方が国内外から見に来てくださるので、有り難く思っています。何か思いついたらもっと良いものを作ります。</p>
-
-<p><a href="http://cimarroncreative.info/?p=1121#more-1121">Studio Cimarron / Masaki Hirokawa</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[GitHub]]></title>
@@ -401,6 +386,24 @@
 
 <ul>
 <li><a href="http://dolice.net/wallpaper/?id=el">http://dolice.net/wallpaper/?id=el</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Maldoror]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror/"/>
+    <updated>2013-03-17T16:23:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/maldoror/maldoror_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/maldoror/">英題:“Maldoror” / 邦題:「140年後のマルドロール」 / May 2009 / 594×488</a></p>
+
+<h4>壁紙ダウンロード</h4>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=maldoror">http://dolice.net/wallpaper/?id=maldoror</a></li>
 </ul>
 
 ]]></content>
