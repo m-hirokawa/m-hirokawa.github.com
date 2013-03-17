@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T15:55:36+09:00</updated>
+  <updated>2013-03-17T15:56:48+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.1.5]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-lucifer/"/>
+    <updated>2013-03-17T15:56:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-lucifer</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/collaboration/lucifer/lucifer_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/collaboration/lucifer/">Collaboration with Junichi Takahashi Vol.1.5 『Lucifer』</a></p>
+
+<p>永劫不変のものと力強さをコンセプトに、たかはし じゅんいち氏と細部の詰めや方向性について話し合いながらグラフィックをリタッチし、完成させました。</p>
+
+<p>題材的にも色彩的にも長年理想だった対象が、雑誌掲載と理想のモデル／写真をきっかけに表現出来たのが嬉しかったです。</p>
+
+<p>印刷しなければ違いが分からないエリアにも多く何層も色を重ね、想念を注いでいきました。その間に喉元から下で色々なことを考えて、ここに書くこともあったはずだけど、昨日の続きが今日という半ば催眠に近い状態で長時間に及ぶ作業だったため、一体何を考えていたのか忘れてしまいました。</p>
+
+<p>これで満足せずに今後は従来の5倍以上の時間をかけて完成の度合いを見直し、長年手元に置いていても風化せず寂しくならないものを目指したいです。</p>
+
+<p>出来上がったものを見て感謝しそれまでの己や世界を赦せる姿が本来のものだし、例えばもし仮に3年や7年人生を棒に振っていても、その間に一度だけ何かに尽くしたり会心のものが出来ればそれで良いと思っています。そういうものを作りたいです。</p>
+
+<p><a href="http://www.junichitakahashi.com/">JUNICHI TAKAHASHI Web Portfolio</a></p>
+
+<blockquote><p>写真家 たかはし じゅんいち | Junichi Takahashi</p>
+
+<p>新潟県新潟市出身。写真家・立木義浩に師事。1988年、フリーランスの写真家として独立、翌年よりNew Yorkに拠点を置く。2004年からは東京にも拠点を置き、国内活動を積極的に展開。以来NY&amp;東京の2重(住？)生活をしている。今年は活動20周年、来年は渡米20周年を迎える。</p>
+
+<p>ポートレイトを中心に、広告、音楽、ビューティー、雑誌等において幅広く活動。1995年からは世界的エンターテインメント集団「STOMP」のオフィシャルフォトグラファーを務め、Jennifer Lopez、Maxwell、Baby Face、Marc Anthonyなどミュージシャン達のCDジャケットや雑誌掲載写真を撮り下ろす。2002年2月には、坂本龍一氏によるプロジェクト「Elephantism」撮影のためにケニアへ。最近では、宮本亜門氏演出の舞台「トゥーランドット」のポスタービジュアルほか、Johnson&amp; Johnson「ワンデーアキュビュー」等の広告写真を手がける。</p>
+
+<p>1995年からのライフワークとして、NYの伝説的ホテル Chelsea hotelの住人達をはじめ、アーティスト・ポートレートの撮影は現在も続行中。撮影旅行は、ペルー、ネパール、南アフリカ、アイルランド、ケニヤ、英国、トルコ、ギリシャ、 etc. “日本在住写真家”として、“NY在住フォトグラファー”として、国境を越えた活動を展開、常に世界を移動し続けている。</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.4]]></title>
@@ -209,9 +240,9 @@
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.1.5]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-lucifer/"/>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-kaleidoscope/"/>
     <updated>2013-03-17T15:29:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-lucifer</id>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-kaleidoscope</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/collaboration/lucifer/lucifer_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/collaboration/lucifer/">Collaboration with Junichi Takahashi Vol.1.5 『Lucifer』</a></p>
@@ -419,25 +450,6 @@ schedule: 2006.7/27～8/5</p></blockquote>
 <p>富山県の朝日町にある常光寺というお寺の公式サイトを制作しました。</p>
 
 <p>とてもよい経験をさせていただきました。ありがとうございます。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Digitalthreadにサイトを掲載いただきました]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/website-digitalthread/"/>
-    <updated>2013-03-17T14:19:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/website-digitalthread</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/upload/digitalthread_scr.jpg" title="Digitalthread" alt="Digitalthread" /></p>
-
-<p>海外のデザインサイトを網羅したリンクポータル、<a href="http://www.digitalthread.com/">Digitalthread</a>にサイトが紹介されています。国外ユーザーの視点にも興味がありましたので、こういった機会はとても有難いです。日本のサイトも他にいくつかエントリーされています。</p>
-
-<p>Digitalthreadは90年代から世界中のウェブデザインを紹介し続けており、当時デザインポータルにしてはユニークなロゴと配色が印象的でしたが、現在はブログに見られるCMS機能を取り入れ、ユニバーサルなデザインに変化を遂げているようです。</p>
-
-<p>ウェブデザインの理想の形を模索する黎明期を過ぎてからは、リッチコンテンツによる視覚や聴覚に直接訴える表現のサイトと、構造や細部に手間を費やす巧みさを特徴としたサイトの二手に分かれました。自分は最近もっと好きに作りたいと思っています。</p>
-
-<p><a href="http://digitalthread.com/designcompanies/international_portfolios/obelisk_masak.php">design companies : international portfolios</a></p>
-
-<p><a href="http://digitalthread.com/">Digitalthread</a></p>
 ]]></content>
   </entry>
   
