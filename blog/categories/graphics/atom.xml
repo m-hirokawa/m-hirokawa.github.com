@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:30:51+09:00</updated>
+  <updated>2013-03-17T16:31:31+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rain]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-rain/"/>
+    <updated>2013-03-17T16:31:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-rain</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/rain/rain_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/rain/">英題:“Rain” / 邦題:「雨の日」 / Jun 2009 / 420×401</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=rain">http://dolice.net/wallpaper/?id=rain</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sarah]]></title>
@@ -82,17 +100,6 @@
 <li><a href="http://dolice.net/wallpaper/?id=loki">http://dolice.net/wallpaper/?id=loki</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Echidna]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-echidna/"/>
-    <updated>2013-03-17T16:26:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-echidna</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/echidna/echidna_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/echidna/">英題:“Echidna” / 邦題:「陰翳」 / Jun 2009 / 420×594</a></p>
 ]]></content>
   </entry>
   
