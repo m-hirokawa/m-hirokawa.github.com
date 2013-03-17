@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:29:23+09:00</updated>
+  <updated>2013-03-17T16:30:51+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sarah]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-sarah/"/>
+    <updated>2013-03-17T16:30:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-sarah</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/sarah/sarah_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/sarah/">英題:“Sarah” / 邦題:「罪」 / Jun 2009 / 440×297</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=sarah">http://dolice.net/wallpaper/?id=sarah</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Maria Magdalena]]></title>
@@ -75,24 +93,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/echidna/echidna_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/echidna/">英題:“Echidna” / 邦題:「陰翳」 / Jun 2009 / 420×594</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hera]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-hera/"/>
-    <updated>2013-03-17T16:25:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-hera</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hera/hera_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/hera/">英題:“Hera” / 邦題:「異界の嫁入り」 / Jun 2009 / 1040×594</a></p>
-
-<h3>壁紙ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=hera">http://dolice.net/wallpaper/?id=hera</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
