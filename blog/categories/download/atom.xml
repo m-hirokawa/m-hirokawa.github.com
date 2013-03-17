@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:19:45+09:00</updated>
+  <updated>2013-03-17T13:20:49+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -25,8 +25,8 @@
 <h3>ダウンロード</h3>
 
 <ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=riaInstaller.exe&amp;dir=/mathobj/ria/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ria.zip&amp;dir=/mathobj/ria/">Mac版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_ria_Installer.exe&amp;dir=/mathobj/ria/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_ria.zip&amp;dir=/mathobj/ria/">Mac版</a></li>
 </ul>
 
 
