@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:35:16+09:00</updated>
+  <updated>2013-03-17T16:37:25+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,181 +14,90 @@
 
   
   <entry>
-    <title type="html"><![CDATA[iPad/iPhone/iPod touch用の壁紙配布を始めました]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/website-obelisk-alternative-design/"/>
-    <updated>2013-03-17T14:26:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/website-obelisk-alternative-design</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/obelisk-alternative-design.jpg" title="Obelisk Alternative Design" alt="Obelisk Alternative Design" /></p>
+    <title type="html"><![CDATA[Rain]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-rain/"/>
+    <updated>2013-03-17T16:31:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-rain</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/rain/rain_72dpi.jpg" alt="" /></p>
 
-<p>iPad/iPhone5/4S/4/iPod touch用の壁紙配布を始めました。お好みに合うものがあれば是非ご使用ください。</p>
+<p><a href="http://dolice.net/graphic/rain/">英題:“Rain” / 邦題:「雨の日」 / Jun 2009 / 420×401</a></p>
 
-<p><a href="http://dolice.net/mb/">Obelisk Alternative Design</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Screensaver: Squall]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-squall/"/>
-    <updated>2013-03-17T13:52:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-squall</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/squall.jpg" title="Squall" alt="Squall" /></p>
-
-<p>強風や嵐、混沌をコンセプトに作成したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/squall/" title="ムービープレビュー">Preview</a>)</p>
-
-<h3>ダウンロード</h3>
+<h3>壁紙ダウンロード</h3>
 
 <ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_squall_installer.exe&amp;dir=/mathobj/squall/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_squall.zip&amp;dir=/mathobj/squall/">Mac版</a></li>
-</ul>
-
-
-<h3>ソースファイル</h3>
-
-<ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=source_squall.zip&amp;dir=/mathobj/squall/">ダウンロード</a></li>
+<li><a href="http://dolice.net/wallpaper/?id=rain">http://dolice.net/wallpaper/?id=rain</a></li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Screensaver: Shine]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-shine/"/>
-    <updated>2013-03-17T13:52:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-shine</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/shine.jpg" title="Shine" alt="Shine" /></p>
+    <title type="html"><![CDATA[Frigg]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-frigg/"/>
+    <updated>2013-03-17T16:31:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-frigg</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/frigg/frigg_72dpi.jpg" alt="" /></p>
 
-<p>光彩の重なりや目の錯覚をコンセプトに、CMYK+WHの5色を用いて作成したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/shine/" title="ムービープレビュー">Preview</a>)</p>
+<p><a href="http://dolice.net/graphic/frigg/">英題:“Frigg” / 邦題:「青い目の女」 / Jun 2009 / 297×446</a></p>
 
-<h3>ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_shine_installer.exe&amp;dir=/mathobj/shine/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_shine.zip&amp;dir=/mathobj/shine/">Mac版</a></li>
-</ul>
-
-
-<h3>ソースファイル</h3>
+<h3>壁紙ダウンロード</h3>
 
 <ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=source_shine.zip&amp;dir=/mathobj/shine/">ダウンロード</a></li>
+<li><a href="http://dolice.net/wallpaper/?id=frigg">http://dolice.net/wallpaper/?id=frigg</a></li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Screensaver: Longinus in Golgotha]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-longinus/"/>
-    <updated>2013-03-17T13:27:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-longinus</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/longinus.jpg" title="Longinus in Golgotha" alt="Longinus in Golgotha" /></p>
+    <title type="html"><![CDATA[Sarah]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-sarah/"/>
+    <updated>2013-03-17T16:30:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-sarah</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/sarah/sarah_72dpi.jpg" alt="" /></p>
 
-<p>スクリーンセーバーを新しく作成しました。気に入られた方は下記ページのリンク先よりダウンロードしてお使いください。(<a href="http://dolice.net/mathobj/longinus/" title="ムービープレビュー">Preview</a>)</p>
+<p><a href="http://dolice.net/graphic/sarah/">英題:“Sarah” / 邦題:「罪」 / Jun 2009 / 440×297</a></p>
 
-<p>ロンギヌスという単語がなんとなく最初に浮かんだのがきっかけで、制作の過程で花や植物が生い茂るイメージに変わっていきました。</p>
-
-<h3>ダウンロード</h3>
+<h3>壁紙ダウンロード</h3>
 
 <ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_longinus_installer.exe&amp;dir=/mathobj/longinus/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_longinus.zip&amp;dir=/mathobj/longinus/">Mac版</a></li>
-</ul>
-
-
-<h3>ソースファイル</h3>
-
-<ul>
-<li><a href="http://dolice.net/mathobj/longinus/lig_source.zip">ダウンロード</a></li>
+<li><a href="http://dolice.net/wallpaper/?id=sarah">http://dolice.net/wallpaper/?id=sarah</a></li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Screensaver: Rose in April]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-ria/"/>
-    <updated>2013-03-17T13:19:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-ria</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/ria.jpg" title="Rose in April" alt="Rose in April" /></p>
+    <title type="html"><![CDATA[Maria Magdalena]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-mariamagdalena/"/>
+    <updated>2013-03-17T16:28:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-mariamagdalena</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/mariamagdalena/mariamagdalena_72dpi.jpg" alt="" /></p>
 
-<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/ria/" title="ムービープレビュー">Preview</a>)</p>
+<p><a href="http://dolice.net/graphic/mariamagdalena/">英題:“Maria Magdalena” / 邦題:「太母原型」 / Jun 2009 / 485×297</a></p>
 
-<h3>ダウンロード</h3>
+<h3>壁紙ダウンロード</h3>
 
 <ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_ria_installer.exe&amp;dir=/mathobj/ria/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_ria.zip&amp;dir=/mathobj/ria/">Mac版</a></li>
+<li><a href="http://dolice.net/wallpaper/?id=mariamagdalena">http://dolice.net/wallpaper/?id=mariamagdalena</a></li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Beelzebub]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-beelzebub/"/>
+    <updated>2013-03-17T16:28:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-beelzebub</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/beelzebub/beelzebub_72dpi.jpg" alt="" /></p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-<span class='line-number'>29</span>
-<span class='line-number'>30</span>
-</pre></td><td class='code'><pre><code class='actionscript'><span class='line'><span class="kd">function</span> <span class="nx">init</span><span class="p">()</span> <span class="p">{</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">rscale</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="mi">5</span><span class="o">+</span><span class="mi">94</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">rrot</span> <span class="o">=</span> <span class="mf">137.5</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">attachMovie</span><span class="p">(</span><span class="s2">&quot;nug&quot;</span><span class="o">,</span><span class="s2">&quot;mothernug&quot;</span><span class="o">,</span><span class="mi">0</span><span class="p">);</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">x</span> <span class="o">=</span> <span class="nx">sw</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">y</span> <span class="o">=</span> <span class="nx">sh</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">xscale</span> <span class="o">=</span> <span class="mi">150</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">yscale</span> <span class="o">=</span> <span class="mi">150</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="nx">_rotation</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="mi">360</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="nx">depth</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span>
-</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="nx">onEnterFrame</span> <span class="o">=</span> <span class="nx">iterate</span><span class="o">;</span>
-</span><span class='line'><span class="p">}</span>
-</span><span class='line'><span class="kd">function</span> <span class="nx">iterate</span><span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="k">if</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">depth</span><span class="o">&amp;</span><span class="nx">lt</span><span class="o">;</span><span class="mi">50</span><span class="p">)</span> <span class="p">{</span><span class="o">&lt;/</span><span class="nx">p</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">pre</span><span class="o">&gt;&lt;</span><span class="nx">code</span><span class="o">&gt;</span><span class="k">var</span> <span class="nx">newnug</span><span class="o">:</span><span class="nb">MovieClip</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">attachMovie</span><span class="p">(</span><span class="s2">&quot;nug&quot;</span><span class="o">,</span> <span class="s2">&quot;newnug&quot;</span><span class="o">,</span> <span class="mi">1</span><span class="p">);</span>
-</span><span class='line'><span class="k">var</span> <span class="nx">rot</span><span class="o">:</span><span class="nb">Number</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">_rotation</span><span class="o">+</span><span class="nx">rrot</span><span class="o">;</span>
-</span><span class='line'><span class="k">var</span> <span class="nx">scale</span><span class="o">:</span><span class="nb">Number</span> <span class="o">=</span> <span class="nx">rscale</span><span class="o">;</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_x</span> <span class="o">=</span> <span class="p">(</span><span class="mi">100</span><span class="o">-</span><span class="nx">scale</span><span class="p">)</span><span class="o">*</span><span class="nb">Math</span><span class="p">.</span><span class="nx">cos</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">PI</span><span class="o">/</span><span class="mi">180</span><span class="o">*</span><span class="nx">rot</span><span class="p">);</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_y</span> <span class="o">=</span> <span class="p">(</span><span class="mi">100</span><span class="o">-</span><span class="nx">scale</span><span class="p">)</span><span class="o">*</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sin</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">PI</span><span class="o">/</span><span class="mi">180</span><span class="o">*</span><span class="nx">rot</span><span class="p">);</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_xscale</span> <span class="o">=</span> <span class="nx">scale</span><span class="o">;</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_yscale</span> <span class="o">=</span> <span class="nx">scale</span><span class="o">;</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_rotation</span> <span class="o">=</span> <span class="nx">rot</span><span class="o">;</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">depth</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">depth</span><span class="o">+</span><span class="mi">1</span><span class="o">;</span>
-</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">onEnterFrame</span> <span class="o">=</span> <span class="nx">iterate</span><span class="o">;</span>
-</span><span class='line'><span class="o">&lt;/</span><span class="nx">code</span><span class="o">&gt;&lt;/</span><span class="nx">pre</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>  <span class="p">}</span>
-</span><span class='line'>  <span class="nx">delete</span> <span class="k">this</span><span class="p">.</span><span class="nx">onEnterFrame</span><span class="o">;</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p><a href="http://dolice.net/graphic/beelzebub/">英題:“Beelzebub” / 邦題:「暗視」 / Jun 2009 / 460×297</a></p>
 
-<h3>ソースファイル</h3>
+<h3>壁紙ダウンロード</h3>
 
 <ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ria_source.zip&amp;dir=/mathobj/ria/">ダウンロード</a></li>
+<li><a href="http://dolice.net/wallpaper/?id=beelzebub">http://dolice.net/wallpaper/?id=beelzebub</a></li>
 </ul>
 
 ]]></content>
