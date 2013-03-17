@@ -12,16 +12,20 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   src: url('http://dolice.net/common/fonts/PERTILI.TTF');
 }
 
-#hero-inner h1 {
-  font-size: 50px;
+#hero-inner {
+  margin: 36px 0 0 0;
 }
 
-#hero-inner h2 {
-  margin: -12px 0 0 0;
-  font-size: 19px;
-}
-
-#hero-inner h1, #hero-inner h2 {
-  font-family: 'Perpetua Titling';
-  letter-spacing: 0 !important;
-}
+  #hero-inner h1 {
+    font-size: 50px;
+  }
+  
+  #hero-inner h2 {
+    margin: -12px 0 0 0;
+    font-size: 20px;
+  }
+  
+  #hero-inner h1, #hero-inner h2 {
+    font-family: 'Perpetua Titling';
+    letter-spacing: 0 !important;
+  }
