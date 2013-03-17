@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T17:24:07+09:00</updated>
+  <updated>2013-03-17T17:28:17+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GitHub]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/download-github/"/>
+    <updated>2013-03-17T17:26:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/download-github</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
+
+<p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
+
+<ul>
+<li><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a>
+-- <a href="https://github.com/masakihirokawa/screensavers/">GitHub: Screensavers</a>
+-- <a href="https://github.com/masakihirokawa/wallpapers/">GitHub: Wallpapers</a>
+-- <a href="https://github.com/masakihirokawa/js/">GitHub: JavaScript Library</a>
+-- <a href="https://github.com/masakihirokawa/as3/">GitHub: ActionScript 3.0 Library</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Heimatlos]]></title>
@@ -89,24 +109,6 @@
 
 <ul>
 <li><a href="http://dolice.net/wallpaper/?id=pandora">http://dolice.net/wallpaper/?id=pandora</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rain]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-rain/"/>
-    <updated>2013-03-17T16:31:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-rain</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/rain/rain_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/rain/">英題:“Rain” / 邦題:「雨の日」 / Jun 2009 / 420×401</a></p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=rain">http://dolice.net/wallpaper/?id=rain</a></li>
 </ul>
 
 ]]></content>
