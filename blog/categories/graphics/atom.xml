@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:27:01+09:00</updated>
+  <updated>2013-03-17T16:27:45+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Loki]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-loki/"/>
+    <updated>2013-03-17T16:27:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-loki</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/loki/loki_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/loki/">英題:“Loki” / 邦題:「縮地」 / Jun 2009 / 420×297</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=loki">http://dolice.net/wallpaper/?id=loki</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Echidna]]></title>
@@ -75,17 +93,6 @@
 <li><a href="http://dolice.net/wallpaper/?id=maldoror">http://dolice.net/wallpaper/?id=maldoror</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Asymmetry]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-asymmetry/"/>
-    <updated>2013-03-17T16:18:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-asymmetry</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/asymmetry/asymmetry_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/asymmetry/">英題:“Asymmetry” / 邦題:「照心鏡」 / May 2009 / 594×841</a></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:27:01+09:00</updated>
+  <updated>2013-03-17T16:27:45+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Loki]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-loki/"/>
+    <updated>2013-03-17T16:27:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-loki</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/loki/loki_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/loki/">英題:“Loki” / 邦題:「縮地」 / Jun 2009 / 420×297</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=loki">http://dolice.net/wallpaper/?id=loki</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Echidna]]></title>
@@ -471,25 +489,6 @@
 そういった隠された対象＝イデアは言葉で人に伝えようとした途端に頭の中から消え去ってしまうもので、何度目の挑戦になるか判らないが、最終的に言葉を失った時に自分を表現する媒体が必要なのだと思う。</p>
 
 <p>1人では実現不能でも、コラボレーションという形なら何らかの反応が起きて可能になるのではないだろうか。皮をめくっていけば好奇心や渇望しか残らないのかもしれないけれども。これから楽しみながら追求していきたい。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[月刊MdN 2008年7月号に掲載いただきました]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus/"/>
-    <updated>2013-03-17T14:48:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/amitaayus.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/">「amitaayus／盲覚に生きて」</a></p>
-
-<p>月刊MdN 2008年7月号、「Photoshop Making Studio」というコーナーに上記グラフィックを掲載していただきました。グラフィックを仕上げるまでの作業工程を6ページにわたり解説しています。書店にお寄りの際はぜひ手に取ってご覧ください。</p>
-
-<p>一つ一つの工程を後追いする形で原稿やスクリーンショットを用意することで、一から技術を反芻して学び直すことができました。何より、胸の裡に呼べぬ名として置きつつもずっと描きたかった対象を表現できたことをとても嬉しく思います。</p>
-
-<p>このような機会を与えてくださった MdN編集部の方に、心より感謝御礼申し上げます。</p>
-
-<p><a herf="http://www.mdn.co.jp/di/articles/61/?page=17">月刊MdN 7月号(vol.171)目次</a></p>
 ]]></content>
   </entry>
   
