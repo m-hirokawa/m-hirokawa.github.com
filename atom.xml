@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T17:30:55+09:00</updated>
+  <updated>2013-03-17T17:31:49+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -15,6 +15,27 @@
   
   <entry>
     <title type="html"><![CDATA[GitHub]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-studio-cimmaron/"/>
+    <updated>2013-03-17T17:26:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-studio-cimmaron</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
+
+<p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
+
+<p><strong><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a></strong></p>
+
+<ul>
+<li><a href="https://github.com/masakihirokawa/screensavers/">Screensavers</a></li>
+<li><a href="https://github.com/masakihirokawa/wallpapers/">Wallpapers</a></li>
+<li><a href="https://github.com/masakihirokawa/js/">JavaScript Library</a></li>
+<li><a href="https://github.com/masakihirokawa/as3/">ActionScript 3.0 Library</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GitHub]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/download-github/"/>
     <updated>2013-03-17T17:26:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/download-github</id>
@@ -22,8 +43,9 @@
 
 <p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
 
+<p><strong><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a></strong></p>
+
 <ul>
-<li><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a></li>
 <li><a href="https://github.com/masakihirokawa/screensavers/">Screensavers</a></li>
 <li><a href="https://github.com/masakihirokawa/wallpapers/">Wallpapers</a></li>
 <li><a href="https://github.com/masakihirokawa/js/">JavaScript Library</a></li>
@@ -385,24 +407,6 @@
 
 <ul>
 <li><a href="http://dolice.net/wallpaper/?id=el">http://dolice.net/wallpaper/?id=el</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maldoror]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror/"/>
-    <updated>2013-03-17T16:23:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-maldoror</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/maldoror/maldoror_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/maldoror/">英題:“Maldoror” / 邦題:「140年後のマルドロール」 / May 2009 / 594×488</a></p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=maldoror">http://dolice.net/wallpaper/?id=maldoror</a></li>
 </ul>
 
 ]]></content>
