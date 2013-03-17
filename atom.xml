@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T14:47:31+09:00</updated>
+  <updated>2013-03-17T14:48:54+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Claustro]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-claustro/"/>
+    <updated>2013-03-17T14:48:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-claustro</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/claustro.jpg" alt="" /></p>
+
+<p>久しぶりにグラフィックを作ってみました。最近は空を眺めながら歩いて近所のSEIYUまで買い物に行くのが楽しみなのですが、閉じた世界から想像する夢とか希望とか幻想とか、強いて言えば冬の寝室の窓の外に遊園地の幻を見る子供の感覚みたいなものを表現したかったんだと思います。</p>
+
+<p>今年はなんだか仕事ばかりしていて、時間を有効に使えていないのもあり、このまま器用貧乏で終わってしまってよいのだろうかと悩むこともあります。でも、そんな折にたまたま読んだ『NHK 知るを楽しむ 私のこだわり人物伝』で四谷シモン氏が文章を書いており、その中に &#8220;芸術なら一発屋でもいいだろう。だけど、自分は職人だ。毎日コツコツやるんだ&#8221; との一文があって、胸を打たれたと同時に、なぜか励まされた気持ちになりました。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mauris Anri模写]]></title>
@@ -481,32 +494,6 @@ Enter: 上記キーワードに関係した文字の表示<br /><br /></p>
 
 <ul>
 <li><a href="http://dolice.net/mathobj/briah/source.zip">ダウンロード</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Screensaver: Atziluth]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-atziluth/"/>
-    <updated>2013-03-17T13:11:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-atziluth</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/atziluth.jpg" title="Atziluth" alt="Atziluth" /></p>
-
-<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/atziluth/" title="ムービープレビュー">Preview</a>)</p>
-
-<h3>ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_atziluth_installer.exe&amp;dir=/mathobj/atziluth/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_atziluth.zip&amp;dir=/mathobj/atziluth/">Mac版</a></li>
-</ul>
-
-
-<h3>ソースファイル</h3>
-
-<ul>
-<li><a href="http://dolice.net/mathobj/atziluth/source.zip">ダウンロード</a></li>
 </ul>
 
 ]]></content>
