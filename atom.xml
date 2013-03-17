@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T14:04:33+09:00</updated>
+  <updated>2013-03-17T14:05:47+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -20,7 +20,9 @@
     <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-synapse</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/synapse.jpg" title="Synapse" alt="Synapse" /></p>
 
-<p>10000回の分裂を行った後、背景に滲んで染み込むという動作をするインタラクティブムービーです。構造体をもう1つ括ればこれを繰り返すことが可能です。(<a href="http://dolice.net/mathobj/synapse/" title="ムービープレビュー">Preview</a>)</p>
+<p>Makoto Okudaさんとのコラボレーション制作です。(<a href="http://qualia.dolice.net/synapse/" title="ムービープレビュー">Preview</a>)</p>
+
+<p>10000回の分裂を行った後、背景に滲んで染み込むという動作をするインタラクティブムービーです。構造体をもう1つ括ればこれを繰り返すことが可能です。</p>
 
 <p>シナプス、細胞分裂／細胞死、バクテリア等、タイトルを付けるまでこれらの特徴と関連性について様々なことを考えましたが、後からなら何とでも言えると思いやめにしました。</p>
 
