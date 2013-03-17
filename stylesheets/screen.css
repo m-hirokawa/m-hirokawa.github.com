@@ -53,3 +53,7 @@ p {
 .clear-left {
   clear: left;
 }
+
+.addthis {
+  margin: 12px 0;
+}
