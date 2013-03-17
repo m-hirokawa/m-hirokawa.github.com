@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:12:05+09:00</updated>
+  <updated>2013-03-17T13:14:29+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -18,7 +18,7 @@
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-briah/"/>
     <updated>2013-03-17T13:11:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-briah</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/briah.jpg" title="Assiah" alt="Assiah" /></p>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/briah.jpg" title="Briah" alt="Briah" /></p>
 
 <p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/briah/" title="ムービープレビュー">Preview</a>)</p>
 
@@ -40,11 +40,37 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Screensaver: Atziluth]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-atziluth/"/>
+    <updated>2013-03-17T13:11:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-atziluth</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/atziluth.jpg" title="Atziluth" alt="Atziluth" /></p>
+
+<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/atziluth/" title="ムービープレビュー">Preview</a>)</p>
+
+<h3>ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_atziluth_installer.exe&amp;dir=/mathobj/atziluth/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_atziluth.zip&amp;dir=/mathobj/atziluth/">Mac版</a></li>
+</ul>
+
+
+<h3>ソースファイル</h3>
+
+<ul>
+<li><a href="http://dolice.net/mathobj/atziluth/source.zip">ダウンロード</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Screensaver: Yetzirah]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/16/screensaver-yetzirah/"/>
     <updated>2013-03-16T23:20:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/16/screensaver-yetzirah</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/yetzirah.jpg" title="Assiah" alt="Assiah" /></p>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/yetzirah.jpg" title="Yetzirah" alt="Yetzirah" /></p>
 
 <p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/yetzirah/" title="ムービープレビュー">Preview</a>)</p>
 
