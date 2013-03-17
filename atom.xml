@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:28:24+09:00</updated>
+  <updated>2013-03-17T13:34:46+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JAGDA in OSAKA 2008 : Another Japan インタラクティブムービー制作]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/jagda-2008/"/>
+    <updated>2013-03-17T13:29:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/jagda-2008</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/upload/jagda_scr.jpg" title="JAGDA in OSAKA 2008 : Another Japan" alt="JAGDA in OSAKA 2008 : Another Japan" /></p>
+
+<p>大阪で開催中の日本グラフィックデザイナー協会 2008年度 全国大会、<a href="http://www.jagda.org/osaka/">「JAGDA in OSAKA 2008 : Another Japan」</a>の開会時に、プロジェクタから投影されるインタラクティブムービーを制作しました。</p>
+
+<p>会場で講演前の開会宣言をしたMCの方の脳波を測定し、その経過を上記ムービーに読み込みアニメーションに反映させるといった内容です。</p>
+
+<p>小西貴之氏監修のもと、タイポグラフィ制御部分とエンディングは樫本祐輝氏が制作、当方は背景に流れるムービーとアニメーション制御部分を担当しました。</p>
+
+<p><strong>「JAGDA in OSAKA 2008 : Another Japan」</strong></p>
+
+<ul>
+<li>http://www.jagda.org/osaka/</li>
+</ul>
+
+
+<blockquote><p>主催：社団法人日本グラフィックデザイナー協会［JAGDA］<br />　 実行：JAGDA大阪地区＆関西地域<br />　 後援：大阪府、大阪市、大阪21世紀協会、毎日新聞社、朝日新聞社、株式会社FM802</p>
+
+<p>日時: 2008.06.14 sat　14:20～　開会宣言時<br />　 会場: サントリーミュージアム　天保山 IMAXシアター<br />　 詳細: http://www.jagda.org/osaka/schedule/</p></blockquote>
+
+<p>【制作スタッフ】</p>
+
+<p>Creative Director<br />　 小西貴之<br />　 http://www.maemuki-co.jp/</p>
+
+<p>Interactive Designer<br />　 樫本祐輝<br />　 http://stid.jp/</p>
+
+<p>Design Engineer<br />　 廣川政樹<br />　 http://atziluth.jp/
+&lt;&lt;</p>
+
+<p><img src="http://dolice.net/upload/jagda_scr2.jpg" title="JAGDA in OSAKA 2008 : Another Japan" alt="JAGDA in OSAKA 2008 : Another Japan" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Screensaver: Longinus in Golgotha]]></title>
