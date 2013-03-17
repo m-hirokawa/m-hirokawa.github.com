@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:14:15+09:00</updated>
+  <updated>2013-03-17T16:15:53+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ajita]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-ajita/"/>
+    <updated>2013-03-17T16:15:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-ajita</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/ajita/ajita_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/ajita/">英題:“Ajita” / 邦題:「幽体の論理」 / May 2009 / 297×420</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Isthar]]></title>
@@ -461,17 +472,6 @@
     <updated>2013-03-17T14:39:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/kehre2</id>
     <content type="html"><![CDATA[<p><img src="http://www.atziluth.jp/myspace/dca.jpg" alt="" /></p>
-
-<p>Kehre. の12月14日「手刀」ライブのフライヤー(L2判サイズ)を制作しました。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kehre. フライヤー制作 -Part 1-]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/kehre1/"/>
-    <updated>2013-03-17T14:39:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/kehre1</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/myspace/HANA.jpg" alt="" /></p>
 
 <p>Kehre. の12月14日「手刀」ライブのフライヤー(L2判サイズ)を制作しました。</p>
 ]]></content>
