@@ -5,10 +5,12 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   src: url('http://dolice.net/common/fonts/PERTILI.TTF');
 }
 
+/*
 @font-face {
   font-family: 'Adobe Garamond Pro';
   src: url('http://dolice.net/common/fonts/AGaramondPro-Regular_0.otf');
 }
+*/
 
 /*
 @font-face {
@@ -41,7 +43,10 @@ ul li {
   }
 
 h2 {
+  /*
   font-family: 'Adobe Garamond Pro';
+  */
+  font-family: 'Perpetua Titling';
 }
 
 p {
