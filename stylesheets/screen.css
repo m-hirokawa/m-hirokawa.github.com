@@ -43,3 +43,7 @@ p {
 #about-list {
   margin: 12px 0 0 0;
 }
+
+#social-media-list a {
+  float: left;
+}
