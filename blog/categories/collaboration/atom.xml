@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: graphics | Dolice Log]]></title>
-  <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
+  <title><![CDATA[Category: collaboration | Dolice Log]]></title>
+  <link href="http://m-hirokawa.github.com/blog/categories/collaboration/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
   <updated>2013-03-17T15:39:17+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
@@ -101,53 +101,6 @@
 そういった隠された対象＝イデアは言葉で人に伝えようとした途端に頭の中から消え去ってしまうもので、何度目の挑戦になるか判らないが、最終的に言葉を失った時に自分を表現する媒体が必要なのだと思う。</p>
 
 <p>1人では実現不能でも、コラボレーションという形なら何らかの反応が起きて可能になるのではないだろうか。皮をめくっていけば好奇心や渇望しか残らないのかもしれないけれども。これから楽しみながら追求していきたい。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[月刊MdN 2008年7月号に掲載いただきました]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus/"/>
-    <updated>2013-03-17T14:48:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/amitaayus.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/">「amitaayus／盲覚に生きて」</a></p>
-
-<p>月刊MdN 2008年7月号、「Photoshop Making Studio」というコーナーに上記グラフィックを掲載していただきました。グラフィックを仕上げるまでの作業工程を6ページにわたり解説しています。書店にお寄りの際はぜひ手に取ってご覧ください。</p>
-
-<p>一つ一つの工程を後追いする形で原稿やスクリーンショットを用意することで、一から技術を反芻して学び直すことができました。何より、胸の裡に呼べぬ名として置きつつもずっと描きたかった対象を表現できたことをとても嬉しく思います。</p>
-
-<p>このような機会を与えてくださった MdN編集部の方に、心より感謝御礼申し上げます。</p>
-
-<p><a herf="http://www.mdn.co.jp/di/articles/61/?page=17">月刊MdN 7月号(vol.171)目次</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lilit]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-lilit/"/>
-    <updated>2013-03-17T14:48:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-lilit</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/lilit.jpg" alt="" /></p>
-
-<p>色々と思うことがあり前回の反省点を踏まえて作りました。感覚を裏付けする理屈も必要ですが、言語化するしないの違いだけで、その時その時の心のありようは勝手に滲み出るものなので、単純に鋭さや力や精度だけを追求していきたいです。</p>
-
-<blockquote><p>惑わされない蛇は木の根元に巣をつくり、
-アンズー鳥はその若鳥を木の枝で育て、
-闇の娘リリスは住処を幹に作っていた</p></blockquote>
-
-<p><a href="http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AA%E3%82%B9">リリス - Wikipedia</a> より引用</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Icon]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-icon/"/>
-    <updated>2013-03-17T14:48:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-icon</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/icon.jpg" alt="" /></p>
-
-<p>天より給わり記憶に愛でられ赤子より以前から腹の底に永住してきたもの。呪詛ではなくささやかな祈りとして心の奥深くたしかに息づいているもの。</p>
 ]]></content>
   </entry>
   
