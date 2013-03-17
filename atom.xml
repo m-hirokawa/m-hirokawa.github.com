@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:22:03+09:00</updated>
+  <updated>2013-03-17T16:23:09+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -26,6 +26,24 @@
   
   <entry>
     <title type="html"><![CDATA[Nyx]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx+%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC/"/>
+    <updated>2013-03-17T16:17:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx のコピー</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/nyx/nyx_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/nyx/">英題:“Nyx” / 邦題:「夜目」 / May 2009 / 420×297</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=nyx">http://dolice.net/wallpaper/?id=nyx</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nyx]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx/"/>
     <updated>2013-03-17T16:17:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx</id>
@@ -35,7 +53,10 @@
 
 <h3>壁紙ダウンロード</h3>
 
-<p><a href="http://dolice.net/wallpaper/?id=nyx">Nyx</a></p>
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=nyx">http://dolice.net/wallpaper/?id=nyx</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -463,19 +484,6 @@
 <p>久しぶりにグラフィックを作ってみました。最近は空を眺めながら歩いて近所のSEIYUまで買い物に行くのが楽しみなのですが、閉じた世界から想像する夢とか希望とか幻想とか、強いて言えば冬の寝室の窓の外に遊園地の幻を見る子供の感覚みたいなものを表現したかったんだと思います。</p>
 
 <p>今年はなんだか仕事ばかりしていて、時間を有効に使えていないのもあり、このまま器用貧乏で終わってしまってよいのだろうかと悩むこともあります。でも、そんな折にたまたま読んだ『NHK 知るを楽しむ 私のこだわり人物伝』で四谷シモン氏が文章を書いており、その中に &#8220;芸術なら一発屋でもいいだろう。だけど、自分は職人だ。毎日コツコツやるんだ&#8221; との一文があって、胸を打たれたと同時に、なぜか励まされた気持ちになりました。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mauris Anri模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-svanberg/"/>
-    <updated>2013-03-17T14:45:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-svanberg</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/svanberg.jpg" alt="" /></p>
-
-<p>M・W・スワンベルク作『ロマンチックな浮揚』の模写。偏執的なまでの完璧主義でもって女性の肉体に拘った画家。8月から仕事の合間を縫って模写作業を始め、描いたパスは線から点になって数は何万本にも増えた。ベクトルデータなのでどんなサイズにも引き伸ばせる。</p>
-
-<p>作業の間中ややこしいことをあれこれ考えたり思い出したりしていたけど次第に苦痛の度を超えて何も考えなくなった。目的や意義はどうあれ次に繋がるアイデアも浮かんだしこれでひとつ肩の荷がおりた。</p>
 ]]></content>
   </entry>
   

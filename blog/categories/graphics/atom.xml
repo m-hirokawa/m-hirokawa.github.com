@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:22:03+09:00</updated>
+  <updated>2013-03-17T16:23:09+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -26,6 +26,24 @@
   
   <entry>
     <title type="html"><![CDATA[Nyx]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx+%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC/"/>
+    <updated>2013-03-17T16:17:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx のコピー</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/nyx/nyx_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/nyx/">英題:“Nyx” / 邦題:「夜目」 / May 2009 / 420×297</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=nyx">http://dolice.net/wallpaper/?id=nyx</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nyx]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx/"/>
     <updated>2013-03-17T16:17:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx</id>
@@ -35,7 +53,10 @@
 
 <h3>壁紙ダウンロード</h3>
 
-<p><a href="http://dolice.net/wallpaper/?id=nyx">Nyx</a></p>
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=nyx">http://dolice.net/wallpaper/?id=nyx</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -58,17 +79,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/ajita/ajita_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/ajita/">英題:“Ajita” / 邦題:「幽体の論理」 / May 2009 / 297×420</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Isthar]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-isthar/"/>
-    <updated>2013-03-17T16:14:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-isthar</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/isthar/isthar_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/isthar/">英題:“Isthar” / 邦題:「魔女のお腹で膨れた」 / Feb 2009 / 297×420</a></p>
 ]]></content>
   </entry>
   
