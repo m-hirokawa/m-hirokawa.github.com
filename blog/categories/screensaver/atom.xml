@@ -4,7 +4,7 @@
   <title><![CDATA[Category: screensaver | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/screensaver/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T12:46:45+09:00</updated>
+  <updated>2013-03-17T12:50:50+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,13 +14,39 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Screensaver: Yetzirah]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/16/screensaver-yetzirah/"/>
+    <updated>2013-03-16T23:20:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/16/screensaver-yetzirah</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/yetzirah.jpg" title="Assiah" alt="Assiah" /></p>
+
+<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/yetzirah/" title="ムービープレビュー">Preview</a>)</p>
+
+<h3>ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_yetzirah_installer.exe&amp;dir=/mathobj/yetzirah/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_yetzirah.zip&amp;dir=/mathobj/yetzirah/">Mac版</a></li>
+</ul>
+
+
+<h3>ソースファイル</h3>
+
+<ul>
+<li><a href="http://dolice.net/mathobj/yetzirah/source.zip">ダウンロード</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Screensaver: Assiah]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/16/screensaver-assiah/"/>
     <updated>2013-03-16T23:20:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/16/screensaver-assiah</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/assiah.jpg" title="Assiah" alt="Assiah" /></p>
 
-<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/upload/archive/flash/jaj/" title="ムービープレビュー">Preview</a>)</p>
+<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/assiah/" title="ムービープレビュー">Preview</a>)</p>
 
 <h3>ダウンロード</h3>
 
