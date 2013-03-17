@@ -5,6 +5,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   src: url('http://dolice.net/common/fonts/PERTILI.TTF');
 }
 
+@font-face {
+  font-family: 'Adobe Garamond Pro';
+  src: url('/common/fonts/AGaramondPro-Regular_0.otf');
+}
+
 /*
 @font-face {
   font-family: 'Futura Md';
@@ -21,7 +26,7 @@ ul li {
 }
 
   #hero-inner h1 {
-    font-size: 50px;
+    font-size: 48px;
     letter-spacing: 0 !important;
   }
   
@@ -31,9 +36,13 @@ ul li {
     letter-spacing: 1px !important;
   }
   
-  #hero-inner h1, h2 {
+  #hero-inner h1, #hero-inner h2 {
     font-family: 'Perpetua Titling';
   }
+
+h2 {
+  font-family: 'Adobe Garamond Pro';
+}
 
 p {
   font-size: 12px;
