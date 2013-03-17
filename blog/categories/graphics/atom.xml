@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:25:29+09:00</updated>
+  <updated>2013-03-17T16:26:19+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hera]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-hera/"/>
+    <updated>2013-03-17T16:25:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-hera</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hera/hera_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/hera/">英題:“Hera” / 邦題:「異界の嫁入り」 / Jun 2009 / 1040×594</a></p>
+
+<h3>壁紙ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/wallpaper/?id=hera">http://dolice.net/wallpaper/?id=hera</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[El]]></title>
@@ -75,17 +93,6 @@
 <li><a href="http://dolice.net/wallpaper/?id=nyx">http://dolice.net/wallpaper/?id=nyx</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hirume]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-hirume/"/>
-    <updated>2013-03-17T16:16:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-hirume</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hirume/hirume_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/hirume/">英題:“Hirume” / 邦題:「日女」 / May 2009 / 420×594</a></p>
 ]]></content>
   </entry>
   
