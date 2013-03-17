@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interactive movie | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/interactive-movie/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:50:42+09:00</updated>
+  <updated>2013-03-17T13:55:08+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Screensaver: Shine]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-shine/"/>
+    <updated>2013-03-17T13:52:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-shine</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/shine.jpg" title="Shine" alt="Shine" /></p>
+
+<p>光彩の重なりや目の錯覚をコンセプトに、CMYK+WHの5色を用いて作成したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/shine/" title="ムービープレビュー">Preview</a>)</p>
+
+<h3>ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_shine_installer.exe&amp;dir=/mathobj/shine/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_shine.zip&amp;dir=/mathobj/shine/">Mac版</a></li>
+</ul>
+
+
+<h3>ソースファイル</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=source_shine.zip&amp;dir=/mathobj/shine/">ダウンロード</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JAGDA in OSAKA 2008 : Another Japan インタラクティブムービー制作]]></title>
@@ -229,32 +255,6 @@ Enter: 上記キーワードに関係した文字の表示<br /><br /></p>
 
 <ul>
 <li><a href="http://dolice.net/mathobj/briah/source.zip">ダウンロード</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Screensaver: Atziluth]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-atziluth/"/>
-    <updated>2013-03-17T13:11:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-atziluth</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/atziluth.jpg" title="Atziluth" alt="Atziluth" /></p>
-
-<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/atziluth/" title="ムービープレビュー">Preview</a>)</p>
-
-<h3>ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_atziluth_installer.exe&amp;dir=/mathobj/atziluth/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_atziluth.zip&amp;dir=/mathobj/atziluth/">Mac版</a></li>
-</ul>
-
-
-<h3>ソースファイル</h3>
-
-<ul>
-<li><a href="http://dolice.net/mathobj/atziluth/source.zip">ダウンロード</a></li>
 </ul>
 
 ]]></content>
