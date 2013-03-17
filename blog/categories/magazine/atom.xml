@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: magazine | Dolice Log]]></title>
+  <link href="http://m-hirokawa.github.com/blog/categories/magazine/atom.xml" rel="self"/>
+  <link href="http://m-hirokawa.github.com/"/>
+  <updated>2013-03-17T14:57:43+09:00</updated>
+  <id>http://m-hirokawa.github.com/</id>
+  <author>
+    <name><![CDATA[Masaki Hirokawa]]></name>
+    <email><![CDATA[masakihirokawa@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[月刊MdN 2008年7月号に掲載いただきました]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus/"/>
+    <updated>2013-03-17T14:48:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/amitaayus.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/">「amitaayus／盲覚に生きて」</a></p>
+
+<p>月刊MdN 2008年7月号、「Photoshop Making Studio」というコーナーに上記グラフィックを掲載していただきました。グラフィックを仕上げるまでの作業工程を6ページにわたり解説しています。書店にお寄りの際はぜひ手に取ってご覧ください。</p>
+
+<p>一つ一つの工程を後追いする形で原稿やスクリーンショットを用意することで、一から技術を反芻して学び直すことができました。何より、胸の裡に呼べぬ名として置きつつもずっと描きたかった対象を表現できたことをとても嬉しく思います。</p>
+
+<p>このような機会を与えてくださった MdN編集部の方に、心より感謝御礼申し上げます。</p>
+
+<p><a herf="月刊MdN 7月号(vol.171)目次 ">http://www.mdn.co.jp/di/articles/61/?page=17</a></p>
+]]></content>
+  </entry>
+  
+</feed>

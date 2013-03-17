@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T14:53:13+09:00</updated>
+  <updated>2013-03-17T14:57:43+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[月刊MdN 2008年7月号に掲載いただきました]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus/"/>
+    <updated>2013-03-17T14:48:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-amitaayus</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/amitaayus.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/">「amitaayus／盲覚に生きて」</a></p>
+
+<p>月刊MdN 2008年7月号、「Photoshop Making Studio」というコーナーに上記グラフィックを掲載していただきました。グラフィックを仕上げるまでの作業工程を6ページにわたり解説しています。書店にお寄りの際はぜひ手に取ってご覧ください。</p>
+
+<p>一つ一つの工程を後追いする形で原稿やスクリーンショットを用意することで、一から技術を反芻して学び直すことができました。何より、胸の裡に呼べぬ名として置きつつもずっと描きたかった対象を表現できたことをとても嬉しく思います。</p>
+
+<p>このような機会を与えてくださった MdN編集部の方に、心より感謝御礼申し上げます。</p>
+
+<p><a herf="月刊MdN 7月号(vol.171)目次 ">http://www.mdn.co.jp/di/articles/61/?page=17</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lilit]]></title>
@@ -387,34 +406,6 @@ Enter: 上記キーワードに関係した文字の表示<br /><br /></p>
 1回目：文字表示<br />
 2回目：ホワイトアウト<br />
 3回目：エンディングを表示</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Screensaver: Longinus in Golgotha]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-longinus/"/>
-    <updated>2013-03-17T13:27:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-longinus</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/longinus.jpg" title="Longinus in Golgotha" alt="Longinus in Golgotha" /></p>
-
-<p>スクリーンセーバーを新しく作成しました。気に入られた方は下記ページのリンク先よりダウンロードしてお使いください。(<a href="http://dolice.net/mathobj/longinus/" title="ムービープレビュー">Preview</a>)</p>
-
-<p>ロンギヌスという単語がなんとなく最初に浮かんだのがきっかけで、制作の過程で花や植物が生い茂るイメージに変わっていきました。</p>
-
-<h3>ダウンロード</h3>
-
-<ul>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_longinus_installer.exe&amp;dir=/mathobj/longinus/">Windows版</a></li>
-<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_longinus.zip&amp;dir=/mathobj/longinus/">Mac版</a></li>
-</ul>
-
-
-<h3>ソースファイル</h3>
-
-<ul>
-<li><a href="http://dolice.net/mathobj/longinus/lig_source.zip">ダウンロード</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
