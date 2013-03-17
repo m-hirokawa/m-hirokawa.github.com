@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interactive movie | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/interactive-movie/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T12:50:50+09:00</updated>
+  <updated>2013-03-17T13:12:05+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Screensaver: Briah]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-briah/"/>
+    <updated>2013-03-17T13:11:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-briah</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/briah.jpg" title="Assiah" alt="Assiah" /></p>
+
+<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/briah/" title="ムービープレビュー">Preview</a>)</p>
+
+<h3>ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_briah_installer.exe&amp;dir=/mathobj/briah/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ss_briah.zip&amp;dir=/mathobj/briah/">Mac版</a></li>
+</ul>
+
+
+<h3>ソースファイル</h3>
+
+<ul>
+<li><a href="http://dolice.net/mathobj/briah/source.zip">ダウンロード</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Screensaver: Yetzirah]]></title>

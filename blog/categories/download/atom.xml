@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: screensaver | Dolice Log]]></title>
-  <link href="http://m-hirokawa.github.com/blog/categories/screensaver/atom.xml" rel="self"/>
+  <title><![CDATA[Category: download | Dolice Log]]></title>
+  <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
   <updated>2013-03-17T13:12:05+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
@@ -132,17 +132,6 @@
 <li><a href="http://dolice.net/mathobj/apobiosis/source.zip">ダウンロード</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ich bedanke mich recht herzlich. Jill aus Japan]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/16/ich-bedanke-mich-recht-herzlich-jill-aus-japan/"/>
-    <updated>2013-03-16T23:11:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/16/ich-bedanke-mich-recht-herzlich-jill-aus-japan</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/jaj.jpg" title="Jill aus Japan" alt="Jill aus Japan" /></p>
-
-<p>2006年に制作したインタラクティブムービーです。(<a href="http://dolice.net/upload/archive/flash/jaj/" title="ムービープレビュー">Preview</a>)</p>
 ]]></content>
   </entry>
   
