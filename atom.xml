@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:11:35+09:00</updated>
+  <updated>2013-03-17T16:14:15+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Isthar]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-isthar/"/>
+    <updated>2013-03-17T16:14:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-isthar</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/isthar/isthar_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/isthar/">英題:“Isthar” / 邦題:「魔女のお腹で膨れた」 / Feb 2009 / 297×420</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[普賢菩薩像模写]]></title>
@@ -463,26 +474,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/myspace/HANA.jpg" alt="" /></p>
 
 <p>Kehre. の12月14日「手刀」ライブのフライヤー(L2判サイズ)を制作しました。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ニューヨークギャラリー展示]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/exhibition/"/>
-    <updated>2013-03-17T14:35:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/exhibition</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/upload/ny01.jpg" title="PH Gallery" alt="PH Gallery" /></p>
-
-<p>ニューヨークの PH Gallery にて催された下記『J - Passion Vol.1』の展示が終了した模様です。今回も予算とスケジュールの都合で足を運べなかったことからあまり実感がなく、強いて言えば他人事のようで、発送が終わった途端に記憶から抜けていました。4月前半の2週間、ほぼ無我の境地で記憶喪失になりかけながら寝ずに作業をした割りにカタルシスがありません。ただ、現地の声としては玄人の方からの反響が多かったそうです。</p>
-
-<blockquote><p><strong>[Information]</strong><br />
-exhibition: J - Passion Vol.1<br />
-place: PH Gallery<br />
-address: 547 West 27th Street, 2nd Floor, New York, NY 10001<br />
-schedule: 2006.7/27～8/5</p></blockquote>
-
-<p><img src="http://dolice.net/upload/ny02.jpg" title="PH Gallery" alt="PH Gallery" />
-<img src="http://dolice.net/upload/ny03.jpg" title="PH Gallery" alt="PH Gallery" /></p>
 ]]></content>
   </entry>
   
