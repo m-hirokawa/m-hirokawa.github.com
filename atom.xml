@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:45:21+09:00</updated>
+  <updated>2013-03-17T13:46:55+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -26,16 +26,16 @@
 
 <p>小西貴之氏監修のもと、タイポグラフィ制御部分とエンディングは樫本祐輝氏が制作、当方は背景に流れるムービーとアニメーション制御部分を担当しました。</p>
 
-<p><strong>「JAGDA in OSAKA 2008 : Another Japan」</strong></p>
+<h2>「JAGDA in OSAKA 2008 : Another Japan」</h2>
 
 <ul>
 <li><a href="http://www.jagda.org/osaka/">http://www.jagda.org/osaka/</a></li>
 </ul>
 
 
-<blockquote><p>主催：社団法人日本グラフィックデザイナー協会［JAGDA］<br />　 実行：JAGDA大阪地区＆関西地域<br />　 後援：大阪府、大阪市、大阪21世紀協会、毎日新聞社、朝日新聞社、株式会社FM802</p>
+<blockquote><p>主催：社団法人日本グラフィックデザイナー協会［JAGDA］<br />　 実行：JAGDA大阪地区＆関西地域<br />　 後援：大阪府、大阪市、大阪21世紀協会、毎日新聞社、朝日新聞社、株式会社FM802<br /><br /></p>
 
-<p>日時: 2008.06.14 sat　14:20～　開会宣言時<br />　 会場: サントリーミュージアム　天保山 IMAXシアター<br />　 詳細: <a href="http://www.jagda.org/osaka/schedule/">http://www.jagda.org/osaka/schedule/</a></p>
+<p>日時: 2008.06.14 sat　14:20～　開会宣言時<br />　 会場: サントリーミュージアム　天保山 IMAXシアター<br />　 詳細: <a href="http://www.jagda.org/osaka/schedule/">http://www.jagda.org/osaka/schedule/</a><br /><br /></p>
 
 <p>【制作スタッフ】<br /><br /></p>
 
@@ -61,7 +61,7 @@
 
 <p>キー操作で背景のムービーを切り替えたり、RGBの色を持つラインの描画と削除、一時停止、タイポグラフィの表示などができます(既定のフォントが入っていない場合、タイポグラフィは表示されません)。</p>
 
-<p><strong>【ムービー操作方法】 by 廣川</strong></p>
+<h3>ムービー操作方法</h3>
 
 <blockquote><p>数字キー[1]:  青色のラインを生成<br />
 数字キー[2]:  黄色のラインを生成<br />
@@ -72,7 +72,7 @@ Control:  一時停止<br />
 ↑カーソル:  生成されるラインを増やす<br />
 ↓カーソル:  生成されるラインを減らす</p></blockquote>
 
-<p><strong>【タイポグラフィ操作方法】 by 樫本</strong></p>
+<h3>タイポグラフィ操作方法</h3>
 
 <blockquote><p>key A:大阪<br />
 key S:関西<br />
