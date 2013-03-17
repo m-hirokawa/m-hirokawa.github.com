@@ -26,13 +26,13 @@ ul li {
 }
 
   #hero-inner h1 {
-    font-size: 48px;
+    font-size: 50px;
     letter-spacing: 0 !important;
   }
   
   #hero-inner h2 {
     margin: -15px 0 0 0;
-    font-size: 19px;
+    font-size: 20px;
     letter-spacing: 1px !important;
   }
   
@@ -40,10 +40,8 @@ ul li {
     font-family: 'Perpetua Titling';
   }
 
-h2 {
-  /*
+h2, h3 {
   font-family: 'Adobe Garamond Pro';
-  */
 }
 
 p {
