@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T17:46:10+09:00</updated>
+  <updated>2013-03-17T17:48:39+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,13 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[GitHub]]></title>
+    <title type="html"><![CDATA[GitHubはじめました]]></title>
     <link href="http://m-hirokawa.github.com/blog/2013/03/17/download-github/"/>
     <updated>2013-03-17T17:26:00+09:00</updated>
     <id>http://m-hirokawa.github.com/blog/2013/03/17/download-github</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
 
-<p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
+<p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。</p>
+
+<p>他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。</p>
+
+<p>少しでもお役に立てば嬉しいです。</p>
 
 <p><strong><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a></strong></p>
 
@@ -227,7 +231,7 @@
 
 <p><a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=1004226605&blogId=496606592">MySpace.com - MySpace From JP. 6/25発売号</a></p>
 
-<h3>壁紙ダウンロード</h3>
+<h4>壁紙ダウンロード</h4>
 
 <ul>
 <li><a href="http://dolice.net/wallpaper/?id=7thvision">http://dolice.net/wallpaper/?id=7thvision</a></li>
