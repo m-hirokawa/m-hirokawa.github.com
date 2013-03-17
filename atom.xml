@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T16:16:35+09:00</updated>
+  <updated>2013-03-17T16:17:49+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nyx]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx/"/>
+    <updated>2013-03-17T16:17:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-nyx</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/nyx/nyx_72dpi.jpg" alt="" /></p>
+
+<p><a href="http://dolice.net/graphic/nyx/">英題:“Nyx” / 邦題:「夜目」 / May 2009 / 420×297</a></p>
+
+<p><a href="http://dolice.net/wallpaper/?id=nyx">壁紙ダウンロード / Nyx</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hirume]]></title>
@@ -461,19 +474,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/anri.jpg" alt="" /></p>
 
 <p>モーリス・アンリの模写。線のひとつひとつに贖罪の意味を求めながら、彼の恩寵の光に満ちていた本来の道筋について想像する。何度も手直しを重ねて限界点を上げていきたい。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hans Bellmer模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-bellmer/"/>
-    <updated>2013-03-17T14:44:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-bellmer</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/bellmer.jpg" alt="" /></p>
-
-<p>ハンス・ベルメールのエッチングの模写。ベジェでは逆に表現できなかったので、短い直線を何千本も重ねて描く。拙いながらも何もイメージが湧かないうちの体操になったし、単純作業の繰り返しで次第に衝動が和らぎ心が安らいでいった。いまは炭水化物を6日間ほど摂っておらず意識朦朧で、無意識が広く作用する状態で何をできるのか試してみたかった。</p>
-
-<p>5年前に神田・神保町界隈をうろうろして買い集めた書籍のほとんどは、当時の自分には10年早い代物であったが、現在になって文学面ではなく視覚面から大いに役立ってくれた。これからもいろいろなものに触れて目を肥やしていきたい。</p>
 ]]></content>
   </entry>
   
