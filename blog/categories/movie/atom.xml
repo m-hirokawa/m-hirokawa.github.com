@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movie | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/movie/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:34:46+09:00</updated>
+  <updated>2013-03-17T13:36:40+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -26,16 +26,12 @@
 
 <p>小西貴之氏監修のもと、タイポグラフィ制御部分とエンディングは樫本祐輝氏が制作、当方は背景に流れるムービーとアニメーション制御部分を担当しました。</p>
 
-<p><strong>「JAGDA in OSAKA 2008 : Another Japan」</strong></p>
-
-<ul>
-<li>http://www.jagda.org/osaka/</li>
-</ul>
-
+<p><strong>「JAGDA in OSAKA 2008 : Another Japan」</strong>
+- http://www.jagda.org/osaka/</p>
 
 <blockquote><p>主催：社団法人日本グラフィックデザイナー協会［JAGDA］<br />　 実行：JAGDA大阪地区＆関西地域<br />　 後援：大阪府、大阪市、大阪21世紀協会、毎日新聞社、朝日新聞社、株式会社FM802</p>
 
-<p>日時: 2008.06.14 sat　14:20～　開会宣言時<br />　 会場: サントリーミュージアム　天保山 IMAXシアター<br />　 詳細: http://www.jagda.org/osaka/schedule/</p></blockquote>
+<p>日時: 2008.06.14 sat　14:20～　開会宣言時<br />　 会場: サントリーミュージアム　天保山 IMAXシアター<br />　 詳細: http://www.jagda.org/osaka/schedule/</p>
 
 <p>【制作スタッフ】</p>
 
@@ -43,10 +39,26 @@
 
 <p>Interactive Designer<br />　 樫本祐輝<br />　 http://stid.jp/</p>
 
-<p>Design Engineer<br />　 廣川政樹<br />　 http://atziluth.jp/
-&lt;&lt;</p>
+<p>Design Engineer<br />　 廣川政樹<br />　 http://atziluth.jp/</p></blockquote>
 
 <p><img src="http://dolice.net/upload/jagda_scr2.jpg" title="JAGDA in OSAKA 2008 : Another Japan" alt="JAGDA in OSAKA 2008 : Another Japan" /></p>
+
+<p><strong>JAGDAインタラクティブムービー: WEB最適化用</strong>
+- http://dolice.net/mathobj/jagda/</p>
+
+<p>こちらは会場で流れたインタラクティブムービーをキー操作によりコントロールできるよう WEB用に最適化したものです。</p>
+
+<p>キー操作で背景のムービーを切り替えたり、RGBの色を持つラインの描画と削除、一時停止、タイポグラフィの表示などができます(既定のフォントが入っていない場合、タイポグラフィは表示されません)。</p>
+
+<p><strong>【ムービー操作方法】 by 廣川</strong></p>
+
+<blockquote><p>数字キー[1]:  青色のラインを生成<br />　 数字キー[2]:   黄色のラインを生成<br />　 数字キー[3]:   赤色のラインを生成<br />　 Space:     古いラインを削除<br />　 Shift:        背景ムービーの切り替え<br />　 Control: 一時停止<br />　 ↑カーソル:  生成されるラインを増やす<br />　 ↓カーソル:  生成されるラインを減らす</p></blockquote>
+
+<p><strong>【タイポグラフィ操作方法】 by 樫本</strong></p>
+
+<blockquote><p>key A:大阪<br />　 key S:関西<br />　 key D:おもしろい<br />　 key F:日本一<br />　 key G:Another Japan<br />　 key H:グラフィックデザイナー<br />　 key J:JAGDA<br />　 key K:大阪、おもしろい、日本一<br />　 key C:クリエイティブ<br />　 Enter: 上記キーワードに関係した文字の表示</p>
+
+<p>→カーソルキー:<br />　 1回目：文字表示<br />　 2回目：ホワイトアウト<br />　 3回目：エンディングを表示</p></blockquote>
 ]]></content>
   </entry>
   
