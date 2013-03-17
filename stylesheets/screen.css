@@ -19,5 +19,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 #hero-inner h1, #hero-inner h2 {
-  font-family: 'Futura Md' !important;
+  font-family: 'Futura Md';
+  letter-spacing: 0;
 }
