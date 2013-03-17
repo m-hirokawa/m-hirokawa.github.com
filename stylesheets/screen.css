@@ -13,7 +13,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 #hero-inner {
-  margin: 72px 0 0 0;
+  margin: 100px 0 0 0;
 }
 
   #hero-inner h1 {
@@ -32,4 +32,5 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 p {
   font-size: 12px;
+  line-height: 1.7em;
 }
