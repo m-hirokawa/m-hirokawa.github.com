@@ -4,7 +4,7 @@
   <title><![CDATA[Category: screensaver | Dolice Log]]></title>
   <link href="http://m-hirokawa.github.com/blog/categories/screensaver/atom.xml" rel="self"/>
   <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-17T13:14:29+09:00</updated>
+  <updated>2013-03-17T13:19:45+09:00</updated>
   <id>http://m-hirokawa.github.com/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,94 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Screensaver: Rose in April]]></title>
+    <link href="http://m-hirokawa.github.com/blog/2013/03/17/screensaver-ria/"/>
+    <updated>2013-03-17T13:19:00+09:00</updated>
+    <id>http://m-hirokawa.github.com/blog/2013/03/17/screensaver-ria</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/ria.jpg" title="Rose in April" alt="Rose in April" /></p>
+
+<p>2008年に制作したスクリーンセーバーです。(<a href="http://dolice.net/mathobj/ria/" title="ムービープレビュー">Preview</a>)</p>
+
+<h3>ダウンロード</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=riaInstaller.exe&amp;dir=/mathobj/ria/">Windows版</a></li>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ria.zip&amp;dir=/mathobj/ria/">Mac版</a></li>
+</ul>
+
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+</pre></td><td class='code'><pre><code class='actionscript'><span class='line'><span class="kd">function</span> <span class="nx">init</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">rscale</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="mi">5</span><span class="o">+</span><span class="mi">94</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">rrot</span> <span class="o">=</span> <span class="mf">137.5</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">attachMovie</span><span class="p">(</span><span class="s2">&quot;nug&quot;</span><span class="o">,</span><span class="s2">&quot;mothernug&quot;</span><span class="o">,</span><span class="mi">0</span><span class="p">);</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">x</span> <span class="o">=</span> <span class="nx">sw</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">y</span> <span class="o">=</span> <span class="nx">sh</span><span class="o">/</span><span class="mi">2</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">xscale</span> <span class="o">=</span> <span class="mi">150</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="nx">yscale</span> <span class="o">=</span> <span class="mi">150</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="nx">_rotation</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="o">&lt;/</span><span class="nx">em</span><span class="o">&gt;</span><span class="mi">360</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="nx">depth</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span>
+</span><span class='line'><span class="err">　</span> <span class="nx">mothernug</span><span class="p">.</span><span class="nx">onEnterFrame</span> <span class="o">=</span> <span class="nx">iterate</span><span class="o">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'><span class="kd">function</span> <span class="nx">iterate</span><span class="p">()</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">if</span> <span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">depth</span><span class="o">&amp;</span><span class="nx">lt</span><span class="o">;</span><span class="mi">50</span><span class="p">)</span> <span class="p">{</span><span class="o">&lt;/</span><span class="nx">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">pre</span><span class="o">&gt;&lt;</span><span class="nx">code</span><span class="o">&gt;</span><span class="k">var</span> <span class="nx">newnug</span><span class="o">:</span><span class="nb">MovieClip</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">attachMovie</span><span class="p">(</span><span class="s2">&quot;nug&quot;</span><span class="o">,</span> <span class="s2">&quot;newnug&quot;</span><span class="o">,</span> <span class="mi">1</span><span class="p">);</span>
+</span><span class='line'><span class="k">var</span> <span class="nx">rot</span><span class="o">:</span><span class="nb">Number</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">_rotation</span><span class="o">+</span><span class="nx">rrot</span><span class="o">;</span>
+</span><span class='line'><span class="k">var</span> <span class="nx">scale</span><span class="o">:</span><span class="nb">Number</span> <span class="o">=</span> <span class="nx">rscale</span><span class="o">;</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_x</span> <span class="o">=</span> <span class="p">(</span><span class="mi">100</span><span class="o">-</span><span class="nx">scale</span><span class="p">)</span><span class="o">*</span><span class="nb">Math</span><span class="p">.</span><span class="nx">cos</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">PI</span><span class="o">/</span><span class="mi">180</span><span class="o">*</span><span class="nx">rot</span><span class="p">);</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_y</span> <span class="o">=</span> <span class="p">(</span><span class="mi">100</span><span class="o">-</span><span class="nx">scale</span><span class="p">)</span><span class="o">*</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sin</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">PI</span><span class="o">/</span><span class="mi">180</span><span class="o">*</span><span class="nx">rot</span><span class="p">);</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_xscale</span> <span class="o">=</span> <span class="nx">scale</span><span class="o">;</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_yscale</span> <span class="o">=</span> <span class="nx">scale</span><span class="o">;</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">_rotation</span> <span class="o">=</span> <span class="nx">rot</span><span class="o">;</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">depth</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">depth</span><span class="o">+</span><span class="mi">1</span><span class="o">;</span>
+</span><span class='line'><span class="nx">newnug</span><span class="p">.</span><span class="nx">onEnterFrame</span> <span class="o">=</span> <span class="nx">iterate</span><span class="o">;</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="nx">code</span><span class="o">&gt;&lt;/</span><span class="nx">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>  <span class="p">}</span>
+</span><span class='line'>  <span class="nx">delete</span> <span class="k">this</span><span class="p">.</span><span class="nx">onEnterFrame</span><span class="o">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h3>ソースファイル</h3>
+
+<ul>
+<li><a href="http://dolice.net/php/dlc/dlcount.php?fname=ria_source.zip&amp;dir=/mathobj/ria/">ダウンロード</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Screensaver: Briah]]></title>
@@ -158,17 +246,6 @@
 <li><a href="http://dolice.net/mathobj/apobiosis/source.zip">ダウンロード</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ich bedanke mich recht herzlich. Jill aus Japan]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/16/ich-bedanke-mich-recht-herzlich-jill-aus-japan/"/>
-    <updated>2013-03-16T23:11:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/16/ich-bedanke-mich-recht-herzlich-jill-aus-japan</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/jaj.jpg" title="Jill aus Japan" alt="Jill aus Japan" /></p>
-
-<p>2006年に制作したインタラクティブムービーです。(<a href="http://dolice.net/upload/archive/flash/jaj/" title="ムービープレビュー">Preview</a>)</p>
 ]]></content>
   </entry>
   
