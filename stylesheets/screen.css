@@ -17,6 +17,14 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 */
 
+p, li, dt, dd, blockquote {
+  font-size: 12px;
+}
+
+p, dt, dd, blockquote {
+  line-height: 1.7em;
+}
+
 ul li {
   padding: 0 0 6px 0;
 }
@@ -42,11 +50,6 @@ ul li {
 
 h2, .title {
   font-family: 'Adobe Garamond Pro';
-}
-
-p {
-  font-size: 12px;
-  line-height: 1.7em;
 }
 
 #twitter-profile p {
