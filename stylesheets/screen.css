@@ -50,12 +50,20 @@ ul li {
 }
 
 #hero-inner {
-  margin: 128px 0 0 48px;
+  margin: 128px 0 0 15%;
 }
 
   #hero-inner h1 {
     font-size: 48px;
     letter-spacing: 1px !important;
+  }
+  
+  #hero-inner h1 a {
+    color: #fff;
+  }
+  
+  #hero-inner h1 a:active, #hero-inner h1 a:hover, #hero-inner h1 a:focus {
+    text-decoration: none;
   }
   
   #hero-inner h2 {
