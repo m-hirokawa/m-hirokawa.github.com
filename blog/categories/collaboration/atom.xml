@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: collaboration | Dolice Log]]></title>
-  <link href="http://m-hirokawa.github.com/blog/categories/collaboration/atom.xml" rel="self"/>
-  <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-20T12:41:17+09:00</updated>
-  <id>http://m-hirokawa.github.com/</id>
+  <link href="http://log.dolice.net/blog/categories/collaboration/atom.xml" rel="self"/>
+  <link href="http://log.dolice.net/"/>
+  <updated>2013-03-22T21:57:58+09:00</updated>
+  <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[masakihirokawa@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.4.5 『万華鏡の覗き目』]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-kaleidoscope/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphics-kaleidoscope/"/>
     <updated>2013-03-17T15:58:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-kaleidoscope</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphics-kaleidoscope</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/collaboration/kaleidoscope/kaleidoscope_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/collaboration/kaleidoscope/">Collaboration with Junichi Takahashi Vol.4.5 『万華鏡の覗き目』</a></p>
@@ -44,9 +44,9 @@
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.1.5]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-lucifer/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphics-lucifer/"/>
     <updated>2013-03-17T15:56:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-lucifer</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphics-lucifer</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/collaboration/lucifer/lucifer_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/collaboration/lucifer/">Collaboration with Junichi Takahashi Vol.1.5 『Lucifer』</a></p>
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.4]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-tsukuyomi/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphics-tsukuyomi/"/>
     <updated>2013-03-17T15:45:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-tsukuyomi</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphics-tsukuyomi</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/collaboration/tsukuyomi/tsukuyomi_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/collaboration/tsukuyomi/">Collaboration with Junichi Takahashi Vol.4 『月讀尊』</a></p>
@@ -119,9 +119,9 @@
   
   <entry>
     <title type="html"><![CDATA[月刊MdN 2009年1月号に掲載いただきました]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-lucifer/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphics-mdn-lucifer/"/>
     <updated>2013-03-17T15:45:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-mdn-lucifer</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphics-mdn-lucifer</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/MdN/lucifer/lucifer_540_764.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/MdN/lucifer/">MdN 2009 JANUARY 『Lucifer』</a></p>
@@ -144,9 +144,9 @@
   
   <entry>
     <title type="html"><![CDATA[Collaboration with Junichi Takahashi Vol.3]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphics-susanoo/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphics-susanoo/"/>
     <updated>2013-03-17T15:40:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphics-susanoo</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphics-susanoo</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/collaboration/susanoo/midnight/susanoo_midnight_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/collaboration/susanoo/midnight/">Collaboration with Junichi Takahashi Vol.3 『素盞嗚尊』</a></p>

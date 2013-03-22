@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: illustration | Dolice Log]]></title>
-  <link href="http://m-hirokawa.github.com/blog/categories/illustration/atom.xml" rel="self"/>
-  <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-20T12:41:17+09:00</updated>
-  <id>http://m-hirokawa.github.com/</id>
+  <link href="http://log.dolice.net/blog/categories/illustration/atom.xml" rel="self"/>
+  <link href="http://log.dolice.net/"/>
+  <updated>2013-03-22T21:57:58+09:00</updated>
+  <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[masakihirokawa@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[普賢菩薩像模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-samanta/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/illust-samanta/"/>
     <updated>2013-03-17T16:08:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-samanta</id>
+    <id>http://log.dolice.net/blog/2013/03/17/illust-samanta</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/illustration/samanta-bhadra/samanta-bhadra_540_763.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/illustration/samanta-bhadra/">Obelisk | Illustration / 普賢菩薩</a></p>
@@ -50,9 +50,9 @@
   
   <entry>
     <title type="html"><![CDATA[如意輪観音菩薩像模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-cintaama/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/illust-cintaama/"/>
     <updated>2013-03-17T16:04:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-cintaama</id>
+    <id>http://log.dolice.net/blog/2013/03/17/illust-cintaama</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/illustration/cintaamaNicakra/cintaamaNicakra_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/illustration/cintaamaNicakra/">Obelisk | Illustration / 如意輪観音菩薩</a></p>
@@ -76,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mauris Anri模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-svanberg/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/illust-svanberg/"/>
     <updated>2013-03-17T14:45:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-svanberg</id>
+    <id>http://log.dolice.net/blog/2013/03/17/illust-svanberg</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/svanberg.jpg" alt="" /></p>
 
 <p>M・W・スワンベルク作『ロマンチックな浮揚』の模写。偏執的なまでの完璧主義でもって女性の肉体に拘った画家。8月から仕事の合間を縫って模写作業を始め、描いたパスは線から点になって数は何万本にも増えた。ベクトルデータなのでどんなサイズにも引き伸ばせる。</p>
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mauris Anri模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-anri/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/illust-anri/"/>
     <updated>2013-03-17T14:45:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-anri</id>
+    <id>http://log.dolice.net/blog/2013/03/17/illust-anri</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/anri.jpg" alt="" /></p>
 
 <p>モーリス・アンリの模写。線のひとつひとつに贖罪の意味を求めながら、彼の恩寵の光に満ちていた本来の道筋について想像する。何度も手直しを重ねて限界点を上げていきたい。</p>
@@ -100,9 +100,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hans Bellmer模写]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/illust-bellmer/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/illust-bellmer/"/>
     <updated>2013-03-17T14:44:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/illust-bellmer</id>
+    <id>http://log.dolice.net/blog/2013/03/17/illust-bellmer</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/bellmer.jpg" alt="" /></p>
 
 <p>ハンス・ベルメールのエッチングの模写。ベジェでは逆に表現できなかったので、短い直線を何千本も重ねて描く。拙いながらも何もイメージが湧かないうちの体操になったし、単純作業の繰り返しで次第に衝動が和らぎ心が安らいでいった。いまは炭水化物を6日間ほど摂っておらず意識朦朧で、無意識が広く作用する状態で何をできるのか試してみたかった。</p>

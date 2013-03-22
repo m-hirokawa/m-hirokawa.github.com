@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: download | Dolice Log]]></title>
-  <link href="http://m-hirokawa.github.com/blog/categories/download/atom.xml" rel="self"/>
-  <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-20T12:41:17+09:00</updated>
-  <id>http://m-hirokawa.github.com/</id>
+  <link href="http://log.dolice.net/blog/categories/download/atom.xml" rel="self"/>
+  <link href="http://log.dolice.net/"/>
+  <updated>2013-03-22T21:57:58+09:00</updated>
+  <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[masakihirokawa@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[GitHub]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/download-github/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/download-github/"/>
     <updated>2013-03-17T17:26:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/download-github</id>
+    <id>http://log.dolice.net/blog/2013/03/17/download-github</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
 
 <p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
@@ -36,9 +36,9 @@
   
   <entry>
     <title type="html"><![CDATA[Heimatlos]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-heimatlos/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphic-heimatlos/"/>
     <updated>2013-03-17T16:59:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-heimatlos</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphic-heimatlos</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/heimatlos/heimatlos_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/heimatlos/">英題:“Heimatlos” / 邦題:「ハイマー・トロース」 Oct 2012 / 210×420 / 32bit HDR</a> (<a href="http://goo.gl/2LDrt">Model</a>)</p>
@@ -56,9 +56,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hesychasm]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-hesychasm/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphic-hesychasm/"/>
     <updated>2013-03-17T16:54:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-hesychasm</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphic-hesychasm</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hesychasm/hesychasm_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/hesychasm/">英題:“Hesychasm” / 邦題:「ヘシュカスムにおける神化の思想」 Apr 2012 / 658×991 / 32bit HDR</a></p>
@@ -76,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[iPhone + loftwork world traveler project “loftwork artist calendar”部門入選]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-loftwork-iphone/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphic-loftwork-iphone/"/>
     <updated>2013-03-17T16:39:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-loftwork-iphone</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphic-loftwork-iphone</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/iphone_x_loftwork.gif" alt="" /></p>
 
 <p><a href="http://www.loftwork.com/support/loftwork_iphoneapp.aspx">loftwork creators world traveler project</a></p>
@@ -99,9 +99,9 @@
   
   <entry>
     <title type="html"><![CDATA[Pandora]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/graphic-pandora/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/graphic-pandora/"/>
     <updated>2013-03-17T16:38:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/graphic-pandora</id>
+    <id>http://log.dolice.net/blog/2013/03/17/graphic-pandora</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/pandora/pandora_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/pandora/">英題:“Pandora” / 邦題:「冀望」/ Jul 2009 / 420×630 / 32bit HDR</a></p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: exhibition | Dolice Log]]></title>
-  <link href="http://m-hirokawa.github.com/blog/categories/exhibition/atom.xml" rel="self"/>
-  <link href="http://m-hirokawa.github.com/"/>
-  <updated>2013-03-20T12:41:17+09:00</updated>
-  <id>http://m-hirokawa.github.com/</id>
+  <link href="http://log.dolice.net/blog/categories/exhibition/atom.xml" rel="self"/>
+  <link href="http://log.dolice.net/"/>
+  <updated>2013-03-22T21:57:58+09:00</updated>
+  <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[masakihirokawa@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[ニューヨークギャラリー展示]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/exhibition/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/exhibition/"/>
     <updated>2013-03-17T14:35:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/exhibition</id>
+    <id>http://log.dolice.net/blog/2013/03/17/exhibition</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/upload/ny01.jpg" title="PH Gallery" alt="PH Gallery" /></p>
 
 <p>ニューヨークの PH Gallery にて催された下記『J - Passion Vol.1』の展示が終了した模様です。今回も予算とスケジュールの都合で足を運べなかったことからあまり実感がなく、強いて言えば他人事のようで、発送が終わった途端に記憶から抜けていました。4月前半の2週間、ほぼ無我の境地で記憶喪失になりかけながら寝ずに作業をした割りにカタルシスがありません。ただ、現地の声としては玄人の方からの反響が多かったそうです。</p>
@@ -35,9 +35,9 @@ schedule: 2006.7/27～8/5</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[GALLERY ART POINT | Larotica II グループ展のお知らせ]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/exhibition-larotica-II/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/exhibition-larotica-II/"/>
     <updated>2013-03-17T14:00:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/exhibition-larotica-II</id>
+    <id>http://log.dolice.net/blog/2013/03/17/exhibition-larotica-II</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/Larotica_DM.jpg" alt="" /></p>
 
 <p>2009年8月に銀座の画廊 <a href="http://art-point.jp/">GALLERY ART POINT／ギャラリー・アート・ポイント</a>にて催される、Larotica II グループ展に参加します。A3～A1迄のサイズで 11枚展示しています。</p>
@@ -64,9 +64,9 @@ schedule: 2006.7/27～8/5</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[福岡 Gallery CELESTE展示のお知らせ]]></title>
-    <link href="http://m-hirokawa.github.com/blog/2013/03/17/exhibition-celeste/"/>
+    <link href="http://log.dolice.net/blog/2013/03/17/exhibition-celeste/"/>
     <updated>2013-03-17T13:50:00+09:00</updated>
-    <id>http://m-hirokawa.github.com/blog/2013/03/17/exhibition-celeste</id>
+    <id>http://log.dolice.net/blog/2013/03/17/exhibition-celeste</id>
     <content type="html"><![CDATA[<p><img src="http://dolice.net/upload/gallery200606.jpg" alt="" /></p>
 
 <p><a href="http://web-celeste.com/">福岡 Gallery CELESTE</a>にて 6/13(Tue)～6/25(Sun)まで開催中の『My Little Space 展 8 後期』に、ポストカード108枚(他・アルバム/アクリルフレーム)を展示させて頂いております。近隣の方はぜひお立ち寄りください。</p>
