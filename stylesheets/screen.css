@@ -80,7 +80,7 @@ ul li {
   }
   
   #hero-inner h1, #hero-inner h2 {
-    font-family: 'Perpetua Titling';
+    font-family: 'Perpetua Titling', 'Century Schoolbook', "ＭＳ Ｐ明朝", "ＭＳ 明朝", "細明朝体", serif;
   }
 
 h2, .title {
