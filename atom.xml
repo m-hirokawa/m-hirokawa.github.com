@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://log.dolice.net/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2013-03-30T20:41:24+09:00</updated>
+  <updated>2013-04-28T16:16:37+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kehre. CD Jacket]]></title>
+    <link href="http://log.dolice.net/blog/2013/04/28/graphics-kehre/"/>
+    <updated>2013-04-28T16:10:00+09:00</updated>
+    <id>http://log.dolice.net/blog/2013/04/28/graphics-kehre</id>
+    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/kehre_72dpi.jpg" title="Kehre. CD Jacket" alt="Kehre. CD Jacket" /></p>
+
+<p><img src="http://dolice.net/images/thumb/kehre_falling-to-nostalgia_72dpi.jpg" title="Kehre. - falling to nostalgia" alt="Kehre. - falling to nostalgia" /></p>
+
+<p>Kehre. というバンドの CD Jacket用にグラフィックを制作しました。曲から受けたインスピレーションを基にコンセプトアートを構築しました。</p>
+
+<p>下記の YouTubeチャンネルから一部の曲を聴くことができます。印象的な曲が揃っているので是非ご覧ください。</p>
+
+<p><a href="http://www.youtube.com/user/kehreorg/videos?view=0&amp;flow=grid" title="Kehre. - YouTube Channel">Kehre. - YouTube Channel</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GitHub]]></title>
@@ -389,24 +406,6 @@
 
 <ul>
 <li><a href="http://dolice.net/wallpaper/?id=el">http://dolice.net/wallpaper/?id=el</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maldoror]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-maldoror/"/>
-    <updated>2013-03-17T16:23:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-maldoror</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/maldoror/maldoror_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/maldoror/">英題:“Maldoror” / 邦題:「140年後のマルドロール」 / May 2009 / 594×488</a></p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=maldoror">http://dolice.net/wallpaper/?id=maldoror</a></li>
 </ul>
 
 ]]></content>
