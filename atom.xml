@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://log.dolice.net/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2013-09-16T12:41:31+09:00</updated>
+  <updated>2013-09-21T05:20:35+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iPhoneアプリ「ヒーリング音楽と癒しの雨音」をリリースしました]]></title>
+    <link href="http://log.dolice.net/blog/2013/09/21/ios-hearing-healing/"/>
+    <updated>2013-09-21T05:20:00+09:00</updated>
+    <id>http://log.dolice.net/blog/2013/09/21/ios-hearing-healing</id>
+    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/hearing_healing.jpg" title="iPhone Apps: Hearing Healing" alt="iPhone Apps: Hearing Healing" /></p>
+
+<p>iPhoneでヒーリング音楽や雨音などの環境音を再生できるアプリ、「ヒーリング音楽と癒しの雨音」をリリースしました。</p>
+
+<p>ヒーリング音楽を流したり、雨音を聴いてリラックスできるアプリで、目覚まし機能も搭載しています。雨音の再生時間も指定できますので、睡眠導入用途にも使用する事ができます。</p>
+
+<p>下記よりアプリのダウンロードが行えます。</p>
+
+<h2>アプリのダウンロード</h2>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/app/hearing-healing/id694492667?l=ja&amp;ls=1&amp;mt=8">https://itunes.apple.com/us/app/hearing-healing/id694492667?l=ja&amp;ls=1&amp;mt=8</a></li>
+</ul>
+
+
+<h2>主な機能</h2>
+
+<ul>
+<li>ヒーリングミュージック再生機能</li>
+<li>ヒーリングミュージックのオールプレイ機能</li>
+<li>雨音と環境音の再生機能</li>
+<li>目覚まし機能 (複数のアラーム音から選択)</li>
+</ul>
+
+
+<p>是非ダウンロードしてお楽しみください。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「Dolice グラフィックアート壁紙」をリリースしました]]></title>
@@ -413,24 +447,6 @@
     <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/echidna/echidna_72dpi.jpg" alt="" /></p>
 
 <p><a href="http://dolice.net/graphic/echidna/">英題:“Echidna” / 邦題:「陰翳」 / Jun 2009 / 420×594</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hera]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-hera/"/>
-    <updated>2013-03-17T16:25:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-hera</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hera/hera_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/hera/">英題:“Hera” / 邦題:「異界の嫁入り」 / Jun 2009 / 1040×594</a></p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=hera">http://dolice.net/wallpaper/?id=hera</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
