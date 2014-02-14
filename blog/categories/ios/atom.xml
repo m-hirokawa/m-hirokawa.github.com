@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ios | Dolice Log]]></title>
   <link href="http://log.dolice.net/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2013-12-29T12:37:48+09:00</updated>
+  <updated>2014-02-14T16:15:09+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -61,17 +61,17 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[iPhoneアプリ「Dolice グラフィックアート壁紙」をリリースしました]]></title>
+    <title type="html"><![CDATA[iPhoneアプリ「グラフィックアート壁紙」をリリースしました]]></title>
     <link href="http://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper/"/>
     <updated>2013-09-02T16:26:00+09:00</updated>
     <id>http://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper</id>
-    <content type="html"><![CDATA[<p><img src="/images/article/dolice_graphic_arts_wallpaper.jpg" title="iPhone Apps: Dolice Graphic Arts Wallpaper" alt="iPhone Apps: Dolice Graphic Arts Wallpaper" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/article/dolice_graphic_arts_wallpaper.jpg" title="iPhone App: Graphic Art Wallpapers &amp; Backgrounds HD for iOS 7" alt="iPhone App: Graphic Art Wallpapers &amp; Backgrounds HD for iOS 7" /></p>
 
-<p>iPhone用の壁紙をダウンロード出来るアプリ、「Dolice グラフィックアート壁紙」をリリースしました。</p>
+<p>iPhone用の壁紙をダウンロード出来るアプリ、「グラフィックアート壁紙」をリリースしました。</p>
 
 <p>このアプリには合計23枚の壁紙を収録しています。ページを捲って壁紙を選び、好きな壁紙をカメラロールに保存出来ます。</p>
 
-<p>下記よりアプリのダウンロードが行えます。有料アプリで、価格は85円です。</p>
+<p>下記よりアプリのダウンロードが行えます。有料アプリで、価格は100円です。</p>
 
 <h2>アプリのダウンロード</h2>
 
@@ -94,8 +94,7 @@
 <h2>壁紙のサイズ</h2>
 
 <ul>
-<li>iPhone 5: 横幅640×縦幅1136ピクセル</li>
-<li>iPhone 4S/4: 横幅640×縦幅960ピクセル</li>
+<li>横幅744×縦幅1392ピクセル (iOS 7の視差効果に対応)</li>
 </ul>
 
 ]]></content>
