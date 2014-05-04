@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://log.dolice.net/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2014-05-04T12:04:57+09:00</updated>
+  <updated>2014-05-04T12:25:56+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -34,6 +34,67 @@
 
 <ul>
 <li><strong><a href="http://bit.ly/1q0FIWt" title="iPhone壁紙特集記事 No.15 - たのしいiPhone！ AppBank">iPhone壁紙特集記事 No.15 - たのしいiPhone！ AppBank</a></strong></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iPhoneアプリ「浮世絵のHD壁紙」をリリースしました]]></title>
+    <link href="http://log.dolice.net/blog/2014/03/18/ios-ukiyo-e/"/>
+    <updated>2014-03-18T12:00:00+09:00</updated>
+    <id>http://log.dolice.net/blog/2014/03/18/ios-ukiyo-e</id>
+    <content type="html"><![CDATA[<p><img src="/images/article/ukiyo-e.jpg" title="iPhone App: 浮世絵のHD壁紙 無料 iOS7対応" alt="iPhone App: 浮世絵のHD壁紙 無料 iOS7対応" /></p>
+
+<p>日本の浮世絵を iPhone用の壁紙として収録したアプリ「<a href="https://itunes.apple.com/us/app/ukiyoe/id835559799?ls=1&amp;mt=8" title="浮世絵のHD壁紙">浮世絵のHD壁紙</a>」をリリースしました。</p>
+
+<p>葛飾北斎、安藤広重、東洲斎写楽などの名作や、和柄など日本の伝統模様を現代風にレタッチし収録しています。</p>
+
+<p>300枚の画を1枚ずつレタッチする大変な作業でしたが、年代相応の染みや皺を修復する過程で過去の絵師さんの意図を感じ取ることができ、とても勉強になりました。</p>
+
+<p>このアプリが日本画の美しさを国内外の方に再認識させる切っ掛けになることを願っています。</p>
+
+<p>下記からアプリを無料でダウンロードできますので、是非ご利用ください。</p>
+
+<h2>アプリのダウンロード</h2>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/app/ukiyoe/id835559799?ls=1&amp;mt=8">https://itunes.apple.com/us/app/ukiyoe/id835559799?ls=1&amp;mt=8</a></li>
+</ul>
+
+
+<h2>主な機能</h2>
+
+<ul>
+<li>カメラロールに壁紙を保存</li>
+<li>全壁紙のサムネイル一覧表示</li>
+<li>壁紙のフルスクリーン表示</li>
+<li>壁紙のスライドショー機能</li>
+<li>メール / Facebook / Twitterに壁紙を共有</li>
+</ul>
+
+
+<h2>壁紙のサイズ</h2>
+
+<ul>
+<li>横幅744×縦幅1392ピクセル（視差効果に対応）</li>
+</ul>
+
+
+<h2>価格</h2>
+
+<ul>
+<li>無料</li>
+</ul>
+
+
+<h2>対応言語</h2>
+
+<ul>
+<li>日本語</li>
+<li>英語</li>
+<li>仏語</li>
+<li>ロシア語</li>
 </ul>
 
 ]]></content>
@@ -129,26 +190,6 @@
 <li><a href="https://github.com/masakihirokawa/wallpapers/">Wallpapers</a></li>
 <li><a href="https://github.com/masakihirokawa/js/">JavaScript Library</a></li>
 <li><a href="https://github.com/masakihirokawa/as3/">ActionScript 3.0 Library</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Heimatlos]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-heimatlos/"/>
-    <updated>2013-03-17T16:59:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-heimatlos</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/heimatlos/heimatlos_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/heimatlos/">英題:“Heimatlos” / 邦題:「ハイマー・トロース」 Oct 2012 / 210×420 / 32bit HDR</a> (<a href="http://goo.gl/2LDrt">Model</a>)</p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPhone5/heimatlos_640_1136.jpg">iPhone5壁紙</a></li>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPhone/heimatlos_640_960.jpg">iPhone壁紙</a></li>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPad/heimatlos_1024_1024.jpg">iPad壁紙</a></li>
 </ul>
 
 ]]></content>
