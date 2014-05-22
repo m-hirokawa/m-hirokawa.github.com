@@ -4,7 +4,7 @@
   <title><![CDATA[Category: download | Dolice Log]]></title>
   <link href="http://log.dolice.net/blog/categories/download/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2014-05-04T12:25:56+09:00</updated>
+  <updated>2014-05-22T10:13:49+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iPhoneアプリ「望みが叶う！引き寄せの法則アプリ」をリリースしました]]></title>
+    <link href="http://log.dolice.net/blog/2014/05/22/ios-law-of-attraction/"/>
+    <updated>2014-05-22T10:13:00+09:00</updated>
+    <id>http://log.dolice.net/blog/2014/05/22/ios-law-of-attraction</id>
+    <content type="html"><![CDATA[<p><img src="/images/article/law_of_attraction.jpg" title="iPhone App: 望みが叶う！引き寄せの法則アプリ" alt="iPhone App: 望みが叶う！引き寄せの法則アプリ" /></p>
+
+<p>引き寄せの法則を無理なく効果的に実践できる iPhoneアプリ「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?ls=1&amp;mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>」をリリースしました。</p>
+
+<p>西洋では20世紀初頭から引き寄せの法則について書かれた著書が出版され、現代でもナポレオン・ヒル氏の名著「Think and Grow Rich」（邦題:「思考は現実化する」）で知られるこの法則ですが、国内ではまだ認知度は少なく、一部の方に知られるのみとなっています。</p>
+
+<p>絶大な効果のあるにも関わらず科学的な根拠が明確ではないことから、未だ如何わしく宗教的なイメージがあるのも事実です。しかし、個人的には「魔法にも何らかの科学的根拠がある」と思っており、この法則を実践し自分の望みを何回か実現させれば、理性も納得し次から次へと望みを引き寄せられるようになります。自分もこの法則の恩恵を受け、完全な経済的自立とクリエイティブな毎日を実現しました。</p>
+
+<p>ただ、正しい望みの作成方法や引き寄せの習慣化の面で挫折してしまう方も多いのではないかと思い、このアプリには効果的な望みのサンプル文を200パターン以上用意し、自分の好きな時間に引き寄せのタイミングを知らせる「プッシュ通知機能」も搭載しました。また、プライバシー性の高いアプリであることから「パスワードロック機能」を搭載し、大事なデータを失わないよう「iCloudへのバックアップ機能」も搭載しています。</p>
+
+<p>開発には相当な労力と時間を費やしましたが、自分にとって大切な技術資産ができました。そして、このアプリで今より幸福になる方が増えれば世の中に少しでも貢献できるのではないかと思い、それを励みに頑張ることができました。このアプリを切っ掛けに引き寄せの法則を実践し、自分の望みを実現する方が1人でも多く増えるよう祈っています。</p>
+
+<p>下記から無料でアプリをダウンロードできますので、是非ご利用ください。</p>
+
+<h2>アプリのダウンロード</h2>
+
+<ul>
+<li><a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?ls=1&amp;mt=8">https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?ls=1&amp;mt=8</a></li>
+</ul>
+
+
+<h2>主な機能</h2>
+
+<ul>
+<li>直感的な操作で美しい「望み」を引き寄せ</li>
+<li>あなただけの「望み」を作成（約200パターンのサンプルテキストを用意）</li>
+<li>引き寄せのタイミングを忘れないようにプッシュ通知を設定</li>
+<li>アプリ起動時のパスワードロック機能</li>
+<li>iCloudへのバックアップ機能</li>
+</ul>
+
+
+<h2>価格</h2>
+
+<ul>
+<li>無料</li>
+</ul>
+
+
+<h2>対応言語</h2>
+
+<ul>
+<li>日本語</li>
+<li>英語</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AppBankさんの iPhone壁紙特集記事 No.15に掲載いただきました]]></title>
@@ -169,27 +223,6 @@
 
 <ul>
 <li>横幅744×縦幅1392ピクセル (iOS 7の視差効果に対応)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[GitHub]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/download-github/"/>
-    <updated>2013-03-17T17:26:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/download-github</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
-
-<p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
-
-<p><strong><a href="https://github.com/masakihirokawa">GitHub: masakihirokawa (Masaki Hirokawa)</a></strong></p>
-
-<ul>
-<li><a href="https://github.com/masakihirokawa/screensavers/">Screensavers</a></li>
-<li><a href="https://github.com/masakihirokawa/wallpapers/">Wallpapers</a></li>
-<li><a href="https://github.com/masakihirokawa/js/">JavaScript Library</a></li>
-<li><a href="https://github.com/masakihirokawa/as3/">ActionScript 3.0 Library</a></li>
 </ul>
 
 ]]></content>
