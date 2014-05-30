@@ -4,7 +4,7 @@
   <title><![CDATA[Category: magazine | Dolice Log]]></title>
   <link href="http://log.dolice.net/blog/categories/magazine/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2014-05-22T17:20:18+09:00</updated>
+  <updated>2014-05-30T14:27:41+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,15 +14,50 @@
 
   
   <entry>
+    <title type="html"><![CDATA[月刊 MacPeople 2014年7月号にインタビュー記事を掲載いただきました]]></title>
+    <link href="http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
+    <updated>2014-05-29T12:00:00+09:00</updated>
+    <id>http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
+    <content type="html"><![CDATA[<p><img src="/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
+
+<p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a>「人気＆注目のデベロッパーに聞く！スマホアプリの最新トレンド！（P 125）」にインタビュー記事を掲載いただきました。</p>
+
+<p>現在は基本的に Appleのインターフェース設計を基にアプリを開発する部分が多いですが、今後はこれを拡張した独自のフレームワークを設計し、デベロッパー同士で共有して行くことが重要だと思っています。</p>
+
+<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="http://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
+
+<p>全国誌でこのような特集が組まれることで、他のデベロッパーの方を知ることができますし、何より「私も初めてみよう」という方も沢山増えると思います。自分自身も、次は何をしようと思いながら他の方の記事を読んでいます。</p>
+
+<p>このような有り難い機会をくださった編集者の方に、心より御礼申し上げます。</p>
+
+<p>現在書店に並んでおりますので、是非お手に取ってご覧ください。</p>
+
+<h2>月刊 MacPeople（マックピープル）2014年7月号</h2>
+
+<ul>
+<li><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml">http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[月刊 MacPeople 2014年2月号に掲載いただきました]]></title>
     <link href="http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014/"/>
     <updated>2013-12-27T12:00:00+09:00</updated>
     <id>http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
     <content type="html"><![CDATA[<p><img src="/images/article/mac_people_feb_2014.jpg" title="MacPeople Feb 2014" alt="MacPeople Feb 2014" /></p>
 
-<p><a href="http://macpeople.jp/2013/12/macpeople_201421227.html" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
+<p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
 
-<p>書店で雑誌を見かけた際は、是非お手に取ってご覧ください。</p>
+<p>バックナンバーも購入できますので、是非お手に取ってご覧ください。</p>
+
+<h2>月刊 MacPeople（マックピープル）2014年2月号</h2>
+
+<ul>
+<li><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml">http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -102,34 +137,6 @@
 <p><a href="http://www.mdn.co.jp/di/book/44146/">Photoshop三ツ星テクニック大全 - MdN Design Interactive</a></p>
 
 <p><a href="http://www.mdn.co.jp/di/">MdN Design Interactive</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[月刊「MySpace From JP.」2009年8月号掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_1/"/>
-    <updated>2013-03-17T16:32:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_1</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/myspacefromjp_420_315.jpg" alt="" /></p>
-
-<p><img src="http://dolice.net/graphic/7thvision/7thvision_420_379.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/7thvision/">英題:“7th Vision” / 邦題:「妄覚とビジョン」 / Jun 2009 / 841×760</a></p>
-
-<p>雑誌「MySpace From JP.」2009年8月号、『on View From JP.』というコーナーに、上記グラフィックを掲載いただきました（掲載名: <a href="http://www.myspace.com/masakihirokawa">Masaki HIROKAWA</a> / 掲載ページ: P.110／P.111）。</p>
-
-<p>2009年5月25日に<a href="http://jp.myspace.com/">マイスペース</a>と<a href="http://www.tokyonews.co.jp/">東京ニュース通信社</a>より創刊された雑誌で、全国の書店、HMV、TSUTAYAにて取り扱っています。置いてあるのを見かけたら是非お手に取ってご覧ください。</p>
-
-<p><a href="http://www.myspace.com/fromjp">MySpace.com - MySpace From JP.</a></p>
-
-<p><a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=1004226605&blogId=496606592">MySpace.com - MySpace From JP. 6/25発売号</a></p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=7thvision">http://dolice.net/wallpaper/?id=7thvision</a></li>
-</ul>
-
 ]]></content>
   </entry>
   

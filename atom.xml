@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="http://log.dolice.net/atom.xml" rel="self"/>
   <link href="http://log.dolice.net/"/>
-  <updated>2014-05-22T17:20:18+09:00</updated>
+  <updated>2014-05-30T14:27:41+09:00</updated>
   <id>http://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[月刊 MacPeople 2014年7月号にインタビュー記事を掲載いただきました]]></title>
+    <link href="http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
+    <updated>2014-05-29T12:00:00+09:00</updated>
+    <id>http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
+    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
+
+<p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a>「人気＆注目のデベロッパーに聞く！スマホアプリの最新トレンド！（P 125）」にインタビュー記事を掲載いただきました。</p>
+
+<p>現在は基本的に Appleのインターフェース設計を基にアプリを開発する部分が多いですが、今後はこれを拡張した独自のフレームワークを設計し、デベロッパー同士で共有して行くことが重要だと思っています。</p>
+
+<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="http://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
+
+<p>全国誌でこのような特集が組まれることで、他のデベロッパーの方を知ることができますし、何より「私も初めてみよう」という方も沢山増えると思います。自分自身も、次は何をしようと思いながら他の方の記事を読んでいます。</p>
+
+<p>このような有り難い機会をくださった編集者の方に、心より御礼申し上げます。</p>
+
+<p>現在書店に並んでおりますので、是非お手に取ってご覧ください。</p>
+
+<h2>月刊 MacPeople（マックピープル）2014年7月号</h2>
+
+<ul>
+<li><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml">http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「望みが叶う！引き寄せの法則アプリ」をリリースしました]]></title>
@@ -161,9 +189,16 @@
     <id>http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
     <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/mac_people_feb_2014.jpg" title="MacPeople Feb 2014" alt="MacPeople Feb 2014" /></p>
 
-<p><a href="http://macpeople.jp/2013/12/macpeople_201421227.html" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
+<p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
 
-<p>書店で雑誌を見かけた際は、是非お手に取ってご覧ください。</p>
+<p>バックナンバーも購入できますので、是非お手に取ってご覧ください。</p>
+
+<h2>月刊 MacPeople（マックピープル）2014年2月号</h2>
+
+<ul>
+<li><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml">http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -515,24 +550,6 @@
 
 <ul>
 <li><a href="http://dolice.net/wallpaper/?id=frigg">http://dolice.net/wallpaper/?id=frigg</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sarah]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-sarah/"/>
-    <updated>2013-03-17T16:30:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-sarah</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/sarah/sarah_72dpi.jpg" alt="" /></p>
-
-<p><a href="http://dolice.net/graphic/sarah/">英題:“Sarah” / 邦題:「罪」 / Jun 2009 / 440×297</a></p>
-
-<h4>壁紙ダウンロード</h4>
-
-<ul>
-<li><a href="http://dolice.net/wallpaper/?id=sarah">http://dolice.net/wallpaper/?id=sarah</a></li>
 </ul>
 
 ]]></content>
