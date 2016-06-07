@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: magazine | Dolice Log]]></title>
-  <link href="http://log.dolice.net/blog/categories/magazine/atom.xml" rel="self"/>
-  <link href="http://log.dolice.net/"/>
-  <updated>2016-05-26T09:53:48+09:00</updated>
-  <id>http://log.dolice.net/</id>
+  <link href="https://log.dolice.net/blog/categories/magazine/atom.xml" rel="self"/>
+  <link href="https://log.dolice.net/"/>
+  <updated>2016-06-07T17:47:35+09:00</updated>
+  <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[info@dolice.net]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[技術評論社「自律神経を整えるスマホアプリ100選」に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves/"/>
+    <link href="https://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves/"/>
     <updated>2016-01-22T00:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves</id>
+    <id>https://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves</id>
     <content type="html"><![CDATA[<p><img src="/images/article/gijutsu-hyohron-autonomic-nerves.jpg" title="技術評論社「自律神経を整えるスマホアプリ100選」" alt="技術評論社「自律神経を整えるスマホアプリ100選」" /></p>
 
 <p>技術評論社様より1月22日に発行された「<a href="http://gihyo.jp/book/2016/978-4-7741-7848-6" title="自律神経を整えるスマホアプリ100選">自律神経を整えるスマホアプリ100選</a>」という書籍にて、iPhoneアプリ「<a href="https://itunes.apple.com/us/app/hearing-healing/id694492667?mt=8" title="リラックス・ヒーリング">リラックス・ヒーリング</a>（<em>P 43</em>）」と「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>（<em>P 75</em>）」の両アプリをご紹介いただきました。</p>
@@ -49,16 +49,16 @@
   
   <entry>
     <title type="html"><![CDATA[月刊 MacPeople 2014年7月号にインタビュー記事を掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
+    <link href="https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
     <updated>2014-05-29T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
+    <id>https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
     <content type="html"><![CDATA[<p><img src="/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
 
 <p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a>「人気＆注目のデベロッパーに聞く！スマホアプリの最新トレンド！（P 125）」にインタビュー記事を掲載いただきました。</p>
 
 <p>現在は基本的に Appleのインターフェース設計を基にアプリを開発する部分が多いですが、今後はこれを拡張した独自のフレームワークを設計し、デベロッパー同士で共有して行くことが重要だと思っています。</p>
 
-<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="http://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
+<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="https://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
 
 <p>全国誌でこのような特集が組まれることで、他のデベロッパーの方を知ることができますし、何より「私も初めてみよう」という方も沢山増えると思います。自分自身も、次は何をしようと思いながら他の方の記事を読んでいます。</p>
 
@@ -77,9 +77,9 @@
   
   <entry>
     <title type="html"><![CDATA[月刊 MacPeople 2014年2月号に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014/"/>
+    <link href="https://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014/"/>
     <updated>2013-12-27T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
+    <id>https://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
     <content type="html"><![CDATA[<p><img src="/images/article/mac_people_feb_2014.jpg" title="MacPeople Feb 2014" alt="MacPeople Feb 2014" /></p>
 
 <p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
@@ -97,10 +97,10 @@
   
   <entry>
     <title type="html"><![CDATA[MdNムック「Photoshop × Illustratorで創り出す　コラージュ＆イラスト」へCG掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2/"/>
     <updated>2013-03-17T16:52:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/MdN_mook_ISBN978-4-8443-6154-1_420.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/MdN_mook_ISBN978-4-8443-6154-1_420.jpg" alt="" /></p>
 
 <p>2010年11月1日に <b><a href="http://www.mdn.co.jp/di/">MdN Corporation</a></b>より発行された、MdNムック「<a href="http://www.mdn.co.jp/di/book/44182/"><b>Photoshop×Illustratorで創り出す　コラージュ＆イラスト</b></a>」へグラフィックと作業工程解説文を掲載いただきました。</p>
 
@@ -129,10 +129,10 @@
   
   <entry>
     <title type="html"><![CDATA[月刊「MySpace From JP.」2009年10月号掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2/"/>
     <updated>2013-03-17T16:42:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/msjp_200910_contents.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/msjp_200910_contents.jpg" alt="" /></p>
 
 <p><a href="http://www.myspace.com/fromjp">月刊「MySpace From JP.」2009年10月号</a>、『GADGET FOR DIGITAL NATIVE』というコーナーに、グラフィックと工程解説文を掲載いただきました（掲載名: <a href="http://www.myspace.com/masakihirokawa">Masaki Hirokawa／廣川政樹</a> / 掲載ページ: P.124／P.125）。</p>
 

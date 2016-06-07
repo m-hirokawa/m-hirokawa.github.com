@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ios | Dolice Log]]></title>
-  <link href="http://log.dolice.net/blog/categories/ios/atom.xml" rel="self"/>
-  <link href="http://log.dolice.net/"/>
-  <updated>2016-05-26T09:53:48+09:00</updated>
-  <id>http://log.dolice.net/</id>
+  <link href="https://log.dolice.net/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="https://log.dolice.net/"/>
+  <updated>2016-06-07T17:47:35+09:00</updated>
+  <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[info@dolice.net]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[技術評論社「自律神経を整えるスマホアプリ100選」に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves/"/>
+    <link href="https://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves/"/>
     <updated>2016-01-22T00:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves</id>
+    <id>https://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves</id>
     <content type="html"><![CDATA[<p><img src="/images/article/gijutsu-hyohron-autonomic-nerves.jpg" title="技術評論社「自律神経を整えるスマホアプリ100選」" alt="技術評論社「自律神経を整えるスマホアプリ100選」" /></p>
 
 <p>技術評論社様より1月22日に発行された「<a href="http://gihyo.jp/book/2016/978-4-7741-7848-6" title="自律神経を整えるスマホアプリ100選">自律神経を整えるスマホアプリ100選</a>」という書籍にて、iPhoneアプリ「<a href="https://itunes.apple.com/us/app/hearing-healing/id694492667?mt=8" title="リラックス・ヒーリング">リラックス・ヒーリング</a>（<em>P 43</em>）」と「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>（<em>P 75</em>）」の両アプリをご紹介いただきました。</p>
@@ -49,16 +49,16 @@
   
   <entry>
     <title type="html"><![CDATA[月刊 MacPeople 2014年7月号にインタビュー記事を掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
+    <link href="https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
     <updated>2014-05-29T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
+    <id>https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
     <content type="html"><![CDATA[<p><img src="/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
 
 <p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a>「人気＆注目のデベロッパーに聞く！スマホアプリの最新トレンド！（P 125）」にインタビュー記事を掲載いただきました。</p>
 
 <p>現在は基本的に Appleのインターフェース設計を基にアプリを開発する部分が多いですが、今後はこれを拡張した独自のフレームワークを設計し、デベロッパー同士で共有して行くことが重要だと思っています。</p>
 
-<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="http://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
+<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="https://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
 
 <p>全国誌でこのような特集が組まれることで、他のデベロッパーの方を知ることができますし、何より「私も初めてみよう」という方も沢山増えると思います。自分自身も、次は何をしようと思いながら他の方の記事を読んでいます。</p>
 
@@ -77,9 +77,9 @@
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「望みが叶う！引き寄せの法則アプリ」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/22/ios-law-of-attraction/"/>
+    <link href="https://log.dolice.net/blog/2014/05/22/ios-law-of-attraction/"/>
     <updated>2014-05-22T10:13:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/22/ios-law-of-attraction</id>
+    <id>https://log.dolice.net/blog/2014/05/22/ios-law-of-attraction</id>
     <content type="html"><![CDATA[<p><img src="/images/article/law_of_attraction.jpg" title="iPhone App: 望みが叶う！引き寄せの法則アプリ" alt="iPhone App: 望みが叶う！引き寄せの法則アプリ" /></p>
 
 <p>引き寄せの法則を無理なく効果的に実践できる iPhoneアプリ「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?ls=1&amp;mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>」をリリースしました。</p>
@@ -133,9 +133,9 @@
   
   <entry>
     <title type="html"><![CDATA[AppBankさんの iPhone壁紙特集記事 No.15に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e/"/>
+    <link href="https://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e/"/>
     <updated>2014-05-04T11:52:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e</id>
+    <id>https://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e</id>
     <content type="html"><![CDATA[<p><img src="/images/article/appbank_ukiyo-e.jpg" alt="" /></p>
 
 <p><a href="http://www.appbank.net" title="AppBank">AppBank</a>さんが毎週土曜日に更新されている <a href="http://bit.ly/1q0FIWt" title="iPhone壁紙特集記事 No.15">iPhone壁紙特集記事 No.15</a>に「<a href="https://itunes.apple.com/us/app/ukiyoe/id835559799" title="浮世絵壁紙 - 美しい日本画ギャラリー">浮世絵壁紙 - 美しい日本画ギャラリー</a>」を紹介いただきました。</p>
@@ -159,9 +159,9 @@
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「浮世絵壁紙 - 美しい日本画ギャラリー」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2014/03/18/ios-ukiyo-e/"/>
+    <link href="https://log.dolice.net/blog/2014/03/18/ios-ukiyo-e/"/>
     <updated>2014-03-18T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/03/18/ios-ukiyo-e</id>
+    <id>https://log.dolice.net/blog/2014/03/18/ios-ukiyo-e</id>
     <content type="html"><![CDATA[<p><img src="/images/article/ukiyo-e.jpg" title="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" alt="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" /></p>
 
 <p>日本の浮世絵を iPhone用の壁紙として収録したアプリ「<a href="https://itunes.apple.com/us/app/ukiyoe/id835559799" title="浮世絵壁紙 - 美しい日本画ギャラリー">浮世絵壁紙 - 美しい日本画ギャラリー</a>」をリリースしました。</p>

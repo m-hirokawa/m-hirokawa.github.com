@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Dolice Log]]></title>
-  <link href="http://log.dolice.net/atom.xml" rel="self"/>
-  <link href="http://log.dolice.net/"/>
-  <updated>2016-05-26T09:53:48+09:00</updated>
-  <id>http://log.dolice.net/</id>
+  <link href="https://log.dolice.net/atom.xml" rel="self"/>
+  <link href="https://log.dolice.net/"/>
+  <updated>2016-06-07T17:47:35+09:00</updated>
+  <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
     <email><![CDATA[info@dolice.net]]></email>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[技術評論社「自律神経を整えるスマホアプリ100選」に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves/"/>
+    <link href="https://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves/"/>
     <updated>2016-01-22T00:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/gijutsu-hyohron-autonomic-nerves.jpg" title="技術評論社「自律神経を整えるスマホアプリ100選」" alt="技術評論社「自律神経を整えるスマホアプリ100選」" /></p>
+    <id>https://log.dolice.net/blog/2016/01/22/ios-gijutsu-hyohron-autonomic-nerves</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/gijutsu-hyohron-autonomic-nerves.jpg" title="技術評論社「自律神経を整えるスマホアプリ100選」" alt="技術評論社「自律神経を整えるスマホアプリ100選」" /></p>
 
 <p>技術評論社様より1月22日に発行された「<a href="http://gihyo.jp/book/2016/978-4-7741-7848-6" title="自律神経を整えるスマホアプリ100選">自律神経を整えるスマホアプリ100選</a>」という書籍にて、iPhoneアプリ「<a href="https://itunes.apple.com/us/app/hearing-healing/id694492667?mt=8" title="リラックス・ヒーリング">リラックス・ヒーリング</a>（<em>P 43</em>）」と「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>（<em>P 75</em>）」の両アプリをご紹介いただきました。</p>
 
@@ -49,10 +49,10 @@
   
   <entry>
     <title type="html"><![CDATA[Androidアプリ「浮世絵壁紙 - 美しい日本画ギャラリー」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2015/12/07/android-ukiyo-e/"/>
+    <link href="https://log.dolice.net/blog/2015/12/07/android-ukiyo-e/"/>
     <updated>2015-12-07T11:35:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2015/12/07/android-ukiyo-e</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/ukiyo-e_android.jpg" title="Android app: 浮世絵壁紙 - 美しい日本画ギャラリー" alt="Android app: 浮世絵壁紙 - 美しい日本画ギャラリー" /></p>
+    <id>https://log.dolice.net/blog/2015/12/07/android-ukiyo-e</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/ukiyo-e_android.jpg" title="Android app: 浮世絵壁紙 - 美しい日本画ギャラリー" alt="Android app: 浮世絵壁紙 - 美しい日本画ギャラリー" /></p>
 
 <p>日本の浮世絵を600枚以上掲載したアプリ「<a href="https://play.google.com/store/apps/details?id=net.dolice.ukiyoe" title="浮世絵壁紙 - 美しい日本画ギャラリー">浮世絵壁紙 - 美しい日本画ギャラリー</a>」をリリースしました。</p>
 
@@ -154,16 +154,16 @@
   
   <entry>
     <title type="html"><![CDATA[月刊 MacPeople 2014年7月号にインタビュー記事を掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
+    <link href="https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
     <updated>2014-05-29T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
+    <id>https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
 
 <p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a>「人気＆注目のデベロッパーに聞く！スマホアプリの最新トレンド！（P 125）」にインタビュー記事を掲載いただきました。</p>
 
 <p>現在は基本的に Appleのインターフェース設計を基にアプリを開発する部分が多いですが、今後はこれを拡張した独自のフレームワークを設計し、デベロッパー同士で共有して行くことが重要だと思っています。</p>
 
-<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="http://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
+<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="https://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
 
 <p>全国誌でこのような特集が組まれることで、他のデベロッパーの方を知ることができますし、何より「私も初めてみよう」という方も沢山増えると思います。自分自身も、次は何をしようと思いながら他の方の記事を読んでいます。</p>
 
@@ -182,10 +182,10 @@
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「望みが叶う！引き寄せの法則アプリ」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/22/ios-law-of-attraction/"/>
+    <link href="https://log.dolice.net/blog/2014/05/22/ios-law-of-attraction/"/>
     <updated>2014-05-22T10:13:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/22/ios-law-of-attraction</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/law_of_attraction.jpg" title="iPhone App: 望みが叶う！引き寄せの法則アプリ" alt="iPhone App: 望みが叶う！引き寄せの法則アプリ" /></p>
+    <id>https://log.dolice.net/blog/2014/05/22/ios-law-of-attraction</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/law_of_attraction.jpg" title="iPhone App: 望みが叶う！引き寄せの法則アプリ" alt="iPhone App: 望みが叶う！引き寄せの法則アプリ" /></p>
 
 <p>引き寄せの法則を無理なく効果的に実践できる iPhoneアプリ「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?ls=1&amp;mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>」をリリースしました。</p>
 
@@ -238,10 +238,10 @@
   
   <entry>
     <title type="html"><![CDATA[AppBankさんの iPhone壁紙特集記事 No.15に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e/"/>
+    <link href="https://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e/"/>
     <updated>2014-05-04T11:52:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/appbank_ukiyo-e.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2014/05/04/ios-appbank-ukiyo-e</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/appbank_ukiyo-e.jpg" alt="" /></p>
 
 <p><a href="http://www.appbank.net" title="AppBank">AppBank</a>さんが毎週土曜日に更新されている <a href="http://bit.ly/1q0FIWt" title="iPhone壁紙特集記事 No.15">iPhone壁紙特集記事 No.15</a>に「<a href="https://itunes.apple.com/us/app/ukiyoe/id835559799" title="浮世絵壁紙 - 美しい日本画ギャラリー">浮世絵壁紙 - 美しい日本画ギャラリー</a>」を紹介いただきました。</p>
 
@@ -264,10 +264,10 @@
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「浮世絵壁紙 - 美しい日本画ギャラリー」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2014/03/18/ios-ukiyo-e/"/>
+    <link href="https://log.dolice.net/blog/2014/03/18/ios-ukiyo-e/"/>
     <updated>2014-03-18T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2014/03/18/ios-ukiyo-e</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/ukiyo-e.jpg" title="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" alt="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" /></p>
+    <id>https://log.dolice.net/blog/2014/03/18/ios-ukiyo-e</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/ukiyo-e.jpg" title="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" alt="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" /></p>
 
 <p>日本の浮世絵を iPhone用の壁紙として収録したアプリ「<a href="https://itunes.apple.com/us/app/ukiyoe/id835559799" title="浮世絵壁紙 - 美しい日本画ギャラリー">浮世絵壁紙 - 美しい日本画ギャラリー</a>」をリリースしました。</p>
 
@@ -372,10 +372,10 @@
   
   <entry>
     <title type="html"><![CDATA[月刊 MacPeople 2014年2月号に掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014/"/>
+    <link href="https://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014/"/>
     <updated>2013-12-27T12:00:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/mac_people_feb_2014.jpg" title="MacPeople Feb 2014" alt="MacPeople Feb 2014" /></p>
+    <id>https://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/mac_people_feb_2014.jpg" title="MacPeople Feb 2014" alt="MacPeople Feb 2014" /></p>
 
 <p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
 
@@ -392,10 +392,10 @@
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「リラックス・ヒーリング」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2013/09/21/ios-hearing-healing/"/>
+    <link href="https://log.dolice.net/blog/2013/09/21/ios-hearing-healing/"/>
     <updated>2013-09-21T05:20:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/09/21/ios-hearing-healing</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/hearing_healing.jpg" title="iPhone Apps: Hearing Healing" alt="iPhone Apps: Hearing Healing" /></p>
+    <id>https://log.dolice.net/blog/2013/09/21/ios-hearing-healing</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/hearing_healing.jpg" title="iPhone Apps: Hearing Healing" alt="iPhone Apps: Hearing Healing" /></p>
 
 <p>iPhoneでヒーリング音楽や雨音などの環境音を再生できるアプリ「リラックス・ヒーリング」をリリースしました。</p>
 
@@ -488,10 +488,10 @@
   
   <entry>
     <title type="html"><![CDATA[iPhoneアプリ「グラフィックアート壁紙」をリリースしました]]></title>
-    <link href="http://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper/"/>
+    <link href="https://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper/"/>
     <updated>2013-09-02T16:26:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper</id>
-    <content type="html"><![CDATA[<p><img src="http://log.dolice.net/images/article/dolice_graphic_arts_wallpaper.jpg" title="iPhone app: Graphic Art Wallpapers" alt="iPhone app: Graphic Art Wallpapers" /></p>
+    <id>https://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/dolice_graphic_arts_wallpaper.jpg" title="iPhone app: Graphic Art Wallpapers" alt="iPhone app: Graphic Art Wallpapers" /></p>
 
 <p>これまでに制作したグラフィックを iPhone用の壁紙として収録した「<a href="https://itunes.apple.com/us/app/dolice-graphic-arts-wallpaper/id633330618" title="グラフィックアート壁紙">グラフィックアート壁紙</a>」をリリースしました。</p>
 
@@ -537,12 +537,12 @@
   
   <entry>
     <title type="html"><![CDATA[Kehre. CD Jacket]]></title>
-    <link href="http://log.dolice.net/blog/2013/04/28/graphics-kehre/"/>
+    <link href="https://log.dolice.net/blog/2013/04/28/graphics-kehre/"/>
     <updated>2013-04-28T16:10:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/04/28/graphics-kehre</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/kehre/kehre_72dpi.jpg" title="Kehre. CD Jacket" alt="Kehre. CD Jacket" /></p>
+    <id>https://log.dolice.net/blog/2013/04/28/graphics-kehre</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/graphic/kehre/kehre_72dpi.jpg" title="Kehre. CD Jacket" alt="Kehre. CD Jacket" /></p>
 
-<p><img src="http://dolice.net/graphic/kehre/kehre_falling-to-nostalgia_72dpi.jpg" title="Kehre. - falling to nostalgia" alt="Kehre. - falling to nostalgia" /></p>
+<p><img src="https://dolice.net/graphic/kehre/kehre_falling-to-nostalgia_72dpi.jpg" title="Kehre. - falling to nostalgia" alt="Kehre. - falling to nostalgia" /></p>
 
 <p>Kehre. というバンドの CD Jacket用にグラフィックを制作しました。曲から受けたインスピレーションを基にコンセプトアートを構築しました。</p>
 
@@ -554,10 +554,10 @@
   
   <entry>
     <title type="html"><![CDATA[GitHub]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/download-github/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/download-github/"/>
     <updated>2013-03-17T17:26:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/download-github</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/github.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/download-github</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/github.jpg" alt="" /></p>
 
 <p><a href="https://github.com/masakihirokawa">GitHub</a>にスクリーンセーバや iPhone5/デスクトップ用の壁紙を公開しました。他にも JavaScriptや ActionScript 3.0のライブラリも公開しています。少しでもお役に立てば嬉しいです。</p>
 
@@ -575,19 +575,19 @@
   
   <entry>
     <title type="html"><![CDATA[Heimatlos]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-heimatlos/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-heimatlos/"/>
     <updated>2013-03-17T16:59:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-heimatlos</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/heimatlos/heimatlos_72dpi.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-heimatlos</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/graphic/heimatlos/heimatlos_72dpi.jpg" alt="" /></p>
 
-<p><a href="http://dolice.net/graphic/heimatlos/">英題:“Heimatlos” / 邦題:「ハイマー・トロース」 Oct 2012 / 210×420 / 32bit HDR</a> (<a href="http://goo.gl/2LDrt">Model</a>)</p>
+<p><a href="https://dolice.net/graphic/heimatlos/">英題:“Heimatlos” / 邦題:「ハイマー・トロース」 Oct 2012 / 210×420 / 32bit HDR</a> (<a href="http://goo.gl/2LDrt">Model</a>)</p>
 
 <h4>壁紙ダウンロード</h4>
 
 <ul>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPhone5/heimatlos_640_1136.jpg">iPhone5壁紙</a></li>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPhone/heimatlos_640_960.jpg">iPhone壁紙</a></li>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPad/heimatlos_1024_1024.jpg">iPad壁紙</a></li>
+<li><a href="https://dolice.net/v7/images/wallpaper/iPhone5/heimatlos_640_1136.jpg">iPhone5壁紙</a></li>
+<li><a href="https://dolice.net/v7/images/wallpaper/iPhone/heimatlos_640_960.jpg">iPhone壁紙</a></li>
+<li><a href="https://dolice.net/v7/images/wallpaper/iPad/heimatlos_1024_1024.jpg">iPad壁紙</a></li>
 </ul>
 
 ]]></content>
@@ -595,19 +595,19 @@
   
   <entry>
     <title type="html"><![CDATA[Hesychasm]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-hesychasm/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-hesychasm/"/>
     <updated>2013-03-17T16:54:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-hesychasm</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/hesychasm/hesychasm_72dpi.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-hesychasm</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/graphic/hesychasm/hesychasm_72dpi.jpg" alt="" /></p>
 
-<p><a href="http://dolice.net/graphic/hesychasm/">英題:“Hesychasm” / 邦題:「ヘシュカスムにおける神化の思想」 Apr 2012 / 658×991 / 32bit HDR</a></p>
+<p><a href="https://dolice.net/graphic/hesychasm/">英題:“Hesychasm” / 邦題:「ヘシュカスムにおける神化の思想」 Apr 2012 / 658×991 / 32bit HDR</a></p>
 
 <h4>壁紙ダウンロード</h4>
 
 <ul>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPhone5/hesychasm_640_1136.jpg">iPhone5壁紙</a></li>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPhone/hesychasm_640_960.jpg">iPhone壁紙</a></li>
-<li><a href="http://dolice.net/v7/images/wallpaper/iPad/hesychasm_1024_1024.jpg">iPad壁紙</a></li>
+<li><a href="https://dolice.net/v7/images/wallpaper/iPhone5/hesychasm_640_1136.jpg">iPhone5壁紙</a></li>
+<li><a href="https://dolice.net/v7/images/wallpaper/iPhone/hesychasm_640_960.jpg">iPhone壁紙</a></li>
+<li><a href="https://dolice.net/v7/images/wallpaper/iPad/hesychasm_1024_1024.jpg">iPad壁紙</a></li>
 </ul>
 
 ]]></content>
@@ -615,10 +615,10 @@
   
   <entry>
     <title type="html"><![CDATA[MdNムック「Photoshop × Illustratorで創り出す　コラージュ＆イラスト」へCG掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2/"/>
     <updated>2013-03-17T16:52:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/MdN_mook_ISBN978-4-8443-6154-1_420.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_2</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/MdN_mook_ISBN978-4-8443-6154-1_420.jpg" alt="" /></p>
 
 <p>2010年11月1日に <b><a href="http://www.mdn.co.jp/di/">MdN Corporation</a></b>より発行された、MdNムック「<a href="http://www.mdn.co.jp/di/book/44182/"><b>Photoshop×Illustratorで創り出す　コラージュ＆イラスト</b></a>」へグラフィックと作業工程解説文を掲載いただきました。</p>
 
@@ -647,12 +647,12 @@
   
   <entry>
     <title type="html"><![CDATA[ロシアの「Лотреамон: Русский сайт」というサイトにグラフィック掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-russia/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-russia/"/>
     <updated>2013-03-17T16:42:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-russia</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/lautreamont.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-russia</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/lautreamont.jpg" alt="" /></p>
 
-<p>「<a href="http://www.lautreamont.ru/" title="http://www.lautreamont.ru/"><em>Лотреамон: Русский сайт</em></a>」というサイトにグラフィックを紹介いただきました。「<a href="http://dolice.net/graphic/maldoror/" title="http://dolice.net/graphic/maldoror/">Maldoror／140年後のマルドロール</a>」というグラフィックを掲載頂いています。</p>
+<p>「<a href="http://www.lautreamont.ru/" title="http://www.lautreamont.ru/"><em>Лотреамон: Русский сайт</em></a>」というサイトにグラフィックを紹介いただきました。「<a href="https://dolice.net/graphic/maldoror/" title="https://dolice.net/graphic/maldoror/">Maldoror／140年後のマルドロール</a>」というグラフィックを掲載頂いています。</p>
 
 <p>他にも多数静止画が紹介されており、趣深い作品が多く目の保養になります。シュルレアリスム、ロートレアモン伯爵にちなんだ作品が多いようです。</p>
 
@@ -664,10 +664,10 @@
   
   <entry>
     <title type="html"><![CDATA[月刊「MySpace From JP.」2009年10月号掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2/"/>
     <updated>2013-03-17T16:42:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/msjp_200910_contents.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_2</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/msjp_200910_contents.jpg" alt="" /></p>
 
 <p><a href="http://www.myspace.com/fromjp">月刊「MySpace From JP.」2009年10月号</a>、『GADGET FOR DIGITAL NATIVE』というコーナーに、グラフィックと工程解説文を掲載いただきました（掲載名: <a href="http://www.myspace.com/masakihirokawa">Masaki Hirokawa／廣川政樹</a> / 掲載ページ: P.124／P.125）。</p>
 
@@ -683,10 +683,10 @@
   
   <entry>
     <title type="html"><![CDATA[MdNムック「Photoshop三ツ星テクニック大全」へグラフィック掲載いただきました]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_1/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_1/"/>
     <updated>2013-03-17T16:42:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_1</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/thumb/MdN_mook_ISBN978-4-8443-6097-1_420.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-mdn-mook_1</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/thumb/MdN_mook_ISBN978-4-8443-6097-1_420.jpg" alt="" /></p>
 
 <p>2010年1月30日に <a href="http://www.mdn.co.jp/di/">MdN Corporation</a>より発行された、MdNムック <a href="http://www.mdn.co.jp/di/book/44146/">「Photoshop三ツ星テクニック大全」</a>へグラフィックと作業工程解説文を掲載いただきました。</p>
 
@@ -711,14 +711,14 @@
   
   <entry>
     <title type="html"><![CDATA[iPhone + loftwork world traveler project “loftwork artist calendar”部門入選]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-loftwork-iphone/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-loftwork-iphone/"/>
     <updated>2013-03-17T16:39:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-loftwork-iphone</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/iphone_x_loftwork.gif" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-loftwork-iphone</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/iphone_x_loftwork.gif" alt="" /></p>
 
 <p><a href="http://www.loftwork.com/support/loftwork_iphoneapp.aspx">loftwork creators world traveler project</a></p>
 
-<p>2009年6月23日(木)～7月19日(金)までのあいだ開催された公募、iPhone + loftwork world traveler project “loftwork artist calendar”部門に “<a href="http://dolice.net/graphic/pandora/">Pandora</a>”というグラフィックを選考いただきました。</p>
+<p>2009年6月23日(木)～7月19日(金)までのあいだ開催された公募、iPhone + loftwork world traveler project “loftwork artist calendar”部門に “<a href="https://dolice.net/graphic/pandora/">Pandora</a>”というグラフィックを選考いただきました。</p>
 
 <p><a href="http://www.loftwork.jp/">株式会社ロフトワーク</a>がクリエイターとのコラボレーション iPhoneアプリをプロデュースする企画(<a href="http://www.loftwork.jp/newsservice/2009/20090819_appliyaiphone.html">loftwork × APPLIYA クリエイター作品を世界に発信するiPhoneアプリ無料配布</a>)で、世界に発信していくことを目指し、iPhoneアプリの開発をてがける <a href="http://appliya-inc.com/ja/">APPLIYA株式会社</a>の協力のもと立ち上げられました。</p>
 
@@ -734,17 +734,17 @@
   
   <entry>
     <title type="html"><![CDATA[Pandora]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-pandora/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-pandora/"/>
     <updated>2013-03-17T16:38:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-pandora</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/graphic/pandora/pandora_72dpi.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-pandora</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/graphic/pandora/pandora_72dpi.jpg" alt="" /></p>
 
-<p><a href="http://dolice.net/graphic/pandora/">英題:“Pandora” / 邦題:「冀望」/ Jul 2009 / 420×630 / 32bit HDR</a></p>
+<p><a href="https://dolice.net/graphic/pandora/">英題:“Pandora” / 邦題:「冀望」/ Jul 2009 / 420×630 / 32bit HDR</a></p>
 
 <h4>壁紙ダウンロード</h4>
 
 <ul>
-<li><a href="http://dolice.net/wallpaper/?id=pandora">http://dolice.net/wallpaper/?id=pandora</a></li>
+<li><a href="https://dolice.net/wallpaper/?id=pandora">https://dolice.net/wallpaper/?id=pandora</a></li>
 </ul>
 
 ]]></content>
@@ -752,14 +752,14 @@
   
   <entry>
     <title type="html"><![CDATA[月刊「MySpace From JP.」2009年8月号掲載]]></title>
-    <link href="http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_1/"/>
+    <link href="https://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_1/"/>
     <updated>2013-03-17T16:32:00+09:00</updated>
-    <id>http://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_1</id>
-    <content type="html"><![CDATA[<p><img src="http://dolice.net/images/blog/myspacefromjp_420_315.jpg" alt="" /></p>
+    <id>https://log.dolice.net/blog/2013/03/17/graphic-myspace-from-jp_1</id>
+    <content type="html"><![CDATA[<p><img src="https://dolice.net/images/blog/myspacefromjp_420_315.jpg" alt="" /></p>
 
-<p><img src="http://dolice.net/graphic/7thvision/7thvision_420_379.jpg" alt="" /></p>
+<p><img src="https://dolice.net/graphic/7thvision/7thvision_420_379.jpg" alt="" /></p>
 
-<p><a href="http://dolice.net/graphic/7thvision/">英題:“7th Vision” / 邦題:「妄覚とビジョン」 / Jun 2009 / 841×760</a></p>
+<p><a href="https://dolice.net/graphic/7thvision/">英題:“7th Vision” / 邦題:「妄覚とビジョン」 / Jun 2009 / 841×760</a></p>
 
 <p>雑誌「MySpace From JP.」2009年8月号、『on View From JP.』というコーナーに、上記グラフィックを掲載いただきました（掲載名: <a href="http://www.myspace.com/masakihirokawa">Masaki HIROKAWA</a> / 掲載ページ: P.110／P.111）。</p>
 
@@ -772,7 +772,7 @@
 <h4>壁紙ダウンロード</h4>
 
 <ul>
-<li><a href="http://dolice.net/wallpaper/?id=7thvision">http://dolice.net/wallpaper/?id=7thvision</a></li>
+<li><a href="https://dolice.net/wallpaper/?id=7thvision">https://dolice.net/wallpaper/?id=7thvision</a></li>
 </ul>
 
 ]]></content>
