@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-01-15T10:16:56+09:00</updated>
+  <updated>2019-01-15T10:19:58+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,13 +14,14 @@
 
   
   <entry>
-    <title type="html"><![CDATA[献花／Flowers]]></title>
+    <title type="html"><![CDATA[献花 / Flowers]]></title>
     <link href="https://log.dolice.net/blog/2019/01/15/graphic-flowers/"/>
     <updated>2019-01-15T10:09:00+09:00</updated>
     <id>https://log.dolice.net/blog/2019/01/15/graphic-flowers</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/flowers.jpg" title="献花／Flowers" alt="献花／Flowers" /></p>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/flowers.jpg" title="献花 / Flowers" alt="献花 / Flowers" /></p>
 
-<p>邦題: 「献花」 / 英題: &#8220;Flowers&#8221; / Jan 2019 / 210 x 374 mm</p>
+<p>邦題: 「献花」 / 英題: &#8220;Flowers&#8221;
+Jan 2019 / 210 x 374 mm</p>
 ]]></content>
   </entry>
   
