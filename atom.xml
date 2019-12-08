@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log - 廣川政樹ポートフォリオ]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-12-08T09:34:57+09:00</updated>
+  <updated>2019-12-08T09:37:15+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,19 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Graphic Crow]]></title>
+    <title type="html"><![CDATA[Crow / 烏]]></title>
     <link href="https://log.dolice.net/blog/2019/12/08/graphic-crow/"/>
-    <updated>2019-12-08T00:00:00+09:00</updated>
+    <updated>2019-12-08T09:27:00+09:00</updated>
     <id>https://log.dolice.net/blog/2019/12/08/graphic-crow</id>
-    <content type="html"><![CDATA[<hr />
-
-<p>layout: post
-title: &#8220;Crow / 烏&#8221;
-date: 2019-12-08 09:27
-comments: true
-categories: [graphics]&#8212;</p>
-
-<p><img src="https://log.dolice.net/images/crow.jpg" title="Crow / 烏" alt="Crow / 烏" /></p>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/crow.jpg" title="Crow / 烏" alt="Crow / 烏" /></p>
 
 <p><strong>Crow</strong> / <strong>烏</strong><br />
 Dec 2019 / 303 x 455 mm</p>
