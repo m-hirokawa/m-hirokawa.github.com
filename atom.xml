@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log - 廣川政樹ポートフォリオ]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-12-08T10:10:10+09:00</updated>
+  <updated>2019-12-10T08:23:23+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -100,7 +100,7 @@ Dec 2019 / 303 x 426 mm</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Profile]]></title>
+    <title type="html"><![CDATA[プロフィール]]></title>
     <link href="https://log.dolice.net/blog/2019/12/02/about-profile/"/>
     <updated>2019-12-02T06:03:00+09:00</updated>
     <id>https://log.dolice.net/blog/2019/12/02/about-profile</id>
@@ -149,9 +149,22 @@ Dec 2019 / 303 x 426 mm</p>
 </ul>
 
 
-<hr />
+<p><strong>Awards</strong></p>
 
-<p><strong>Masaki Hirokawa</strong><br />
+<ul>
+<li><p><strong>Granted award</strong><br />MTV SO-ZO Competition supported by AMD 2006</p></li>
+<li><p><strong>Granted two awards</strong><br />Photograph of the year<br />Outstanding Achievement<br />Esquire Japan Digital Photograph Awards 2004</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Profile]]></title>
+    <link href="https://log.dolice.net/blog/2019/12/02/about-profile-en/"/>
+    <updated>2019-12-02T06:00:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2019/12/02/about-profile-en</id>
+    <content type="html"><![CDATA[<p><strong>Masaki Hirokawa</strong><br />
 <em>Technical Artist</em></p>
 
 <p>Born in Toyama Prefecture in 1981. Began Web design and programming at 16. Worked as a DTP operator at Kokuwa System inc. starting in 2000. Afterward, changed professions to programmer, and developed database management software for an insurance company.</p>
@@ -195,8 +208,6 @@ Dec 2019 / 303 x 426 mm</p>
 <li><strong>2019/06/28</strong> The iPhone app &#8221;<a href="https://apps.apple.com/us/app/hearing-healing/id694492667" title="Relaxing Healing">Relaxing Healing</a>&#8221; was featured in the July 2019 issue of &#8221;<a href="https://www.recruit-lifestyle.co.jp/service/hotpepper-beauty.html" title="HOT PEPPER Beauty">HOT PEPPER Beauty</a>&#8221;, published by <a href="https://www.recruit.co.jp" title="Recruit Holdings Co., Ltd.">Recruit Holdings Co., Ltd.</a></li>
 </ul>
 
-
-<hr />
 
 <p><strong>Awards</strong></p>
 
@@ -891,46 +902,6 @@ Jan 2019 / 210 x 374 mm</p>
 
 <ul>
 <li><a href="https://www.facebook.com/dolice.hearing.healing">https://www.facebook.com/dolice.hearing.healing</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iPhoneアプリ「グラフィックアート壁紙」をリリースしました]]></title>
-    <link href="https://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper/"/>
-    <updated>2013-09-02T16:26:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2013/09/02/ios-dolice-graphic-arts-wallpaper</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/dolice_graphic_arts_wallpaper.jpg" title="iPhone app: Graphic Art Wallpapers" alt="iPhone app: Graphic Art Wallpapers" /></p>
-
-<p>これまでに制作したグラフィックを iPhone用の壁紙として収録した「グラフィックアート壁紙」をリリースしました。</p>
-
-<p>このアプリには合計23枚の壁紙を収録しています。ページを捲って壁紙を選び、好きな壁紙をカメラロールに保存出来ます。</p>
-
-<h2>主な機能</h2>
-
-<ol>
-<li>シンプルな操作で壁紙を保存</li>
-<li>壁紙のサムネイル一覧表示</li>
-<li>壁紙のフルスクリーン表示</li>
-<li>壁紙共有機能</li>
-</ol>
-
-
-<h2>価格</h2>
-
-<ul>
-<li>無料</li>
-</ul>
-
-
-<h2>対応言語</h2>
-
-<ul>
-<li>日本語</li>
-<li>英語</li>
-<li>ロシア語</li>
-<li>フランス語</li>
 </ul>
 
 ]]></content>
