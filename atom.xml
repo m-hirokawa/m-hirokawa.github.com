@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log - 廣川政樹ポートフォリオ]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-12-13T16:54:39+09:00</updated>
+  <updated>2019-12-16T19:46:04+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Division / 孤独]]></title>
+    <link href="https://log.dolice.net/blog/2019/12/16/graphic-division/"/>
+    <updated>2019-12-16T19:45:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2019/12/16/graphic-division</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/division.jpg" title="Nightingale / Division / 孤独" alt="Division / 孤独" /></p>
+
+<p><strong>Division</strong> / <strong>孤独</strong><br />
+Dec 2019 / 463 x 429 mm</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://dolice.net/graphic/division/division_print_A3.zip" title="A3">A3</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nightingale / 戦場に咲く花]]></title>
@@ -815,26 +834,6 @@ Jan 2019 / 210 x 374 mm</p>
 
 <ul>
 <li><a href="https://www.facebook.com/dolice.ukiyoe.ja">https://www.facebook.com/dolice.ukiyoe.ja</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[月刊 MacPeople 2014年2月号に掲載いただきました]]></title>
-    <link href="https://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014/"/>
-    <updated>2013-12-27T12:00:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2013/12/27/ios-mac-people-feb-2014</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/mac_people_feb_2014.jpg" title="MacPeople Feb 2014" alt="MacPeople Feb 2014" /></p>
-
-<p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a>「iPhoneデベロッパーがいま考えていること（P 64）」に記事を掲載いただきました。</p>
-
-<p>バックナンバーも購入できますので、是非お手に取ってご覧ください。</p>
-
-<h2>詳細ページ</h2>
-
-<ul>
-<li><strong><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20131227.shtml" title="月刊 MacPeople（マックピープル）2014年2月号">月刊 MacPeople（マックピープル）2014年2月号</a></strong></li>
 </ul>
 
 ]]></content>
