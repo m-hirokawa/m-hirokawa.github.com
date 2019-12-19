@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log - 廣川政樹ポートフォリオ]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-12-17T06:33:53+09:00</updated>
+  <updated>2019-12-19T13:11:38+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -14,11 +14,30 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Fallen / 堕天]]></title>
+    <link href="https://log.dolice.net/blog/2019/12/19/graphic-fallen/"/>
+    <updated>2019-12-19T13:11:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2019/12/19/graphic-fallen</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/fallen.jpg" title="Fallen / 堕天" alt="Fallen / 堕天" /></p>
+
+<p><strong>Fallen</strong> / <strong>堕天</strong><br />
+Dec 2019 / 426 x 303 mm</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://dolice.net/graphic/fallen/fallen_print_A3.zip" title="A3">A3</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Division / 孤独]]></title>
     <link href="https://log.dolice.net/blog/2019/12/16/graphic-division/"/>
     <updated>2019-12-16T19:45:00+09:00</updated>
     <id>https://log.dolice.net/blog/2019/12/16/graphic-division</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/division_72dpi.jpg" title="Nightingale / Division / 孤独" alt="Division / 孤独" /></p>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/division_72dpi.jpg" title="Division / 孤独" alt="Division / 孤独" /></p>
 
 <p><strong>Division</strong> / <strong>孤独</strong><br />
 Dec 2019 / 463 x 429 mm</p>
@@ -726,114 +745,6 @@ Jan 2019 / 210 x 374 mm</p>
 
 <ul>
 <li><strong><a href="http://bit.ly/1q0FIWt" title="iPhone壁紙特集記事 No.15 - たのしいiPhone！ AppBank">iPhone壁紙特集記事 No.15 - たのしいiPhone！ AppBank</a></strong></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iPhoneアプリ「浮世絵壁紙 - 美しい日本画ギャラリー」をリリースしました]]></title>
-    <link href="https://log.dolice.net/blog/2014/03/18/ios-ukiyo-e/"/>
-    <updated>2014-03-18T12:00:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2014/03/18/ios-ukiyo-e</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/ukiyo-e.jpg" title="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" alt="iPhone app: 浮世絵壁紙 - 美しい日本画ギャラリー" /></p>
-
-<p>日本の浮世絵を iPhone用の壁紙として収録したアプリ「<a href="https://itunes.apple.com/us/app/ukiyoe/id835559799" title="浮世絵壁紙 - 美しい日本画ギャラリー">浮世絵壁紙 - 美しい日本画ギャラリー</a>」をリリースしました。</p>
-
-<p>葛飾北斎、安藤広重、東洲斎写楽などの名作や、和柄など日本の伝統模様を現代風にレタッチし収録しています。</p>
-
-<p>300枚の画を1枚ずつレタッチする大変な作業でしたが、年代相応の染みや皺を修復する過程で過去の絵師さんの意図を感じ取ることができ、とても勉強になりました。</p>
-
-<p>このアプリが日本画の美しさを国内外の方に再認識させる切っ掛けになることを願っています。</p>
-
-<p>下記からアプリを無料でダウンロードできますので、是非ご利用ください。</p>
-
-<p><a href="https://itunes.apple.com/jp/app/%E6%B5%AE%E4%B8%96%E7%B5%B5%E5%A3%81%E7%B4%99-%E7%BE%8E%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E7%94%BB%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC-iphone-6-6-plus-5-ipod%E5%AF%BE%E5%BF%9C/id835559799?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a></p>
-
-<h2>浮世絵のカテゴリ</h2>
-
-<h3>年代別</h3>
-
-<ul>
-<li>1780年〜1804年</li>
-<li>1804年〜1868年</li>
-<li>1868年〜1912年</li>
-<li>1915年〜1940年代</li>
-</ul>
-
-
-<h3>作者別</h3>
-
-<ul>
-<li>東洲斎写楽</li>
-<li>喜多川歌麿</li>
-<li>歌川広重</li>
-<li>歌川国貞</li>
-<li>歌川国芳</li>
-<li>葛飾北斎</li>
-<li>藤島武二</li>
-<li>橋口五葉</li>
-<li>浅野武二</li>
-</ul>
-
-
-<h3>その他</h3>
-
-<ul>
-<li>和柄</li>
-<li>シンプル</li>
-</ul>
-
-
-<h2>主な機能</h2>
-
-<ol>
-<li>シンプルな操作で壁紙を保存</li>
-<li>最新や人気の壁紙の一覧機能</li>
-<li>作者・年代別のカテゴリ表示機能</li>
-<li>壁紙のお気に入り機能</li>
-<li>壁紙のサムネイル一覧表示機能</li>
-<li>壁紙のフルスクリーン表示機能</li>
-<li>壁紙のスライドショー機能</li>
-<li>LINE / Facebook / Twitter / Instagram / メールでの壁紙共有機能</li>
-<li>壁紙の更新をプッシュ通知でお知らせ</li>
-</ol>
-
-
-<h2>壁紙のサイズ</h2>
-
-<ul>
-<li>iPhone 6: 890 × 1590ピクセル</li>
-<li>iPhone 6 Plus: 1438 × 2592ピクセル</li>
-<li>iPhone 5: 744 × 1392ピクセル</li>
-</ul>
-
-
-<h2>価格</h2>
-
-<ul>
-<li>無料</li>
-</ul>
-
-
-<h2>対応言語</h2>
-
-<ul>
-<li>日本語</li>
-<li>英語</li>
-<li>仏語</li>
-<li>ロシア語</li>
-</ul>
-
-
-<h2>著作権表記</h2>
-
-<p>浮世絵は著作権フリー（著作権切れ）の作品のみを選別し、iPhone用の壁紙、または作品集として1枚ずつ丹念に加工・修復しています。</p>
-
-<h2>公式Facebookページ</h2>
-
-<ul>
-<li><a href="https://www.facebook.com/dolice.ukiyoe.ja">https://www.facebook.com/dolice.ukiyoe.ja</a></li>
 </ul>
 
 ]]></content>
