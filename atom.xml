@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log - 廣川政樹ポートフォリオ]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-12-21T08:49:21+09:00</updated>
+  <updated>2019-12-22T08:58:45+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cocoon / 宵の繭]]></title>
+    <link href="https://log.dolice.net/blog/2019/12/22/graphic-cocoon/"/>
+    <updated>2019-12-22T08:58:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2019/12/22/graphic-cocoon</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/cocoon.jpg" title="Cocoon / 宵の繭" alt="Cocoon / 宵の繭" /></p>
+
+<p><strong>Cocoon</strong> / <strong>宵の繭</strong><br />
+Dec 2019 / 426 x 426 mm</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://dolice.net/graphic/cocoon/cocoon_print_A3.zip" title="A3">A3</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Scars / 白い鬼]]></title>
@@ -682,62 +701,6 @@ Jan 2019 / 210 x 374 mm</p>
 
 <ul>
 <li><strong><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a></strong></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iPhoneアプリ「望みが叶う！引き寄せの法則アプリ」をリリースしました]]></title>
-    <link href="https://log.dolice.net/blog/2014/05/22/ios-law-of-attraction/"/>
-    <updated>2014-05-22T10:13:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2014/05/22/ios-law-of-attraction</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/law_of_attraction.jpg" title="iPhone App: 望みが叶う！引き寄せの法則アプリ" alt="iPhone App: 望みが叶う！引き寄せの法則アプリ" /></p>
-
-<p>引き寄せの法則を無理なく効果的に実践できる iPhoneアプリ「<a href="https://itunes.apple.com/us/app/law-of-attraction-free/id841157677?ls=1&amp;mt=8" title="望みが叶う！引き寄せの法則アプリ">望みが叶う！引き寄せの法則アプリ</a>」をリリースしました。</p>
-
-<p>西洋では20世紀初頭から引き寄せの法則について書かれた著書が出版され、現代でもナポレオン・ヒル氏の名著「Think and Grow Rich」（邦題:「思考は現実化する」）で知られるこの法則ですが、国内ではまだ認知度は低く、一部の方に知られるのみとなっています。</p>
-
-<p>絶大な効果があるにも関わらず科学的な根拠が明確ではないことから、未だ如何わしく宗教的なイメージがあるのも事実です。しかし、個人的には「魔法にも何らかの科学的根拠がある」と思っており、この法則を実践し自分の望みを何度か実現させれば、理性も納得し次から次へと望みを引き寄せられるようになります。自分もこの法則の恩恵を受け、完全な経済的自立とクリエイティブな毎日を実現しました。</p>
-
-<p>ただ、正しい望みの作成法や、引き寄せの習慣化の面で挫折してしまう方も多いのではないかと思い、このアプリには効果的な望みのサンプル文を200パターン以上用意し、自分の好きな時間に引き寄せのタイミングを知らせる「プッシュ通知機能」を搭載しました。また、プライバシー性の高いアプリであることから「パスワードロック機能」を搭載し、大事なデータを失わないよう「iCloudへのバックアップ機能」も搭載しています。</p>
-
-<p>開発には相応の労力と時間を費やしましたが、自分にとって大切な技術資産ができました。そして、このアプリで今より幸福になる方が増えれば世の中に少しでも貢献できるのではないかと思い、それを励みに頑張ることができました。このアプリを切っ掛けに引き寄せの法則を実践し、自分の望みを実現する方が1人でも多く増えるよう祈っています。</p>
-
-<p>下記より無料でアプリをダウンロードできますので、是非ご利用ください。</p>
-
-<p><a href="https://itunes.apple.com/jp/app/%E6%9C%9B%E3%81%BF%E3%81%8C%E5%8F%B6%E3%81%86-%E5%BC%95%E3%81%8D%E5%AF%84%E3%81%9B%E3%81%AE%E6%B3%95%E5%89%87%E3%82%A2%E3%83%97%E3%83%AA/id841157677?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a></p>
-
-<h2>主な機能</h2>
-
-<ol>
-<li>直感的な操作で美しい「望み」を引き寄せ</li>
-<li>豊富なサンプル文から自分好みの「望み」を作成</li>
-<li>引き寄せの時間を忘れないようプッシュ通知を設定</li>
-<li>アプリ起動時のパスワードロック機能</li>
-<li>iCloudへのバックアップ機能</li>
-</ol>
-
-
-<h2>価格</h2>
-
-<ul>
-<li>無料</li>
-</ul>
-
-
-<h2>対応言語</h2>
-
-<ul>
-<li>日本語</li>
-<li>英語</li>
-</ul>
-
-
-<h2>公式Facebookページ</h2>
-
-<ul>
-<li><a href="https://www.facebook.com/dolice.law.of.attraction">https://www.facebook.com/dolice.law.of.attraction</a></li>
 </ul>
 
 ]]></content>
