@@ -4,7 +4,7 @@
   <title><![CDATA[Dolice Log - 廣川政樹ポートフォリオ]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2019-12-25T07:50:16+09:00</updated>
+  <updated>2019-12-25T16:34:59+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[VIRGO MARIA / 救世光]]></title>
+    <link href="https://log.dolice.net/blog/2019/12/25/graphic-maria/"/>
+    <updated>2019-12-25T16:34:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2019/12/25/graphic-maria</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/maria.jpg" title="VIRGO MARIA / 救世光" alt="VIRGO MARIA / 救世光" /></p>
+
+<p><strong>VIRGO MARIA</strong> / <strong>救世光</strong><br />
+Dec 2019 / 303 x 426 mm</p>
+
+<h5>iPhone wallpapers</h5>
+
+<ul>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/iphone/wallpaper_maria_5_8inch.jpg" title="iPhone 11 Pro/XS/X">iPhone 11 Pro/XS/X</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/iphone/wallpaper_maria_6_5inch.jpg" title="iPhone 11 Pro Max/XS Max">iPhone 11 Pro Max/XS Max</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/iphone/wallpaper_maria_6_1inch.jpg" title="iPhone 11/XR">iPhone 11/XR</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/iphone/wallpaper_maria_4_7inch.jpg" title="iPhone 8/7/6s">iPhone 8/7/6s</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/iphone/wallpaper_maria_5_5inch.jpg" title="iPhone 8 Plus/7 Plus/6s Plus">iPhone 8 Plus/7 Plus/6s Plus</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/iphone/wallpaper_maria_4inch.jpg" title="iPhone SE/5s">iPhone SE/5s</a></li>
+</ul>
+
+
+<h5>Android wallpapers</h5>
+
+<ul>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/android/wallpaper_maria_xxxhdpi.jpg" title="WQHD (1440 × 2560 pixel)">WQHD (1440 × 2560 pixel)</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/android/wallpaper_maria_xxhdpi.jpg" title="FHD (1080 × 1920 pixel)">FHD (1080 × 1920 pixel)</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/android/wallpaper_maria_xhdpi.jpg" title="HD (720 × 1280 pixel)">HD (720 × 1280 pixel)</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/android/wallpaper_maria_hdpi.jpg" title="WVGA (480 × 800 pixel)">WVGA (480 × 800 pixel)</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/android/wallpaper_maria_1600_2560.jpg" title="WQXGA (2560 × 1600 pixel)">WQXGA (2560 × 1600 pixel)</a></li>
+<li><a href="https://dolice.net/graphic/maria/wallpaper/android/wallpaper_maria_1200_1920.jpg" title="WUXGA (1200 × 1920 pixel)">WUXGA (1200 × 1920 pixel)</a></li>
+</ul>
+
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://dolice.net/graphic/maria/maria_print_A3.zip" title="A3">A3</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cocoon / 宵の繭]]></title>
@@ -675,34 +718,6 @@ Jan 2019 / 210 x 374 mm</p>
 <h2>著作権表記</h2>
 
 <p>浮世絵は著作権フリー（著作権切れ）の作品のみを選別し、Android用の壁紙、または作品集として一枚ずつ丹念に加工・修復しています。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[月刊 MacPeople 2014年7月号にインタビュー記事を掲載いただきました]]></title>
-    <link href="https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014/"/>
-    <updated>2014-05-29T12:00:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2014/05/29/ios-mac-people-jul-2014</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/article/mac_people_jul_2014.jpg" title="MacPeople July 2014" alt="MacPeople July 2014" /></p>
-
-<p><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a>「人気＆注目のデベロッパーに聞く！スマホアプリの最新トレンド！（P 125）」にインタビュー記事を掲載いただきました。</p>
-
-<p>現在は基本的に Appleのインターフェース設計を基にアプリを開発する部分が多いですが、今後はこれを拡張した独自のフレームワークを設計し、デベロッパー同士で共有して行くことが重要だと思っています。</p>
-
-<p>過去の技術はそうして発展して来ましたし、次の世代に受け継いで行くプロセスが大切だと思いますので、自分も微力ながら<a href="https://lab.dolice.net" title="開発ブログ">開発ブログ</a>を更新したり、<a href="https://github.com" title="GitHub">GitHub</a>に<a href="https://github.com/masakihirokawa/ios/" title="ライブラリ">ライブラリ</a>を公開しています。</p>
-
-<p>全国誌でこのような特集が組まれることで、他のデベロッパーの方を知ることができますし、何より「私も初めてみよう」という方も沢山増えると思います。自分自身も、次は何をしようと思いながら他の方の記事を読んでいます。</p>
-
-<p>このような貴重な機会をくださった編集者の方に、心より御礼申し上げます。</p>
-
-<p>バックナンバーも購入できますので、是非お手に取ってご覧ください。</p>
-
-<h2>詳細ページ</h2>
-
-<ul>
-<li><strong><a href="http://ascii.asciimw.jp/books/magazines/macpeople/20140529.shtml" title="月刊 MacPeople（マックピープル）2014年7月号">月刊 MacPeople（マックピープル）2014年7月号</a></strong></li>
-</ul>
-
 ]]></content>
   </entry>
   
