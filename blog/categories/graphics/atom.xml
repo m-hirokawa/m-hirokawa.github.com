@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | 廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-01-01T10:05:06+09:00</updated>
+  <updated>2020-01-04T13:25:06+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vermilion / 丹朱]]></title>
+    <link href="https://log.dolice.net/blog/2020/01/04/graphic-vermilion/"/>
+    <updated>2020-01-04T13:23:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/01/04/graphic-vermilion</id>
+    <content type="html"><![CDATA[<p><img src="/images/graphics/vermilion.jpg" title="Vermilion / 丹朱" alt="Vermilion / 丹朱" /></p>
+
+<p><strong>Vermilion</strong> / <strong>丹朱</strong><br />
+Jan 2020 / 536 x 303 mm (500dpi)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ALLELUIA / 遠神恵贈]]></title>
@@ -104,25 +116,6 @@ Dec 2019 / 303 x 426 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://dolice.net/graphic/maria/maria_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cocoon / 宵の繭]]></title>
-    <link href="https://log.dolice.net/blog/2019/12/22/graphic-cocoon/"/>
-    <updated>2019-12-22T08:58:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/12/22/graphic-cocoon</id>
-    <content type="html"><![CDATA[<p><img src="/images/cocoon2.jpg" title="Cocoon / 宵の繭" alt="Cocoon / 宵の繭" /></p>
-
-<p><strong>Cocoon</strong> / <strong>宵の繭</strong><br />
-Dec 2019 / 426 x 426 mm</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/cocoon/cocoon_print_A3.zip" title="A3">A3</a></li>
 </ul>
 
 ]]></content>
