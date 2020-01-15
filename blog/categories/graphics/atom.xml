@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | 廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-01-13T08:11:38+09:00</updated>
+  <updated>2020-01-15T17:28:27+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Heavenly / 天]]></title>
+    <link href="https://log.dolice.net/blog/2020/01/15/graphic-heavenly/"/>
+    <updated>2020-01-15T17:26:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/01/15/graphic-heavenly</id>
+    <content type="html"><![CDATA[<p><img src="/images/graphics/heavenly.jpg" title="Heavenly / 天" alt="Heavenly / 天" /></p>
+
+<p><strong>Heavenly</strong> / <strong>天</strong><br />
+Jan 2020 / 455 x 303 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/heavenly_print_A3.zip" title="A3">A3</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sleeping Beauty / 眠り姫]]></title>
@@ -77,25 +96,6 @@ Jan 2020 / 426 x 258 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://dolice.net/graphic/alleluia/alleluia_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Eden / 林檎が落ちた日]]></title>
-    <link href="https://log.dolice.net/blog/2019/12/29/graphic-eden/"/>
-    <updated>2019-12-29T10:32:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/12/29/graphic-eden</id>
-    <content type="html"><![CDATA[<p><img src="/images/graphics/eden.jpg" title="Eden / 林檎が落ちた日" alt="Eden / 林檎が落ちた日" /></p>
-
-<p><strong>Eden</strong> / <strong>林檎が落ちた日</strong><br />
-Dec 2019 / 320 x 216 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/eden/eden_print_A4.zip" title="A4">A4</a></li>
 </ul>
 
 ]]></content>
