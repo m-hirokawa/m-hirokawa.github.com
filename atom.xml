@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-01-22T16:28:35+09:00</updated>
+  <updated>2020-01-24T16:21:34+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Valkyrie / 光輪]]></title>
+    <link href="https://log.dolice.net/blog/2020/01/24/graphic-valkyrie/"/>
+    <updated>2020-01-24T16:20:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/01/24/graphic-valkyrie</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/valkyrie.jpg" title="Valkyrie / 光輪" alt="Valkyrie / 光輪" /></p>
+
+<p><strong>Valkyrie</strong> / <strong>光輪</strong><br />
+Jan 2020 / 426 x 303 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/valkyrie_print_A3.zip" title="A3">A3</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dreaming / 夢想花]]></title>
@@ -536,25 +555,6 @@ Dec 2019 / 303 x 426 mm</p>
 
 <ul>
 <li><strong>Granted award</strong><br />MTV SO-ZO Competition supported by AMD 2006</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Amitaayus / 流転輪廻]]></title>
-    <link href="https://log.dolice.net/blog/2019/11/28/graphic-amitaayus/"/>
-    <updated>2019-11-28T07:39:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/11/28/graphic-amitaayus</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/amitaayus.jpg" title="Amitaayus / 流転輪廻" alt="Amitaayus / 流転輪廻" /></p>
-
-<p><strong>Amitaayus</strong> / <strong>流転輪廻</strong><br />
-Nov 2019 / 426 x 303 mm</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/amitaayus/amitaayus_print_A3.zip" title="A3">A3</a></li>
 </ul>
 
 ]]></content>
