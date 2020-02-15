@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-02-09T15:01:08+09:00</updated>
+  <updated>2020-02-15T09:27:49+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Azazel / 贖罪の日]]></title>
+    <link href="https://log.dolice.net/blog/2020/02/15/graphic-azazel/"/>
+    <updated>2020-02-15T09:27:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/02/15/graphic-azazel</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/azazel.jpg" title="Azazel / 贖罪の日" alt="Azazel / 贖罪の日" /></p>
+
+<p><strong>Azazel</strong> / <strong>贖罪の日</strong><br />
+Feb 2020 / 380 x 380 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/azazel_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Inside Of Me / ある情景]]></title>
@@ -406,25 +425,6 @@ Dec 2019 / 426 x 303 mm</p>
 
 <ul>
 <li><a href="https://dolice.net/graphic/fallen/fallen_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Division / 孤独]]></title>
-    <link href="https://log.dolice.net/blog/2019/12/16/graphic-division/"/>
-    <updated>2019-12-16T19:45:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/12/16/graphic-division</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/division.jpg" title="Division / 孤独" alt="Division / 孤独" /></p>
-
-<p><strong>Division</strong> / <strong>孤独</strong><br />
-Dec 2019 / 463 x 429 mm</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/division/division_print_A3.zip" title="A3">A3</a></li>
 </ul>
 
 ]]></content>
