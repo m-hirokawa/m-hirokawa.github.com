@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-02-15T09:27:49+09:00</updated>
+  <updated>2020-02-19T15:04:10+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Butterfly Dream / 胡蝶の夢]]></title>
+    <link href="https://log.dolice.net/blog/2020/02/19/graphic-the-butterfly-dream/"/>
+    <updated>2020-02-19T15:02:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/02/19/graphic-the-butterfly-dream</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/the_butterfly_dream.jpg" title="The Butterfly Dream / 胡蝶の夢" alt="The Butterfly Dream / 胡蝶の夢" /></p>
+
+<p><strong>The Butterfly Dream</strong> / <strong>胡蝶の夢</strong><br />
+Feb 2020 / 242 x 342 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/the_butterfly_dream_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Azazel / 贖罪の日]]></title>
@@ -406,25 +425,6 @@ Dec 2019 / 333 x 490 mm</p>
 
 <ul>
 <li><a href="https://dolice.net/graphic/scars/scars_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fallen / 堕天]]></title>
-    <link href="https://log.dolice.net/blog/2019/12/19/graphic-fallen/"/>
-    <updated>2019-12-19T13:11:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/12/19/graphic-fallen</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/fallen.jpg" title="Fallen / 堕天" alt="Fallen / 堕天" /></p>
-
-<p><strong>Fallen</strong> / <strong>堕天</strong><br />
-Dec 2019 / 426 x 303 mm</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/fallen/fallen_print_A3.zip" title="A3">A3</a></li>
 </ul>
 
 ]]></content>
