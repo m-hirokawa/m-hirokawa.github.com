@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-02-19T15:04:10+09:00</updated>
+  <updated>2020-02-23T16:47:05+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gabriel / 福音]]></title>
+    <link href="https://log.dolice.net/blog/2020/02/23/graphic-gabriel/"/>
+    <updated>2020-02-23T16:33:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/02/23/graphic-gabriel</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/gabriel.jpg" title="Gabriel / 福音" alt="Gabriel / 福音" /></p>
+
+<p><strong>Gabriel</strong> / <strong>福音</strong><br />
+Feb 2020 / 556 x 370 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/gabriel_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Butterfly Dream / 胡蝶の夢]]></title>
@@ -406,25 +425,6 @@ Dec 2019 / 426 x 426 mm</p>
 
 <ul>
 <li><a href="https://dolice.net/graphic/cocoon/cocoon_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Scars / 白い鬼]]></title>
-    <link href="https://log.dolice.net/blog/2019/12/20/graphic-scars/"/>
-    <updated>2019-12-20T15:57:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/12/20/graphic-scars</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/scars.jpg" title="Scars / 白い鬼" alt="Scars / 白い鬼" /></p>
-
-<p><strong>Scars</strong> / <strong>白い鬼</strong><br />
-Dec 2019 / 333 x 490 mm</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/scars/scars_print_A3.zip" title="A3">A3</a></li>
 </ul>
 
 ]]></content>
