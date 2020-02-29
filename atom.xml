@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-02-23T16:47:05+09:00</updated>
+  <updated>2020-02-29T21:20:03+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Baphomet / 偶像]]></title>
+    <link href="https://log.dolice.net/blog/2020/02/29/graphic-baphomet/"/>
+    <updated>2020-02-29T21:18:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/02/29/graphic-baphomet</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/baphomet.jpg" title="Baphomet / 偶像" alt="Baphomet / 偶像" /></p>
+
+<p><strong>Baphomet</strong> / <strong>偶像</strong><br />
+Feb 2020 / 600 x 363 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/baphomet_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gabriel / 福音]]></title>
@@ -406,25 +425,6 @@ Dec 2019 / 303 x 426 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://dolice.net/graphic/maria/maria_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cocoon / 宵の繭]]></title>
-    <link href="https://log.dolice.net/blog/2019/12/22/graphic-cocoon/"/>
-    <updated>2019-12-22T08:58:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2019/12/22/graphic-cocoon</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/cocoon.jpg" title="Cocoon / 宵の繭" alt="Cocoon / 宵の繭" /></p>
-
-<p><strong>Cocoon</strong> / <strong>宵の繭</strong><br />
-Dec 2019 / 426 x 426 mm</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://dolice.net/graphic/cocoon/cocoon_print_A3.zip" title="A3">A3</a></li>
 </ul>
 
 ]]></content>
