@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-04-08T12:05:35+09:00</updated>
+  <updated>2020-04-13T14:43:27+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Distance / 心]]></title>
+    <link href="https://log.dolice.net/blog/2020/04/13/graphic-distance/"/>
+    <updated>2020-04-13T14:38:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/04/13/graphic-distance</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/distance.jpg" title="Distance / 心" alt="Distance / 心" /></p>
+
+<p><strong>Distance</strong> / <strong>心</strong><br />
+Apr 2020 / 380 x 276 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/distance_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trinity / 創世]]></title>
@@ -393,25 +412,6 @@ Jan 2020 / 426 x 303 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/sleeping_beauty_print_A3.zip" title="A3">A3</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Halo / 光背]]></title>
-    <link href="https://log.dolice.net/blog/2020/01/09/graphic-halo/"/>
-    <updated>2020-01-09T09:53:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/01/09/graphic-halo</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/halo.jpg" title="Halo / 光背" alt="Halo / 光背" /></p>
-
-<p><strong>Halo</strong> / <strong>光背</strong><br />
-Jan 2020 / 303 x 303 mm (500dpi)</p>
-
-<h5>Original photo</h5>
-
-<ul>
-<li><a href="https://web.500px.com/photo/10375245/Black-mamba-by-Maksim-Toome/" title="Maksim Toome">Maksim Toome</a></li>
 </ul>
 
 ]]></content>
