@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | 廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-05-25T12:38:48+09:00</updated>
+  <updated>2020-05-31T12:03:22+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aprodite / 豊穣の春]]></title>
+    <link href="https://log.dolice.net/blog/2020/05/31/graphic-aprodite/"/>
+    <updated>2020-05-31T12:01:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/05/31/graphic-aprodite</id>
+    <content type="html"><![CDATA[<p><img src="/images/graphics/aprodite.jpg" title="Aprodite / 豊穣の春" alt="Aprodite / 豊穣の春" /></p>
+
+<p><strong>Aprodite</strong> / <strong>豊穣の春</strong><br />
+May 2020 / 570 x 352 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/aprodite_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Uriel / 静謐な世界]]></title>
@@ -84,25 +103,6 @@ May 2020 / 477 x 294 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/colors_are_shades_of_light_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chaos / 聖霊]]></title>
-    <link href="https://log.dolice.net/blog/2020/05/02/graphic-chaos/"/>
-    <updated>2020-05-02T12:29:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/05/02/graphic-chaos</id>
-    <content type="html"><![CDATA[<p><img src="/images/graphics/chaos.jpg" title="Chaos / 聖霊" alt="Chaos / 聖霊" /></p>
-
-<p><strong>Chaos</strong> / <strong>聖霊</strong><br />
-May 2020 / 532 x 426 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/chaos_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
