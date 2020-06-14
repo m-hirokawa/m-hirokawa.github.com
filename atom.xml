@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-06-07T01:20:18+09:00</updated>
+  <updated>2020-06-14T11:25:37+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aurora / 極光]]></title>
+    <link href="https://log.dolice.net/blog/2020/06/14/graphic-aurora/"/>
+    <updated>2020-06-14T11:22:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/06/14/graphic-aurora</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/aurora.jpg" title="Aurora / 極光" alt="Aurora / 極光" /></p>
+
+<p><strong>Aurora</strong> / <strong>極光</strong><br />
+Jun 2020 / 555 x 370 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/aurora_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Justice of Equality / 平和]]></title>
@@ -369,25 +388,6 @@ Feb 2020 / 380 x 380 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/azazel_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Inside Of Me / ある情景]]></title>
-    <link href="https://log.dolice.net/blog/2020/02/09/graphic-inside-of-me/"/>
-    <updated>2020-02-09T15:00:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/02/09/graphic-inside-of-me</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/inside_of_me.jpg" title="Inside Of Me / ある情景" alt="Inside Of Me / ある情景" /></p>
-
-<p><strong>Inside Of Me</strong> / <strong>ある情景</strong><br />
-Feb 2020 / 426 x 426 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/inside_of_me_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>

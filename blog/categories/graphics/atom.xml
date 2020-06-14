@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | 廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-06-07T01:20:18+09:00</updated>
+  <updated>2020-06-14T11:25:37+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aurora / 極光]]></title>
+    <link href="https://log.dolice.net/blog/2020/06/14/graphic-aurora/"/>
+    <updated>2020-06-14T11:22:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/06/14/graphic-aurora</id>
+    <content type="html"><![CDATA[<p><img src="/images/graphics/aurora.jpg" title="Aurora / 極光" alt="Aurora / 極光" /></p>
+
+<p><strong>Aurora</strong> / <strong>極光</strong><br />
+Jun 2020 / 555 x 370 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/aurora_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Justice of Equality / 平和]]></title>
@@ -84,25 +103,6 @@ May 2020 / 510 x 255 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/lucifer_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Regenerated World / 新世界]]></title>
-    <link href="https://log.dolice.net/blog/2020/05/10/graphic-regeneration/"/>
-    <updated>2020-05-10T16:13:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/05/10/graphic-regeneration</id>
-    <content type="html"><![CDATA[<p><img src="/images/graphics/regeneration.jpg" title="A Regenerated World / 新世界" alt="A Regenerated World / 新世界" /></p>
-
-<p><strong>A Regenerated World</strong> / <strong>新世界</strong><br />
-May 2020 / 703 x 432 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/regeneration_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
