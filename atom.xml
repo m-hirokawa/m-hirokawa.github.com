@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-07-14T14:10:34+09:00</updated>
+  <updated>2020-07-18T14:41:19+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Archetypus / 元型]]></title>
+    <link href="https://log.dolice.net/blog/2020/07/18/graphic-archetypus/"/>
+    <updated>2020-07-18T14:36:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/07/18/graphic-archetypus</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/archetypus.jpg" title="Archetypus / 元型" alt="Archetypus / 元型" /></p>
+
+<p><strong>Archetypus</strong> / <strong>元型</strong><br />
+Jul 2020 / 562 x 703 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/archetypus_print_A0.zip" title="A0">A0</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Quiet / 静粛]]></title>
@@ -369,25 +388,6 @@ Feb 2020 / 556 x 370 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/gabriel_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Butterfly Dream / 胡蝶の夢]]></title>
-    <link href="https://log.dolice.net/blog/2020/02/19/graphic-the-butterfly-dream/"/>
-    <updated>2020-02-19T15:02:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/02/19/graphic-the-butterfly-dream</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/the_butterfly_dream.jpg" title="The Butterfly Dream / 胡蝶の夢" alt="The Butterfly Dream / 胡蝶の夢" /></p>
-
-<p><strong>The Butterfly Dream</strong> / <strong>胡蝶の夢</strong><br />
-Feb 2020 / 242 x 342 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/the_butterfly_dream_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
