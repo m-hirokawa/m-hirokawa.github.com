@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-07-18T14:41:19+09:00</updated>
+  <updated>2020-07-20T13:30:27+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Seraphiel / 光明]]></title>
+    <link href="https://log.dolice.net/blog/2020/07/20/graphic-seraphiel/"/>
+    <updated>2020-07-20T13:28:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/07/20/graphic-seraphiel</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/seraphiel.jpg" title="Seraphiel / 光明" alt="Seraphiel / 光明" /></p>
+
+<p><strong>Seraphiel</strong> / <strong>光明</strong><br />
+Jul 2020 / 359 x 448 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/seraphiel_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Archetypus / 元型]]></title>
@@ -369,25 +388,6 @@ Feb 2020 / 600 x 363 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/baphomet_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gabriel / 福音]]></title>
-    <link href="https://log.dolice.net/blog/2020/02/23/graphic-gabriel/"/>
-    <updated>2020-02-23T16:33:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/02/23/graphic-gabriel</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/gabriel.jpg" title="Gabriel / 福音" alt="Gabriel / 福音" /></p>
-
-<p><strong>Gabriel</strong> / <strong>福音</strong><br />
-Feb 2020 / 556 x 370 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/gabriel_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
