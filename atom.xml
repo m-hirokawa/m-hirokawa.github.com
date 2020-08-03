@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-08-01T11:37:03+09:00</updated>
+  <updated>2020-08-03T16:25:45+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Glance / 視線]]></title>
+    <link href="https://log.dolice.net/blog/2020/08/03/graphic-glance/"/>
+    <updated>2020-08-03T16:23:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/08/03/graphic-glance</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/glance.jpg" title="Glance / 視線" alt="Glance / 視線" /></p>
+
+<p><strong>Glance</strong> / <strong>視線</strong><br />
+Aug 2020 / 733 x 453 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/glance_print_A0.zip" title="A0">A0</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The World in the Birdcage / 啓示]]></title>
@@ -371,25 +390,6 @@ Apr 2020 / 404 x 287 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/trinity_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bodhisattvas of the Earth / 地涌の手]]></title>
-    <link href="https://log.dolice.net/blog/2020/03/29/graphic-bodhisattvas-of-the-earth/"/>
-    <updated>2020-03-29T15:16:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/03/29/graphic-bodhisattvas-of-the-earth</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/bodhisattvas_of_the_earth.jpg" title="Bodhisattvas of the Earth / 地涌の手" alt="Bodhisattvas of the Earth / 地涌の手" /></p>
-
-<p><strong>Bodhisattvas of the Earth</strong> / <strong>地涌の手</strong><br />
-Mar 2020 / 557 x 390 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/bodhisattvas_of_the_earth_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
