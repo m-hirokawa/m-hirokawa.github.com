@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-08-03T16:27:51+09:00</updated>
+  <updated>2020-08-07T11:26:56+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Forgotten Sky / 忘却の眺め]]></title>
+    <link href="https://log.dolice.net/blog/2020/08/07/graphic-oblivion/"/>
+    <updated>2020-08-07T11:25:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/08/07/graphic-oblivion</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/oblivion.jpg" title="Forgotten Sky / 忘却の眺め" alt="Forgotten Sky / 忘却の眺め" /></p>
+
+<p><strong>Forgotten Sky</strong> / <strong>忘却の眺め</strong><br />
+Aug 2020 / 312 x 312 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/oblivion_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Glance / 視線]]></title>
@@ -371,25 +390,6 @@ Apr 2020 / 380 x 276 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/distance_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Trinity / 創世]]></title>
-    <link href="https://log.dolice.net/blog/2020/04/08/graphic-trinity/"/>
-    <updated>2020-04-08T12:02:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/04/08/graphic-trinity</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/trinity.jpg" title="Trinity / 創世" alt="Trinity / 創世" /></p>
-
-<p><strong>Trinity</strong> / <strong>創世</strong><br />
-Apr 2020 / 404 x 287 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/trinity_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
