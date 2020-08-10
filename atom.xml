@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-08-07T11:26:56+09:00</updated>
+  <updated>2020-08-10T12:45:46+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ascension / 飛天]]></title>
+    <link href="https://log.dolice.net/blog/2020/08/10/graphic-ascension/"/>
+    <updated>2020-08-10T12:44:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/08/10/graphic-ascension</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/ascension.jpg" title="Ascension / 飛天" alt="Ascension / 飛天" /></p>
+
+<p><strong>Ascension</strong> / <strong>飛天</strong><br />
+Aug 2020 / 603 x 568 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/ascension_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Forgotten Sky / 忘却の眺め]]></title>
@@ -371,25 +390,6 @@ Apr 2020 / 523 x 322 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/hope_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Distance / 心]]></title>
-    <link href="https://log.dolice.net/blog/2020/04/13/graphic-distance/"/>
-    <updated>2020-04-13T12:00:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/04/13/graphic-distance</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/distance.jpg" title="Distance / 心" alt="Distance / 心" /></p>
-
-<p><strong>Distance</strong> / <strong>心</strong><br />
-Apr 2020 / 380 x 276 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/distance_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
