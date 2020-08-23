@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-08-23T15:14:30+09:00</updated>
+  <updated>2020-08-23T15:16:44+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gnosticism / 知恵の実]]></title>
+    <link href="https://log.dolice.net/blog/2020/08/23/graphic-gnosticism/"/>
+    <updated>2020-08-23T15:09:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/08/23/graphic-gnosticism</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/gnosticism.jpg" title="Gnosticism / 知恵の実" alt="Gnosticism / 知恵の実" /></p>
+
+<p><strong>Gnosticism</strong> / <strong>知恵の実</strong><br />
+Aug 2020 / 197 x 305 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/gnosticism_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Crazy Mindにインタビュー記事掲載]]></title>
@@ -372,25 +391,6 @@ May 2020 / 532 x 426 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/chaos_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Prayer / 祈り]]></title>
-    <link href="https://log.dolice.net/blog/2020/04/25/graphic-prayer/"/>
-    <updated>2020-04-25T14:32:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/04/25/graphic-prayer</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/prayer.jpg" title="Prayer / 祈り" alt="Prayer / 祈り" /></p>
-
-<p><strong>Prayer</strong> / <strong>祈り</strong><br />
-Apr 2020 / 614 x 380 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/prayer_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
