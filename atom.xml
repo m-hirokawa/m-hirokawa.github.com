@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-08-30T15:27:46+09:00</updated>
+  <updated>2020-09-07T11:46:43+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Grounding]]></title>
+    <link href="https://log.dolice.net/blog/2020/09/07/graphic-grounding/"/>
+    <updated>2020-09-07T11:43:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/09/07/graphic-grounding</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/grounding.jpg" title="Grounding" alt="Grounding" /></p>
+
+<p><strong>Grounding</strong><br />
+Sep 2020 / 725 x 499 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/grounding_print_A0.zip" title="A0">A0</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gnosticism / 知恵の実]]></title>
@@ -372,25 +391,6 @@ May 2020 / 477 x 294 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/colors_are_shades_of_light_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chaos / 聖霊]]></title>
-    <link href="https://log.dolice.net/blog/2020/05/02/graphic-chaos/"/>
-    <updated>2020-05-02T12:29:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/05/02/graphic-chaos</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/chaos.jpg" title="Chaos / 聖霊" alt="Chaos / 聖霊" /></p>
-
-<p><strong>Chaos</strong> / <strong>聖霊</strong><br />
-May 2020 / 532 x 426 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/chaos_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
