@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-09-07T11:46:43+09:00</updated>
+  <updated>2020-09-12T07:14:34+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Astaroth / 静寂に凍る光]]></title>
+    <link href="https://log.dolice.net/blog/2020/09/12/graphic-astaroth/"/>
+    <updated>2020-09-12T07:12:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/09/12/graphic-astaroth</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/astaroth.jpg" title="Astaroth / 静寂に凍る光" alt="Astaroth / 静寂に凍る光" /></p>
+
+<p><strong>Astaroth</strong> / <strong>静寂に凍る光</strong><br />
+Sep 2020 / 511 x 365 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/astaroth_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Grounding]]></title>
@@ -372,25 +391,6 @@ May 2020 / 703 x 432 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/regeneration_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Colors are shades of light / 色は光の影]]></title>
-    <link href="https://log.dolice.net/blog/2020/05/06/graphic-colors-are-shades-of-light/"/>
-    <updated>2020-05-06T14:47:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/05/06/graphic-colors-are-shades-of-light</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/colors_are_shades_of_light.jpg" title="Colors are shades of light / 色は光の影" alt="Colors are shades of light / 色は光の影" /></p>
-
-<p><strong>Colors are shades of light</strong> / <strong>色は光の影</strong><br />
-May 2020 / 477 x 294 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/colors_are_shades_of_light_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
