@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-09-22T13:03:46+09:00</updated>
+  <updated>2020-09-25T14:51:57+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Somnambulism / 離魂病]]></title>
+    <link href="https://log.dolice.net/blog/2020/09/25/graphic-somnambulism/"/>
+    <updated>2020-09-25T14:39:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/09/25/graphic-somnambulism</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/somnambulism.jpg" title="Somnambulism / 離魂病" alt="Somnambulism / 離魂病" /></p>
+
+<p><strong>Somnambulism</strong> / <strong>離魂病</strong><br />
+Sep 2020 / 371 x 464 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/somnambulism_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vanishing / 消失の君]]></title>
@@ -372,25 +391,6 @@ May 2020 / 364 x 528 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/uriel_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lucifer / 宵の明星]]></title>
-    <link href="https://log.dolice.net/blog/2020/05/16/graphic-lucifer/"/>
-    <updated>2020-05-16T10:58:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/05/16/graphic-lucifer</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/lucifer.jpg" title="Lucifer / 宵の明星" alt="Lucifer / 宵の明星" /></p>
-
-<p><strong>Lucifer</strong> / <strong>宵の明星</strong><br />
-May 2020 / 510 x 255 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/lucifer_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
