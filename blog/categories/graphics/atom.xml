@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphics | 廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/blog/categories/graphics/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-09-29T09:59:34+09:00</updated>
+  <updated>2020-10-05T13:38:23+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Flora / 紅]]></title>
+    <link href="https://log.dolice.net/blog/2020/10/05/graphic-flora/"/>
+    <updated>2020-10-05T13:36:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/10/05/graphic-flora</id>
+    <content type="html"><![CDATA[<p><img src="/images/graphics/flora.jpg" title="Flora / 紅" alt="Flora / 紅" /></p>
+
+<p><strong>Flora</strong> / <strong>紅</strong><br />
+Oct 2020 / 366 x 457 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/flora_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Burial at Sea / 水葬]]></title>
@@ -84,25 +103,6 @@ Sep 2020 / 511 x 365 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/astaroth_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Grounding]]></title>
-    <link href="https://log.dolice.net/blog/2020/09/07/graphic-grounding/"/>
-    <updated>2020-09-07T11:43:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/09/07/graphic-grounding</id>
-    <content type="html"><![CDATA[<p><img src="/images/graphics/grounding.jpg" title="Grounding" alt="Grounding" /></p>
-
-<p><strong>Grounding</strong><br />
-Sep 2020 / 725 x 499 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/grounding_print_A0.zip" title="A0">A0</a></li>
 </ul>
 
 ]]></content>

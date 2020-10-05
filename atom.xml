@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-09-29T09:59:34+09:00</updated>
+  <updated>2020-10-05T13:38:23+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Flora / 紅]]></title>
+    <link href="https://log.dolice.net/blog/2020/10/05/graphic-flora/"/>
+    <updated>2020-10-05T13:36:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/10/05/graphic-flora</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/flora.jpg" title="Flora / 紅" alt="Flora / 紅" /></p>
+
+<p><strong>Flora</strong> / <strong>紅</strong><br />
+Oct 2020 / 366 x 457 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/flora_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Burial at Sea / 水葬]]></title>
@@ -372,25 +391,6 @@ Jun 2020 / 502 x 415m mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/the_justice_of_equality_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Aprodite / 豊穣の春]]></title>
-    <link href="https://log.dolice.net/blog/2020/05/31/graphic-aprodite/"/>
-    <updated>2020-05-31T12:01:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/05/31/graphic-aprodite</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/aprodite.jpg" title="Aprodite / 豊穣の春" alt="Aprodite / 豊穣の春" /></p>
-
-<p><strong>Aprodite</strong> / <strong>豊穣の春</strong><br />
-May 2020 / 570 x 352 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/aprodite_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
