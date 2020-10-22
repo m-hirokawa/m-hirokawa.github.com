@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-10-16T12:53:21+09:00</updated>
+  <updated>2020-10-22T13:19:11+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reclining Buddha / 涅槃像]]></title>
+    <link href="https://log.dolice.net/blog/2020/10/22/graphic-reclining-buddha/"/>
+    <updated>2020-10-22T13:17:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/10/22/graphic-reclining-buddha</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/reclining_buddha.jpg" title="Reclining Buddha / 涅槃像" alt="Reclining Buddha / 涅槃像" /></p>
+
+<p><strong>Reclining Buddha</strong> / <strong>涅槃像</strong><br />
+Oct 2020 / 395 x 494 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/reclining_buddha_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Imaginary Dream / 虚数の夢]]></title>
@@ -369,25 +388,6 @@ Jul 2020 / 291 x 364 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://www.jaamzin.com/post/graphic-designer-masaki-hirokawa" title="Graphic designer Masaki Hirokawa">Graphic designer Masaki Hirokawa</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Seraphiel / 光明]]></title>
-    <link href="https://log.dolice.net/blog/2020/07/20/graphic-seraphiel/"/>
-    <updated>2020-07-20T13:28:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/07/20/graphic-seraphiel</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/seraphiel.jpg" title="Seraphiel / 光明" alt="Seraphiel / 光明" /></p>
-
-<p><strong>Seraphiel</strong> / <strong>光明</strong><br />
-Jul 2020 / 359 x 448 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/seraphiel_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
