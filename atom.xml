@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-11-05T16:10:34+09:00</updated>
+  <updated>2020-11-10T12:47:59+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Carminus / カルミヌス]]></title>
+    <link href="https://log.dolice.net/blog/2020/11/10/graphic-carminus/"/>
+    <updated>2020-11-10T12:46:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/11/10/graphic-carminus</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/carminus.jpg" title="Carminus / カルミヌス" alt="Carminus / カルミヌス" /></p>
+
+<p><strong>Carminus</strong> / <strong>カルミヌス</strong><br />
+Nov 2020 / 570 x 352 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/carminus_print_A0.zip" title="A0">A0</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hanyō / 半妖]]></title>
@@ -367,25 +386,6 @@ Aug 2020 / 733 x 453 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/glance_print_A0.zip" title="A0">A0</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The World in the Birdcage / 啓示]]></title>
-    <link href="https://log.dolice.net/blog/2020/08/01/graphic-birdcage/"/>
-    <updated>2020-08-01T11:34:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/08/01/graphic-birdcage</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/birdcage.jpg" title="The World in the Birdcage / 啓示" alt="The World in the Birdcage / 啓示" /></p>
-
-<p><strong>The World in the Birdcage</strong> / <strong>啓示</strong><br />
-Aug 2020 / 648 x 462 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/birdcage_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
