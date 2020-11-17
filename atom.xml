@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2020-11-10T12:47:59+09:00</updated>
+  <updated>2020-11-17T14:07:45+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Archon / 偽神]]></title>
+    <link href="https://log.dolice.net/blog/2020/11/17/graphic-archon/"/>
+    <updated>2020-11-17T13:55:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2020/11/17/graphic-archon</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/archon.jpg" title="Archon / 偽神" alt="Archon / 偽神" /></p>
+
+<p><strong>Archon</strong> / <strong>偽神</strong><br />
+Nov 2020 / 438 x 310 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/archon_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Carminus / カルミヌス]]></title>
@@ -367,25 +386,6 @@ Aug 2020 / 312 x 312 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/oblivion_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Glance / 視線]]></title>
-    <link href="https://log.dolice.net/blog/2020/08/03/graphic-glance/"/>
-    <updated>2020-08-03T16:23:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/08/03/graphic-glance</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/glance.jpg" title="Glance / 視線" alt="Glance / 視線" /></p>
-
-<p><strong>Glance</strong> / <strong>視線</strong><br />
-Aug 2020 / 733 x 453 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/glance_print_A0.zip" title="A0">A0</a></li>
 </ul>
 
 ]]></content>
