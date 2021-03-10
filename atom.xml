@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2021-01-09T06:33:29+09:00</updated>
+  <updated>2021-03-10T11:57:08+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Midori]]></title>
+    <link href="https://log.dolice.net/blog/2021/03/10/graphic-midori/"/>
+    <updated>2021-03-10T11:54:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2021/03/10/graphic-midori</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/midori.jpg" title="Midori" alt="Midori" /></p>
+
+<p><strong>Midori</strong><br />
+Mar 2021 / 243 x 304 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/midori_print_A2.zip" title="A2">A2</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Moirai / 運命の肖像]]></title>
@@ -366,25 +385,6 @@ Sep 2020 / 725 x 499 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/grounding_print_A0.zip" title="A0">A0</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gnosticism / 知恵の実]]></title>
-    <link href="https://log.dolice.net/blog/2020/08/23/graphic-gnosticism/"/>
-    <updated>2020-08-23T15:09:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/08/23/graphic-gnosticism</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/gnosticism.jpg" title="Gnosticism / 知恵の実" alt="Gnosticism / 知恵の実" /></p>
-
-<p><strong>Gnosticism</strong> / <strong>知恵の実</strong><br />
-Aug 2020 / 197 x 305 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/gnosticism_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
