@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2021-07-02T11:14:42+09:00</updated>
+  <updated>2021-07-26T12:49:16+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ariel / 失楽園]]></title>
+    <link href="https://log.dolice.net/blog/2021/07/26/graphic-ariel/"/>
+    <updated>2021-07-26T12:47:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2021/07/26/graphic-ariel</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/ariel.jpg" title="Ariel / 失楽園" alt="Ariel / 失楽園" /></p>
+
+<p><strong>Ariel</strong> / <strong>失楽園</strong><br />
+Jul 2021 / 463 x 331 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/ariel_print_A1.zip" title="A1">A1</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On a spring day / 春の日に]]></title>
@@ -366,25 +385,6 @@ Sep 2020 / 342 x 480 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/vanishing_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Astaroth / 静寂に凍る光]]></title>
-    <link href="https://log.dolice.net/blog/2020/09/12/graphic-astaroth/"/>
-    <updated>2020-09-12T07:12:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/09/12/graphic-astaroth</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/astaroth.jpg" title="Astaroth / 静寂に凍る光" alt="Astaroth / 静寂に凍る光" /></p>
-
-<p><strong>Astaroth</strong> / <strong>静寂に凍る光</strong><br />
-Sep 2020 / 511 x 365 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/astaroth_print_A1.zip" title="A1">A1</a></li>
 </ul>
 
 ]]></content>
