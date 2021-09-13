@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2021-09-04T13:23:15+09:00</updated>
+  <updated>2021-09-13T11:22:57+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Avatar / 化身]]></title>
+    <link href="https://log.dolice.net/blog/2021/09/13/graphic-avatar/"/>
+    <updated>2021-09-13T11:20:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2021/09/13/graphic-avatar</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/avatar.jpg" title="Avatar / 化身" alt="Avatar / 化身" /></p>
+
+<p><strong>Avatar</strong> / <strong>化身</strong><br />
+Sep 2021 / 946 x 585 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/avatar_print_A0.zip" title="A0">A0</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Karma / 業]]></title>
@@ -366,25 +385,6 @@ Sep 2020 / 486 x 300 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/burial_at_sea_print_A2.zip" title="A2">A2</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Somnambulism / 離魂病]]></title>
-    <link href="https://log.dolice.net/blog/2020/09/25/graphic-somnambulism/"/>
-    <updated>2020-09-25T14:39:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/09/25/graphic-somnambulism</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/somnambulism.jpg" title="Somnambulism / 離魂病" alt="Somnambulism / 離魂病" /></p>
-
-<p><strong>Somnambulism</strong> / <strong>離魂病</strong><br />
-Sep 2020 / 371 x 464 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/somnambulism_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
