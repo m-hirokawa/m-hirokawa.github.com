@@ -4,7 +4,7 @@
   <title><![CDATA[廣川政樹ポートフォリオ - Dolice Log]]></title>
   <link href="https://log.dolice.net/atom.xml" rel="self"/>
   <link href="https://log.dolice.net/"/>
-  <updated>2021-09-13T11:22:57+09:00</updated>
+  <updated>2021-09-19T08:56:13+09:00</updated>
   <id>https://log.dolice.net/</id>
   <author>
     <name><![CDATA[Masaki Hirokawa]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Amphiaster / 双星]]></title>
+    <link href="https://log.dolice.net/blog/2021/09/19/graphic-amphiaster/"/>
+    <updated>2021-09-19T08:53:00+09:00</updated>
+    <id>https://log.dolice.net/blog/2021/09/19/graphic-amphiaster</id>
+    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/amphiaster.jpg" title="Amphiaster / 双星" alt="Amphiaster / 双星" /></p>
+
+<p><strong>Amphiaster</strong> / <strong>双星</strong><br />
+Sep 2021 / 604 x 373 mm (500dpi)</p>
+
+<h5>Print file</h5>
+
+<ul>
+<li><a href="https://storage.dolice.cc/graphics/print/amphiaster_print_A0.zip" title="A0">A0</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Avatar / 化身]]></title>
@@ -366,25 +385,6 @@ Oct 2020 / 366 x 457 mm (500dpi)</p>
 
 <ul>
 <li><a href="https://storage.dolice.cc/graphics/print/flora_print_A1.zip" title="A1">A1</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Burial at Sea / 水葬]]></title>
-    <link href="https://log.dolice.net/blog/2020/09/29/graphic-burial-at-sea/"/>
-    <updated>2020-09-29T09:53:00+09:00</updated>
-    <id>https://log.dolice.net/blog/2020/09/29/graphic-burial-at-sea</id>
-    <content type="html"><![CDATA[<p><img src="https://log.dolice.net/images/graphics/burial_at_sea.jpg" title="Burial at Sea / 水葬" alt="Burial at Sea / 水葬" /></p>
-
-<p><strong>Burial at Sea</strong> / <strong>水葬</strong><br />
-Sep 2020 / 486 x 300 mm (500dpi)</p>
-
-<h5>Print file</h5>
-
-<ul>
-<li><a href="https://storage.dolice.cc/graphics/print/burial_at_sea_print_A2.zip" title="A2">A2</a></li>
 </ul>
 
 ]]></content>
